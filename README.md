@@ -100,3 +100,11 @@ npm run data:invoices
 
 Les valeurs rouges et zinc viennent du CSS de production de motortech.fr. Le rouge reste rare : il sert aux boutons
 principaux, à l'onglet actif, aux KPI clés et au seul bandeau d'alerte.
+
+## Aperçu
+
+![Vue d’ensemble](docs/apercu-vue-ensemble.png)
+
+![Factures Amazon Business](docs/apercu-factures.png)
+
+<img src="docs/apercu-mobile.png" width="320" alt="Version mobile" />
