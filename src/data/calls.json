@@ -1,0 +1,359 @@
+{
+  "stats": {
+    "appelsMois": 214,
+    "manquesRecuperes": 37,
+    "rdvIA": 19,
+    "tempsReponse": "2 s",
+    "tauxDecroche": "100 %"
+  },
+  "parCreneau": [
+    {
+      "label": "9h",
+      "n": 31
+    },
+    {
+      "label": "10h",
+      "n": 27
+    },
+    {
+      "label": "11h",
+      "n": 24
+    },
+    {
+      "label": "12h",
+      "n": 22,
+      "ferme": true
+    },
+    {
+      "label": "13h",
+      "n": 19,
+      "ferme": true
+    },
+    {
+      "label": "14h",
+      "n": 26
+    },
+    {
+      "label": "15h",
+      "n": 23
+    },
+    {
+      "label": "16h",
+      "n": 20
+    },
+    {
+      "label": "17h",
+      "n": 14
+    },
+    {
+      "label": "18h+",
+      "n": 8,
+      "ferme": true
+    }
+  ],
+  "parJour": [
+    {
+      "label": "lun.",
+      "n": 41,
+      "ferme": true
+    },
+    {
+      "label": "mar.",
+      "n": 44
+    },
+    {
+      "label": "mer.",
+      "n": 38
+    },
+    {
+      "label": "jeu.",
+      "n": 36
+    },
+    {
+      "label": "ven.",
+      "n": 33
+    },
+    {
+      "label": "sam.",
+      "n": 22
+    }
+  ],
+  "calls": [
+    {
+      "at": "2026-11-19T15:24",
+      "nom": "Laura Perrin",
+      "tel": "06 26 81 43 79",
+      "vehicule": "Kia Ceed GT",
+      "besoin": "e85",
+      "statut": "atelier",
+      "duree": "1 min 47",
+      "resume": "Pris par l'équipe. Suite au rappel d'entretien E85, réserve un changement de filtre à essence.",
+      "id": "call-24"
+    },
+    {
+      "at": "2026-11-19T13:46",
+      "nom": null,
+      "tel": "06 •• •• 72 40",
+      "vehicule": "Volkswagen Golf 7 GTI",
+      "besoin": "stage1",
+      "statut": "rdv",
+      "duree": "2 min 58",
+      "resume": "Stage 1 Golf 7 GTI : 230 → 290 ch. RDV banc réservé, acompte en ligne envoyé par SMS.",
+      "rdv": "2026-12-01T08:30",
+      "id": "call-23"
+    },
+    {
+      "at": "2026-11-19T13:11",
+      "nom": "Yanis Haddad",
+      "tel": "07 44 65 92 30",
+      "vehicule": "Seat Leon Cupra 300",
+      "besoin": "stage2",
+      "statut": "ia",
+      "duree": "2 min 11",
+      "resume": "Upgrade Stage 1 → Stage 2. L'IA a rappelé les prérequis (admission + downpipe homologué) et déclenché le devis.",
+      "id": "call-22"
+    },
+    {
+      "at": "2026-11-19T12:58",
+      "nom": null,
+      "tel": "06 •• •• 19 83",
+      "vehicule": "BMW M2 Competition",
+      "besoin": "stage1",
+      "statut": "ia",
+      "duree": "2 min 33",
+      "resume": "Stage 1 M2 Competition (410 → 500 ch). L'IA a donné le tarif et le délai, devis envoyé par e-mail.",
+      "id": "call-21"
+    },
+    {
+      "at": "2026-11-19T12:34",
+      "nom": "Karim Benali",
+      "tel": "07 66 09 81 42",
+      "vehicule": "Mercedes-AMG A45 S",
+      "besoin": "suivi",
+      "statut": "sms",
+      "duree": "0 min 00",
+      "resume": "Appel manqué pendant la pause. Client avec RDV le 25 nov. : SMS de confirmation et de rappel envoyé.",
+      "sms": "Bonjour Karim, Motortech Toulon. Nous avons manqué votre appel (pause 12h–14h). Votre RDV Stage 1 du mer. 25 nov. à 8h30 est confirmé. On vous rappelle dès 14h.",
+      "id": "call-20"
+    },
+    {
+      "at": "2026-11-19T09:18",
+      "nom": "Benjamin Henry",
+      "tel": "07 90 31 57 24",
+      "vehicule": "Audi RS3 Sportback 8Y",
+      "besoin": "suivi",
+      "statut": "atelier",
+      "duree": "2 min 50",
+      "resume": "Pris par l'équipe. Point sur la commande de pièces de sa RS3.",
+      "id": "call-19"
+    },
+    {
+      "at": "2026-11-18T19:06",
+      "nom": "Guillaume Bertrand",
+      "tel": "06 61 02 58 47",
+      "vehicule": "Porsche Macan S",
+      "besoin": "stage1",
+      "statut": "ia",
+      "duree": "2 min 14",
+      "resume": "Après fermeture. Stage 1 Macan S (354 → 420 ch). Fiche + tarif envoyés par SMS, rappel programmé jeudi 9h.",
+      "id": "call-18"
+    },
+    {
+      "at": "2026-11-18T13:34",
+      "nom": null,
+      "tel": "07 •• •• 27 61",
+      "vehicule": "Non précisé",
+      "besoin": "autre",
+      "statut": "sms",
+      "duree": "0 min 05",
+      "resume": "Appel manqué sans message pendant la pause déjeuner.",
+      "sms": "Bonjour, Motortech Toulon. Nous étions en pause (12h–14h). Dites-nous en un SMS ce dont vous avez besoin, on vous répond dès 14h.",
+      "id": "call-17"
+    },
+    {
+      "at": "2026-11-18T12:52",
+      "nom": "Anthony Colin",
+      "tel": "06 08 26 71 95",
+      "vehicule": "Ford Focus RS Mk3",
+      "besoin": "stage2",
+      "statut": "ia",
+      "duree": "3 min 06",
+      "resume": "Stage 2 Focus RS : l'IA a listé les pièces nécessaires (downpipe, intercooler) et le délai de commande. Devis automatique déclenché.",
+      "id": "call-16"
+    },
+    {
+      "at": "2026-11-18T12:17",
+      "nom": null,
+      "tel": "06 •• •• 55 04",
+      "vehicule": "Dacia Duster TCe 150",
+      "besoin": "e85",
+      "statut": "rdv",
+      "duree": "2 min 39",
+      "resume": "Conversion E85 Duster TCe 150. Cliente non connue, fiche créée automatiquement. Créneau réservé.",
+      "rdv": "2026-11-26T09:00",
+      "id": "call-15"
+    },
+    {
+      "at": "2026-11-18T09:42",
+      "nom": "Alexandre Lefèvre",
+      "tel": "07 18 53 66 94",
+      "vehicule": "Toyota GR Yaris",
+      "besoin": "stage1",
+      "statut": "atelier",
+      "duree": "3 min 25",
+      "resume": "Pris par l'équipe. Question sur l'embrayage d'origine après Stage 1.",
+      "id": "call-14"
+    },
+    {
+      "at": "2026-11-17T15:10",
+      "nom": "Romain Giraud",
+      "tel": "06 63 18 29 54",
+      "vehicule": "Renault Clio 4 RS 200",
+      "besoin": "meca",
+      "statut": "atelier",
+      "duree": "4 min 02",
+      "resume": "Pris par l'équipe. Bruit au freinage, plaquettes à prévoir. RDV jeudi 15h30.",
+      "id": "call-13"
+    },
+    {
+      "at": "2026-11-17T13:27",
+      "nom": "Sébastien André",
+      "tel": "06 40 19 87 25",
+      "vehicule": "BMW 320d G20",
+      "besoin": "stage1",
+      "statut": "rdv",
+      "duree": "2 min 17",
+      "resume": "Stage 1 diesel pour usage autoroute + attelage. L'IA a validé la compatibilité (225 ch / 460 Nm) et réservé un créneau.",
+      "rdv": "2026-11-27T14:00",
+      "id": "call-12"
+    },
+    {
+      "at": "2026-11-17T12:41",
+      "nom": null,
+      "tel": "07 •• •• 92 30",
+      "vehicule": "Kia Ceed GT",
+      "besoin": "e85",
+      "statut": "sms",
+      "duree": "0 min 12",
+      "resume": "Raccroché pendant le message d'accueil. Numéro rapproché d'un lead site (formulaire E85 du 15 nov.).",
+      "sms": "Bonjour, Motortech Toulon (pause déjeuner 12h–14h). Votre demande E85 pour une Ceed GT est bien reçue, devis envoyé par e-mail. Répondez RDV pour réserver.",
+      "id": "call-11"
+    },
+    {
+      "at": "2026-11-17T12:08",
+      "nom": "Hugo Morel",
+      "tel": "06 35 79 14 86",
+      "vehicule": "Volkswagen Golf 8 GTI",
+      "besoin": "stage1",
+      "statut": "ia",
+      "duree": "2 min 48",
+      "resume": "Hésite entre Stage 1 et Stage 1 + admission. L'IA a présenté les deux options (300 ch / 440 Nm) et proposé un devis par le formulaire.",
+      "id": "call-10"
+    },
+    {
+      "at": "2026-11-16T18:44",
+      "nom": "Sophie Bonnet",
+      "tel": "06 98 51 33 07",
+      "vehicule": "Peugeot 308 GT 1.6 THP",
+      "besoin": "suivi",
+      "statut": "sms",
+      "duree": "0 min 00",
+      "resume": "Appel manqué, pas de message. Cliente connue (E85 en mars) : SMS de rappel automatique.",
+      "sms": "Bonjour Sophie, Motortech Toulon. Nous avons manqué votre appel (fermé le lundi). Un conseiller vous rappelle mardi dès 9h. Pour un RDV : motortech.fr/rdv",
+      "id": "call-09"
+    },
+    {
+      "at": "2026-11-16T17:12",
+      "nom": null,
+      "tel": "06 •• •• 08 77",
+      "vehicule": "Yamaha T-Max 530",
+      "besoin": "stage1",
+      "statut": "ia",
+      "duree": "1 min 31",
+      "resume": "Demande si Motortech intervient sur les scooters. Réponse : oui, T-Max 530/560 (reprog + banc). Tarif indicatif donné.",
+      "id": "call-08"
+    },
+    {
+      "at": "2026-11-16T15:58",
+      "nom": "Karim Benali",
+      "tel": "07 66 09 81 42",
+      "vehicule": "Mercedes-AMG A45 S",
+      "besoin": "stage1",
+      "statut": "rdv",
+      "duree": "2 min 26",
+      "resume": "Stage 1 A45 S. Gains annoncés : 470 ch / 580 Nm. Créneau banc choisi pour la semaine prochaine.",
+      "rdv": "2026-11-25T08:30",
+      "id": "call-07"
+    },
+    {
+      "at": "2026-11-16T14:36",
+      "nom": "Maxime Chevalier",
+      "tel": "06 31 84 62 75",
+      "vehicule": "Cupra Formentor VZ5",
+      "besoin": "devis",
+      "statut": "ia",
+      "duree": "1 min 52",
+      "resume": "Relance sur son devis Stage 1 du 12 nov. L'IA a confirmé le tarif (690,00 €) et renvoyé le lien d'acceptation.",
+      "id": "call-06"
+    },
+    {
+      "at": "2026-11-16T11:03",
+      "nom": null,
+      "tel": "06 •• •• 41 92",
+      "vehicule": "Peugeot 308 GT 1.6 THP",
+      "besoin": "e85",
+      "statut": "sms",
+      "duree": "0 min 19",
+      "resume": "Appel court, message vocal laissé : « c'est pour l'éthanol sur une 308 ». SMS avec simulateur E85 envoyé.",
+      "sms": "Bonjour, Motortech Toulon. Pour votre 308 GT : conversion E85 dès 890,00 €, économie moyenne de 45 €/plein. Simulation et devis : motortech.fr/e85. À bientôt !",
+      "id": "call-05"
+    },
+    {
+      "at": "2026-11-16T10:21",
+      "nom": "Damien Vincent",
+      "tel": "06 57 08 39 62",
+      "vehicule": "Renault Mégane 4 RS Trophy",
+      "besoin": "stage1",
+      "statut": "ia",
+      "duree": "2 min 05",
+      "resume": "Questions sur la garantie après Stage 1 et le retour d'origine. Réponses données, fiche Mégane RS envoyée par SMS. Rappel souhaité par le gérant pour le prix final.",
+      "id": "call-04"
+    },
+    {
+      "at": "2026-11-16T09:47",
+      "nom": "Florian Girard",
+      "tel": "06 77 48 30 12",
+      "vehicule": "Renault Trafic III dCi 145",
+      "besoin": "fap",
+      "statut": "rdv",
+      "duree": "3 min 12",
+      "resume": "Voyant moteur + perte de puissance sur son utilitaire. L'IA a qualifié un FAP colmaté (187 000 km, trajets courts). RDV nettoyage FAP fixé.",
+      "rdv": "2026-11-17T09:00",
+      "id": "call-03"
+    },
+    {
+      "at": "2026-11-16T09:14",
+      "nom": null,
+      "tel": "07 •• •• 63 18",
+      "vehicule": "Audi RS3 8Y 2023",
+      "besoin": "stage1",
+      "statut": "sms",
+      "duree": "0 min 38",
+      "resume": "Raccroché avant la fin. Demande d'infos Stage 1 RS3 8Y détectée dans les premières secondes.",
+      "sms": "Bonjour, Motortech Toulon. Vous nous avez appelés lundi (fermé). Stage 1 RS3 8Y : 480 ch / 600 Nm, devis en 1 min ici : motortech.fr/devis. Ou répondez à ce SMS pour être rappelé.",
+      "id": "call-02"
+    },
+    {
+      "at": "2026-11-16T08:52",
+      "nom": "Clément Dupuis",
+      "tel": "06 83 75 21 46",
+      "vehicule": "Volkswagen Polo GTI 2019",
+      "besoin": "e85",
+      "statut": "rdv",
+      "duree": "2 min 41",
+      "resume": "Souhaite passer sa Polo GTI à l'E85. L'IA a expliqué la conversion par reprogrammation (pas de boîtier) et l'homologation. Créneau proposé et accepté.",
+      "rdv": "2026-11-24T09:00",
+      "id": "call-01"
+    }
+  ]
+}

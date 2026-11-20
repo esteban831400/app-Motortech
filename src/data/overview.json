@@ -1,0 +1,283 @@
+{
+  "kpis": {
+    "caMois": 38420,
+    "caMoisN1": 34310,
+    "rdvSemaine": 23,
+    "rdvSemaineIA": 9,
+    "devisAttente": 14,
+    "devisAttenteMontant": 11860,
+    "appelsRecuperes": 37,
+    "appelsRecuperesRdv": 19
+  },
+  "revenue": [
+    {
+      "key": "2025-12",
+      "label": "déc.",
+      "n": 34200,
+      "n1": 29800
+    },
+    {
+      "key": "2026-01",
+      "label": "janv.",
+      "n": 29600,
+      "n1": 25100
+    },
+    {
+      "key": "2026-02",
+      "label": "févr.",
+      "n": 33800,
+      "n1": 28700
+    },
+    {
+      "key": "2026-03",
+      "label": "mars",
+      "n": 41900,
+      "n1": 35200
+    },
+    {
+      "key": "2026-04",
+      "label": "avr.",
+      "n": 47300,
+      "n1": 39800
+    },
+    {
+      "key": "2026-05",
+      "label": "mai",
+      "n": 52600,
+      "n1": 44100
+    },
+    {
+      "key": "2026-06",
+      "label": "juin",
+      "n": 58900,
+      "n1": 49300
+    },
+    {
+      "key": "2026-07",
+      "label": "juil.",
+      "n": 61400,
+      "n1": 52800
+    },
+    {
+      "key": "2026-08",
+      "label": "août",
+      "n": 43700,
+      "n1": 38900
+    },
+    {
+      "key": "2026-09",
+      "label": "sept.",
+      "n": 49800,
+      "n1": 41600
+    },
+    {
+      "key": "2026-10",
+      "label": "oct.",
+      "n": 46850,
+      "n1": 40200
+    },
+    {
+      "key": "2026-11",
+      "label": "nov.",
+      "n": 38420,
+      "n1": 34310,
+      "partiel": true
+    }
+  ],
+  "prestations": [
+    {
+      "key": "stage1",
+      "montant": 14600,
+      "nombre": 27
+    },
+    {
+      "key": "e85",
+      "montant": 8070,
+      "nombre": 9
+    },
+    {
+      "key": "stage2",
+      "montant": 6530,
+      "nombre": 7
+    },
+    {
+      "key": "meca",
+      "montant": 4990,
+      "nombre": 16
+    },
+    {
+      "key": "fap",
+      "montant": 4230,
+      "nombre": 13
+    }
+  ],
+  "planning": [
+    {
+      "debut": "08:30",
+      "fin": "10:00",
+      "poste": "Banc",
+      "client": "N. Fabre",
+      "vehicule": "BMW M140i xDrive",
+      "prestation": "stage1",
+      "detail": "Stage 1 + passage au banc",
+      "statut": "termine",
+      "note": "402 ch / 578 Nm mesurés"
+    },
+    {
+      "debut": "09:00",
+      "fin": "11:30",
+      "poste": "Pont 1",
+      "client": "P. Blanc",
+      "vehicule": "Peugeot 308 GT BlueHDi 180",
+      "prestation": "fap",
+      "detail": "Nettoyage FAP + régénération",
+      "statut": "termine",
+      "note": "Contre-pression OK"
+    },
+    {
+      "debut": "10:00",
+      "fin": "17:30",
+      "poste": "Pont 2",
+      "client": "T. Roux",
+      "vehicule": "Audi RS3 Sportback 8V",
+      "prestation": "stage2",
+      "detail": "Stage 2 · admission + intercooler",
+      "statut": "en_cours",
+      "note": "Pièces reçues (Amazon) ✓"
+    },
+    {
+      "debut": "14:00",
+      "fin": "15:30",
+      "poste": "Banc",
+      "client": "É. Garnier",
+      "vehicule": "Ford Fiesta ST 200",
+      "prestation": "e85",
+      "detail": "Conversion E85 + cartographie",
+      "statut": "termine",
+      "note": "231 ch en E85"
+    },
+    {
+      "debut": "15:30",
+      "fin": "16:30",
+      "poste": "Pont 1",
+      "client": "R. Giraud",
+      "vehicule": "Renault Clio 4 RS 200",
+      "prestation": "meca",
+      "detail": "Plaquettes Ferodo DS2500 + purge",
+      "statut": "termine",
+      "note": ""
+    },
+    {
+      "debut": "16:30",
+      "fin": "17:30",
+      "poste": "Banc",
+      "client": "L. Lambert",
+      "vehicule": "Yamaha T-Max 560",
+      "prestation": "stage1",
+      "detail": "Reprogrammation + banc",
+      "statut": "en_cours",
+      "note": ""
+    },
+    {
+      "debut": "17:45",
+      "fin": "18:00",
+      "poste": "Accueil",
+      "client": "N. Fabre",
+      "vehicule": "BMW M140i xDrive",
+      "prestation": "stage1",
+      "detail": "Restitution + remise de la courbe",
+      "statut": "a_venir",
+      "note": ""
+    },
+    {
+      "debut": "18:00",
+      "fin": "18:30",
+      "poste": "Accueil",
+      "client": "H. Morel",
+      "vehicule": "Volkswagen Golf 8 GTI",
+      "prestation": "stage1",
+      "detail": "Visite conseil avant Stage 1",
+      "statut": "a_venir",
+      "note": "Devis envoyé à 15h52"
+    }
+  ],
+  "activity": [
+    {
+      "at": "2026-11-19T16:38",
+      "type": "dyno",
+      "text": "Courbe du banc envoyée à É. Garnier – Fiesta ST E85 (+31 ch)",
+      "workflow": "Envoi courbe banc"
+    },
+    {
+      "at": "2026-11-19T16:21",
+      "type": "warning",
+      "text": "Facture Amazon 403-9793184 à vérifier : immatriculation inconnue",
+      "workflow": "Factures Amazon Business"
+    },
+    {
+      "at": "2026-11-19T15:52",
+      "type": "quote",
+      "text": "Devis envoyé à H. Morel – Golf 8 GTI Stage 1",
+      "workflow": "Devis automatique"
+    },
+    {
+      "at": "2026-11-19T14:46",
+      "type": "rdv",
+      "text": "RDV pris par l'IA : C. Dupuis – Polo GTI E85, mar. 24 nov. à 9h00",
+      "workflow": "Standard IA"
+    },
+    {
+      "at": "2026-11-19T13:12",
+      "type": "call",
+      "text": "Appel de 13h11 traité par l'IA – devis Stage 1 Cupra Leon",
+      "workflow": "Standard IA"
+    },
+    {
+      "at": "2026-11-19T12:35",
+      "type": "sms",
+      "text": "Appel de 12h34 rappelé par SMS – K. Benali, A45 S",
+      "workflow": "SMS hors horaires"
+    },
+    {
+      "at": "2026-11-19T11:10",
+      "type": "review",
+      "text": "Demande d'avis Google envoyée à P. Blanc – 308 GT",
+      "workflow": "Demande d'avis"
+    },
+    {
+      "at": "2026-11-19T10:04",
+      "type": "quote",
+      "text": "Devis accepté par M. Chevalier – Formentor VZ5 Stage 1 (690,00 €)",
+      "workflow": "Relances devis"
+    },
+    {
+      "at": "2026-11-19T09:30",
+      "type": "invoice",
+      "text": "12 factures Amazon lues et classées dans Drive",
+      "workflow": "Factures Amazon Business"
+    },
+    {
+      "at": "2026-11-19T08:00",
+      "type": "report",
+      "text": "Rapport quotidien envoyé au gérant (CA veille : 2 340,00 €)",
+      "workflow": "Rapport quotidien"
+    },
+    {
+      "at": "2026-11-18T18:40",
+      "type": "event",
+      "text": "Rappel J-10 envoyé aux 24 inscrits de la Journée banc de puissance",
+      "workflow": "Rappels événements"
+    },
+    {
+      "at": "2026-11-18T17:05",
+      "type": "e85",
+      "text": "Rappel entretien E85 envoyé à L. Perrin – Ceed GT (filtre à essence)",
+      "workflow": "Rappels d'entretien"
+    }
+  ],
+  "alerte": {
+    "titre": "Journée banc de puissance du 28 nov. : complet",
+    "texte": "7 personnes en liste d'attente. Ouvrir une 2e session le samedi 5 déc. ?",
+    "action": "Ouvrir une session"
+  }
+}

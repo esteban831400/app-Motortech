@@ -1,0 +1,115 @@
+{
+  "mois": "Novembre 2026 (au 19)",
+  "centres": [
+    {
+      "ville": "Toulon",
+      "region": "La Garde (83)",
+      "leads": 186,
+      "devis": 61,
+      "conversion": 41,
+      "ca": 38420,
+      "evol": 12,
+      "me": true,
+      "auto": true
+    },
+    {
+      "ville": "Nice",
+      "region": "Alpes-Maritimes (06)",
+      "leads": 203,
+      "devis": 58,
+      "conversion": 34,
+      "ca": 41260,
+      "evol": 6
+    },
+    {
+      "ville": "Paris-Sud",
+      "region": "Essonne (91)",
+      "leads": 241,
+      "devis": 66,
+      "conversion": 31,
+      "ca": 44980,
+      "evol": 3
+    },
+    {
+      "ville": "Biarritz",
+      "region": "Pyrénées-Atlantiques (64)",
+      "leads": 132,
+      "devis": 39,
+      "conversion": 33,
+      "ca": 26740,
+      "evol": 4
+    },
+    {
+      "ville": "Perpignan",
+      "region": "Pyrénées-Orientales (66)",
+      "leads": 118,
+      "devis": 35,
+      "conversion": 30,
+      "ca": 22910,
+      "evol": -2
+    },
+    {
+      "ville": "Manosque",
+      "region": "Alpes-de-Haute-Provence (04)",
+      "leads": 94,
+      "devis": 28,
+      "conversion": 32,
+      "ca": 18460,
+      "evol": 5
+    },
+    {
+      "ville": "Bourg-en-Bresse",
+      "region": "Ain (01)",
+      "leads": 101,
+      "devis": 30,
+      "conversion": 29,
+      "ca": 19230,
+      "evol": 1
+    },
+    {
+      "ville": "Reims",
+      "region": "Marne (51)",
+      "leads": 127,
+      "devis": 37,
+      "conversion": 30,
+      "ca": 24120,
+      "evol": -4
+    },
+    {
+      "ville": "Rouen",
+      "region": "Seine-Maritime (76)",
+      "leads": 139,
+      "devis": 41,
+      "conversion": 32,
+      "ca": 27580,
+      "evol": 2
+    },
+    {
+      "ville": "Normandie",
+      "region": "Calvados (14)",
+      "leads": 88,
+      "devis": 25,
+      "conversion": 28,
+      "ca": 16390,
+      "evol": -1
+    },
+    {
+      "ville": "Liège",
+      "region": "Belgique",
+      "leads": 149,
+      "devis": 43,
+      "conversion": 33,
+      "ca": 29870,
+      "evol": 7
+    },
+    {
+      "ville": "Suisse",
+      "region": "Genève",
+      "leads": 112,
+      "devis": 34,
+      "conversion": 35,
+      "ca": 33150,
+      "evol": 9
+    }
+  ]
+}

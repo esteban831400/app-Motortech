@@ -1,0 +1,6254 @@
+[
+  {
+    "id": "inv-403-5955183-2755338",
+    "date": "2026-11-19",
+    "recuLe": "2026-11-19T13:21",
+    "commande": "403-5955183-2755338",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Gants nitrile noirs taille L (boîte de 100)",
+        "ref": "NIT-L100",
+        "qte": 1,
+        "puTtc": 12.9
+      },
+      {
+        "designation": "Booster de démarrage NOCO GB70",
+        "ref": "NOCO-GB70",
+        "qte": 1,
+        "puTtc": 249
+      },
+      {
+        "designation": "Housses de siège jetables (rouleau de 500)",
+        "ref": "HSJ-500",
+        "qte": 1,
+        "puTtc": 39.9
+      }
+    ],
+    "ht": 251.5,
+    "tva": 50.3,
+    "ttc": 301.8,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-5955183-2755338.pdf",
+    "fichier": "2026-11-19_StockAtelier_403-5955183.pdf",
+    "dossierDrive": "Factures/2026/11 – Stock atelier"
+  },
+  {
+    "id": "inv-403-9793184-7609385",
+    "date": "2026-11-19",
+    "recuLe": "2026-11-19T11:10",
+    "commande": "403-9793184-7609385",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Capteur de pression de suralimentation Bosch",
+        "ref": "BSH-0281006059",
+        "qte": 1,
+        "puTtc": 79.9
+      },
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      }
+    ],
+    "ht": 110.67,
+    "tva": 22.13,
+    "ttc": 132.8,
+    "clientId": null,
+    "bonDeCommande": "FA-713-RS ROUX",
+    "statut": "a_verifier",
+    "motif": "Immatriculation saisie inconnue (FA-713-RS) — proche de FA-731-RS",
+    "suggestionClientId": "c-roux",
+    "confiance": 56,
+    "fichierOrigine": "Facture_403-9793184-7609385.pdf",
+    "fichier": "2026-11-19_A-VERIFIER_403-9793184.pdf",
+    "dossierDrive": "Factures/2026/11 – À vérifier"
+  },
+  {
+    "id": "inv-403-2459267-7090983",
+    "date": "2026-11-18",
+    "recuLe": "2026-11-18T16:26",
+    "commande": "403-2459267-7090983",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 32.08,
+    "tva": 6.42,
+    "ttc": 38.5,
+    "clientId": null,
+    "bonDeCommande": "",
+    "statut": "a_verifier",
+    "motif": "Champ « n° de bon de commande » vide sur Amazon Business",
+    "suggestionClientId": "c-giraud",
+    "confiance": 53,
+    "fichierOrigine": "Facture_403-2459267-7090983.pdf",
+    "fichier": "2026-11-18_A-VERIFIER_403-2459267.pdf",
+    "dossierDrive": "Factures/2026/11 – À vérifier"
+  },
+  {
+    "id": "inv-403-1423128-6893478",
+    "date": "2026-11-17",
+    "recuLe": "2026-11-17T20:36",
+    "commande": "403-1423128-6893478",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Joint de bride FAP (lot de 2)",
+        "ref": "ELR-FAP-G2",
+        "qte": 1,
+        "puTtc": 16.9
+      },
+      {
+        "designation": "Sonde de température gaz d'échappement",
+        "ref": "NGK-93245",
+        "qte": 1,
+        "puTtc": 58
+      }
+    ],
+    "ht": 62.42,
+    "tva": 12.48,
+    "ttc": 74.9,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-1423128-6893478.pdf",
+    "fichier": "2026-11-17_Gauthier_3008_403-1423128.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-7749712-5914755",
+    "date": "2026-11-17",
+    "recuLe": "2026-11-17T16:49",
+    "commande": "403-7749712-5914755",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 104,
+    "tva": 20.8,
+    "ttc": 124.8,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-7749712-5914755.pdf",
+    "fichier": "2026-11-17_Martin_GolfGTI_403-7749712.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-8110275-6545886",
+    "date": "2026-11-17",
+    "recuLe": "2026-11-17T16:35",
+    "commande": "403-8110275-6545886",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Dégraissant moteur – 5 L",
+        "ref": "DGM-5L",
+        "qte": 1,
+        "puTtc": 26.9
+      },
+      {
+        "designation": "Câble OBD2 rallonge 1,5 m",
+        "ref": "OBD-EXT15",
+        "qte": 2,
+        "puTtc": 14.99
+      }
+    ],
+    "ht": 47.4,
+    "tva": 9.48,
+    "ttc": 56.88,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-8110275-6545886.pdf",
+    "fichier": "2026-11-17_StockAtelier_403-8110275.pdf",
+    "dossierDrive": "Factures/2026/11 – Stock atelier"
+  },
+  {
+    "id": "inv-403-9578791-9876567",
+    "date": "2026-11-17",
+    "recuLe": "2026-11-17T11:19",
+    "commande": "403-9578791-9876567",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 72,
+    "tva": 14.4,
+    "ttc": 86.4,
+    "clientId": null,
+    "bonDeCommande": "RS3 HENRY",
+    "statut": "a_verifier",
+    "motif": "Immatriculation absente, deux RS3 en atelier cette semaine",
+    "suggestionClientId": "c-henry",
+    "confiance": 61,
+    "fichierOrigine": "Facture_403-9578791-9876567.pdf",
+    "fichier": "2026-11-17_A-VERIFIER_403-9578791.pdf",
+    "dossierDrive": "Factures/2026/11 – À vérifier"
+  },
+  {
+    "id": "inv-403-9427895-1219781",
+    "date": "2026-11-17",
+    "recuLe": "2026-11-17T09:59",
+    "commande": "403-9427895-1219781",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Plaquettes Ferodo DS2500 avant",
+        "ref": "FER-FCP4664H",
+        "qte": 1,
+        "puTtc": 134
+      },
+      {
+        "designation": "Filtre à gazole Bosch F 026 402 062",
+        "ref": "BSH-F026402062",
+        "qte": 2,
+        "puTtc": 24.9
+      },
+      {
+        "designation": "Disques Brembo Max ventilés (paire)",
+        "ref": "BRE-09.A820.75",
+        "qte": 1,
+        "puTtc": 189
+      }
+    ],
+    "ht": 310.67,
+    "tva": 62.13,
+    "ttc": 372.8,
+    "clientId": "c-masson",
+    "bonDeCommande": "EW-118-MC MASSON",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-9427895-1219781.pdf",
+    "fichier": "2026-11-17_Masson_C220d_403-9427895.pdf",
+    "dossierDrive": "Clients/Masson – EW-118-MC"
+  },
+  {
+    "id": "inv-403-6882510-7817162",
+    "date": "2026-11-16",
+    "recuLe": "2026-11-16T21:13",
+    "commande": "403-6882510-7817162",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Câble OBD2 rallonge 1,5 m",
+        "ref": "OBD-EXT15",
+        "qte": 1,
+        "puTtc": 14.99
+      }
+    ],
+    "ht": 12.49,
+    "tva": 2.5,
+    "ttc": 14.99,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-6882510-7817162.pdf",
+    "fichier": "2026-11-16_StockAtelier_403-6882510.pdf",
+    "dossierDrive": "Factures/2026/11 – Stock atelier"
+  },
+  {
+    "id": "inv-403-9773978-3532382",
+    "date": "2026-11-16",
+    "recuLe": "2026-11-16T17:22",
+    "commande": "403-9773978-3532382",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 58.25,
+    "tva": 11.65,
+    "ttc": 69.9,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-9773978-3532382.pdf",
+    "fichier": "2026-11-16_Martin_GolfGTI_403-9773978.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-8157335-2570495",
+    "date": "2026-11-16",
+    "recuLe": "2026-11-16T13:02",
+    "commande": "403-8157335-2570495",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 54.57,
+    "tva": 10.91,
+    "ttc": 65.48,
+    "clientId": "c-faure",
+    "bonDeCommande": "FK-668-JC FAURE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-8157335-2570495.pdf",
+    "fichier": "2026-11-16_Faure_MiniJCW_403-8157335.pdf",
+    "dossierDrive": "Clients/Faure – FK-668-JC"
+  },
+  {
+    "id": "inv-403-7989995-7201795",
+    "date": "2026-11-16",
+    "recuLe": "2026-11-16T12:31",
+    "commande": "403-7989995-7201795",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 90.33,
+    "tva": 18.07,
+    "ttc": 108.4,
+    "clientId": "c-fabre",
+    "bonDeCommande": "EV-604-MN FABRE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-7989995-7201795.pdf",
+    "fichier": "2026-11-16_Fabre_M140i_403-7989995.pdf",
+    "dossierDrive": "Clients/Fabre – EV-604-MN"
+  },
+  {
+    "id": "inv-403-1388752-1867774",
+    "date": "2026-11-16",
+    "recuLe": "2026-11-16T11:48",
+    "commande": "403-1388752-1867774",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 72,
+    "tva": 14.4,
+    "ttc": 86.4,
+    "clientId": "c-henry",
+    "bonDeCommande": "GL-302-RS HENRY",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-1388752-1867774.pdf",
+    "fichier": "2026-11-16_Henry_RS3_403-1388752.pdf",
+    "dossierDrive": "Clients/Henry – GL-302-RS"
+  },
+  {
+    "id": "inv-403-2871013-2291660",
+    "date": "2026-11-16",
+    "recuLe": "2026-11-16T11:36",
+    "commande": "403-2871013-2291660",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Housses de siège jetables (rouleau de 500)",
+        "ref": "HSJ-500",
+        "qte": 1,
+        "puTtc": 39.9
+      }
+    ],
+    "ht": 33.25,
+    "tva": 6.65,
+    "ttc": 39.9,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-2871013-2291660.pdf",
+    "fichier": "2026-11-16_StockAtelier_403-2871013.pdf",
+    "dossierDrive": "Factures/2026/11 – Stock atelier"
+  },
+  {
+    "id": "inv-403-3349025-6593948",
+    "date": "2026-11-16",
+    "recuLe": "2026-11-16T09:53",
+    "commande": "403-3349025-6593948",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      },
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      }
+    ],
+    "ht": 134.92,
+    "tva": 26.98,
+    "ttc": 161.9,
+    "clientId": "c-mathieu",
+    "bonDeCommande": "GD-114-DU MATHIEU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-3349025-6593948.pdf",
+    "fichier": "2026-11-16_Mathieu_Duster_403-3349025.pdf",
+    "dossierDrive": "Clients/Mathieu – GD-114-DU"
+  },
+  {
+    "id": "inv-403-3286918-2113394",
+    "date": "2026-11-16",
+    "recuLe": "2026-11-16T09:08",
+    "commande": "403-3286918-2113394",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 130.25,
+    "tva": 26.05,
+    "ttc": 156.3,
+    "clientId": "c-benali",
+    "bonDeCommande": "FY-120-AM BENALI",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-3286918-2113394.pdf",
+    "fichier": "2026-11-16_Benali_A45S_403-3286918.pdf",
+    "dossierDrive": "Clients/Benali – FY-120-AM"
+  },
+  {
+    "id": "inv-403-7516982-3271316",
+    "date": "2026-11-16",
+    "recuLe": "2026-11-16T08:40",
+    "commande": "403-7516982-3271316",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 45.75,
+    "tva": 9.15,
+    "ttc": 54.9,
+    "clientId": "c-lambert",
+    "bonDeCommande": "GB-077-ZL LAMBERT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-7516982-3271316.pdf",
+    "fichier": "2026-11-16_Lambert_TMax_403-7516982.pdf",
+    "dossierDrive": "Clients/Lambert – GB-077-ZL"
+  },
+  {
+    "id": "inv-403-1234567-5528391",
+    "date": "2026-11-14",
+    "recuLe": "2026-11-14T15:51",
+    "commande": "403-1234567-5528391",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 32.08,
+    "tva": 6.42,
+    "ttc": 38.5,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-1234567-5528391.pdf",
+    "fichier": "2026-11-14_Martin_GolfGTI_403-1234567.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-3808216-6492944",
+    "date": "2026-11-14",
+    "recuLe": "2026-11-14T13:31",
+    "commande": "403-3808216-6492944",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 11.24,
+    "tva": 2.25,
+    "ttc": 13.49,
+    "clientId": "c-lambert",
+    "bonDeCommande": "GB-077-ZL LAMBERT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-3808216-6492944.pdf",
+    "fichier": "2026-11-14_Lambert_TMax_403-3808216.pdf",
+    "dossierDrive": "Clients/Lambert – GB-077-ZL"
+  },
+  {
+    "id": "inv-403-5584992-9915447",
+    "date": "2026-11-13",
+    "recuLe": "2026-11-13T17:54",
+    "commande": "403-5584992-9915447",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Additif FAP Eolys PowerFlex – 1 L",
+        "ref": "EOL-9736",
+        "qte": 1,
+        "puTtc": 49.9
+      }
+    ],
+    "ht": 41.58,
+    "tva": 8.32,
+    "ttc": 49.9,
+    "clientId": "c-blanc",
+    "bonDeCommande": "EN-904-GT BLANC",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-5584992-9915447.pdf",
+    "fichier": "2026-11-13_Blanc_308GT_403-5584992.pdf",
+    "dossierDrive": "Clients/Blanc – EN-904-GT"
+  },
+  {
+    "id": "inv-403-5870376-7550786",
+    "date": "2026-11-13",
+    "recuLe": "2026-11-13T16:53",
+    "commande": "403-5870376-7550786",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 100.32,
+    "tva": 20.06,
+    "ttc": 120.38,
+    "clientId": "c-faure",
+    "bonDeCommande": "FK-668-JC FAURE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-5870376-7550786.pdf",
+    "fichier": "2026-11-13_Faure_MiniJCW_403-5870376.pdf",
+    "dossierDrive": "Clients/Faure – FK-668-JC"
+  },
+  {
+    "id": "inv-403-7257847-9234318",
+    "date": "2026-11-13",
+    "recuLe": "2026-11-13T11:36",
+    "commande": "403-7257847-9234318",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 136.08,
+    "tva": 27.22,
+    "ttc": 163.3,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-7257847-9234318.pdf",
+    "fichier": "2026-11-13_Martin_GolfGTI_403-7257847.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-8729726-7228500",
+    "date": "2026-11-13",
+    "recuLe": "2026-11-13T10:29",
+    "commande": "403-8729726-7228500",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      }
+    ],
+    "ht": 44.08,
+    "tva": 8.82,
+    "ttc": 52.9,
+    "clientId": "c-moreau",
+    "bonDeCommande": "EX-512-RR MOREAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-8729726-7228500.pdf",
+    "fichier": "2026-11-13_Moreau_GolfR_403-8729726.pdf",
+    "dossierDrive": "Clients/Moreau – EX-512-RR"
+  },
+  {
+    "id": "inv-403-1048997-5832663",
+    "date": "2026-11-12",
+    "recuLe": "2026-11-12T09:41",
+    "commande": "403-1048997-5832663",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Câble OBD2 rallonge 1,5 m",
+        "ref": "OBD-EXT15",
+        "qte": 2,
+        "puTtc": 14.99
+      },
+      {
+        "designation": "Booster de démarrage NOCO GB70",
+        "ref": "NOCO-GB70",
+        "qte": 1,
+        "puTtc": 249
+      },
+      {
+        "designation": "Bobine papier d'atelier 2 plis",
+        "ref": "PAP-1000",
+        "qte": 1,
+        "puTtc": 34.5
+      }
+    ],
+    "ht": 261.23,
+    "tva": 52.25,
+    "ttc": 313.48,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-1048997-5832663.pdf",
+    "fichier": "2026-11-12_StockAtelier_403-1048997.pdf",
+    "dossierDrive": "Factures/2026/11 – Stock atelier"
+  },
+  {
+    "id": "inv-403-8634195-3588183",
+    "date": "2026-11-12",
+    "recuLe": "2026-11-12T08:36",
+    "commande": "403-8634195-3588183",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Câble OBD2 rallonge 1,5 m",
+        "ref": "OBD-EXT15",
+        "qte": 2,
+        "puTtc": 14.99
+      },
+      {
+        "designation": "Housses de siège jetables (rouleau de 500)",
+        "ref": "HSJ-500",
+        "qte": 1,
+        "puTtc": 39.9
+      }
+    ],
+    "ht": 58.23,
+    "tva": 11.65,
+    "ttc": 69.88,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-8634195-3588183.pdf",
+    "fichier": "2026-11-12_StockAtelier_403-8634195.pdf",
+    "dossierDrive": "Factures/2026/11 – Stock atelier"
+  },
+  {
+    "id": "inv-403-7488094-6871374",
+    "date": "2026-11-12",
+    "recuLe": "2026-11-12T07:41",
+    "commande": "403-7488094-6871374",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      },
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      },
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      }
+    ],
+    "ht": 172.33,
+    "tva": 34.47,
+    "ttc": 206.8,
+    "clientId": "c-perrin",
+    "bonDeCommande": "FB-388-KG PERRIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-7488094-6871374.pdf",
+    "fichier": "2026-11-12_Perrin_CeedGT_403-7488094.pdf",
+    "dossierDrive": "Clients/Perrin – FB-388-KG"
+  },
+  {
+    "id": "inv-403-6463822-6733743",
+    "date": "2026-11-11",
+    "recuLe": "2026-11-11T18:17",
+    "commande": "403-6463822-6733743",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 32.08,
+    "tva": 6.42,
+    "ttc": 38.5,
+    "clientId": "c-bertrand",
+    "bonDeCommande": "FM-512-PM BERTRAND",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-6463822-6733743.pdf",
+    "fichier": "2026-11-11_Bertrand_MacanS_403-6463822.pdf",
+    "dossierDrive": "Clients/Bertrand – FM-512-PM"
+  },
+  {
+    "id": "inv-403-9063799-5964558",
+    "date": "2026-11-11",
+    "recuLe": "2026-11-11T17:52",
+    "commande": "403-9063799-5964558",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 98.17,
+    "tva": 19.63,
+    "ttc": 117.8,
+    "clientId": "c-chevalier",
+    "bonDeCommande": "GK-845-VZ CHEVALIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-9063799-5964558.pdf",
+    "fichier": "2026-11-11_Chevalier_FormentorVZ5_403-9063799.pdf",
+    "dossierDrive": "Clients/Chevalier – GK-845-VZ"
+  },
+  {
+    "id": "inv-403-5270684-9804046",
+    "date": "2026-11-11",
+    "recuLe": "2026-11-11T14:26",
+    "commande": "403-5270684-9804046",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Additif FAP Eolys PowerFlex – 1 L",
+        "ref": "EOL-9736",
+        "qte": 1,
+        "puTtc": 49.9
+      },
+      {
+        "designation": "Capteur pression différentielle FAP Bosch",
+        "ref": "BSH-0281006082",
+        "qte": 1,
+        "puTtc": 64.9
+      },
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 2,
+        "puTtc": 27.9
+      }
+    ],
+    "ht": 142.17,
+    "tva": 28.43,
+    "ttc": 170.6,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-5270684-9804046.pdf",
+    "fichier": "2026-11-11_Gauthier_3008_403-5270684.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-4463476-8559874",
+    "date": "2026-11-11",
+    "recuLe": "2026-11-11T12:19",
+    "commande": "403-4463476-8559874",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 58.25,
+    "tva": 11.65,
+    "ttc": 69.9,
+    "clientId": "c-fabre",
+    "bonDeCommande": "EV-604-MN FABRE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-4463476-8559874.pdf",
+    "fichier": "2026-11-11_Fabre_M140i_403-4463476.pdf",
+    "dossierDrive": "Clients/Fabre – EV-604-MN"
+  },
+  {
+    "id": "inv-403-9791405-9412699",
+    "date": "2026-11-11",
+    "recuLe": "2026-11-11T11:41",
+    "commande": "403-9791405-9412699",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Câble OBD2 rallonge 1,5 m",
+        "ref": "OBD-EXT15",
+        "qte": 1,
+        "puTtc": 14.99
+      },
+      {
+        "designation": "Booster de démarrage NOCO GB70",
+        "ref": "NOCO-GB70",
+        "qte": 1,
+        "puTtc": 249
+      },
+      {
+        "designation": "Nettoyant frein Würth – 500 ml (lot de 12)",
+        "ref": "WUR-089010",
+        "qte": 1,
+        "puTtc": 59.9
+      }
+    ],
+    "ht": 269.91,
+    "tva": 53.98,
+    "ttc": 323.89,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-9791405-9412699.pdf",
+    "fichier": "2026-11-11_StockAtelier_403-9791405.pdf",
+    "dossierDrive": "Factures/2026/11 – Stock atelier"
+  },
+  {
+    "id": "inv-403-1344385-4859735",
+    "date": "2026-11-11",
+    "recuLe": "2026-11-11T07:56",
+    "commande": "403-1344385-4859735",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Joint de bride FAP (lot de 2)",
+        "ref": "ELR-FAP-G2",
+        "qte": 1,
+        "puTtc": 16.9
+      }
+    ],
+    "ht": 14.08,
+    "tva": 2.82,
+    "ttc": 16.9,
+    "clientId": "c-girard",
+    "bonDeCommande": "FS-240-TR GIRARD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-1344385-4859735.pdf",
+    "fichier": "2026-11-11_Girard_Trafic_403-1344385.pdf",
+    "dossierDrive": "Clients/Girard – FS-240-TR"
+  },
+  {
+    "id": "inv-403-6330088-3004426",
+    "date": "2026-11-10",
+    "recuLe": "2026-11-10T16:44",
+    "commande": "403-6330088-3004426",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Papier thermique imprimante banc (lot de 10)",
+        "ref": "THM-57",
+        "qte": 1,
+        "puTtc": 18.5
+      },
+      {
+        "designation": "Nettoyant frein Würth – 500 ml (lot de 12)",
+        "ref": "WUR-089010",
+        "qte": 1,
+        "puTtc": 59.9
+      },
+      {
+        "designation": "Dégraissant moteur – 5 L",
+        "ref": "DGM-5L",
+        "qte": 1,
+        "puTtc": 26.9
+      }
+    ],
+    "ht": 87.75,
+    "tva": 17.55,
+    "ttc": 105.3,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-6330088-3004426.pdf",
+    "fichier": "2026-11-10_StockAtelier_403-6330088.pdf",
+    "dossierDrive": "Factures/2026/11 – Stock atelier"
+  },
+  {
+    "id": "inv-403-7231851-4326190",
+    "date": "2026-11-10",
+    "recuLe": "2026-11-10T13:01",
+    "commande": "403-7231851-4326190",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 83.24,
+    "tva": 16.65,
+    "ttc": 99.89,
+    "clientId": "c-rousseau",
+    "bonDeCommande": "EH-337-SS ROUSSEAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-7231851-4326190.pdf",
+    "fichier": "2026-11-10_Rousseau_S3_403-7231851.pdf",
+    "dossierDrive": "Clients/Rousseau – EH-337-SS"
+  },
+  {
+    "id": "inv-403-9658242-5552020",
+    "date": "2026-11-09",
+    "recuLe": "2026-11-09T20:42",
+    "commande": "403-9658242-5552020",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      },
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      },
+      {
+        "designation": "Injecteurs Bosch EV14 550 cc (lot de 4)",
+        "ref": "BSH-EV14-550",
+        "qte": 1,
+        "puTtc": 319
+      }
+    ],
+    "ht": 330.67,
+    "tva": 66.13,
+    "ttc": 396.8,
+    "clientId": "c-bonnet",
+    "bonDeCommande": "DZ-358-KC BONNET",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-9658242-5552020.pdf",
+    "fichier": "2026-11-09_Bonnet_308GT_403-9658242.pdf",
+    "dossierDrive": "Clients/Bonnet – DZ-358-KC"
+  },
+  {
+    "id": "inv-403-3378302-6453637",
+    "date": "2026-11-09",
+    "recuLe": "2026-11-09T13:27",
+    "commande": "403-3378302-6453637",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      },
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      },
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      }
+    ],
+    "ht": 269.08,
+    "tva": 53.82,
+    "ttc": 322.9,
+    "clientId": "c-garnier",
+    "bonDeCommande": "FF-293-ST GARNIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-3378302-6453637.pdf",
+    "fichier": "2026-11-09_Garnier_FiestaST_403-3378302.pdf",
+    "dossierDrive": "Clients/Garnier – FF-293-ST"
+  },
+  {
+    "id": "inv-403-1892553-4043247",
+    "date": "2026-11-09",
+    "recuLe": "2026-11-09T09:34",
+    "commande": "403-1892553-4043247",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 77.83,
+    "tva": 15.57,
+    "ttc": 93.4,
+    "clientId": "c-morel",
+    "bonDeCommande": "FZ-903-GG MOREL",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-1892553-4043247.pdf",
+    "fichier": "2026-11-09_Morel_Golf8GTI_403-1892553.pdf",
+    "dossierDrive": "Clients/Morel – FZ-903-GG"
+  },
+  {
+    "id": "inv-403-3143295-1925404",
+    "date": "2026-11-09",
+    "recuLe": "2026-11-09T09:17",
+    "commande": "403-3143295-1925404",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 120.65,
+    "tva": 24.13,
+    "ttc": 144.78,
+    "clientId": "c-andre",
+    "bonDeCommande": "FT-209-BD ANDRÉ",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-3143295-1925404.pdf",
+    "fichier": "2026-11-09_Andre_320d_403-3143295.pdf",
+    "dossierDrive": "Clients/André – FT-209-BD"
+  },
+  {
+    "id": "inv-403-7088326-7902345",
+    "date": "2026-11-07",
+    "recuLe": "2026-11-07T16:55",
+    "commande": "403-7088326-7902345",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      }
+    ],
+    "ht": 44.08,
+    "tva": 8.82,
+    "ttc": 52.9,
+    "clientId": "c-roux",
+    "bonDeCommande": "FA-731-RS ROUX",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-7088326-7902345.pdf",
+    "fichier": "2026-11-07_Roux_RS3_403-7088326.pdf",
+    "dossierDrive": "Clients/Roux – FA-731-RS"
+  },
+  {
+    "id": "inv-403-2570525-8255950",
+    "date": "2026-11-07",
+    "recuLe": "2026-11-07T16:10",
+    "commande": "403-2570525-8255950",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Sonde de température gaz d'échappement",
+        "ref": "NGK-93245",
+        "qte": 1,
+        "puTtc": 58
+      },
+      {
+        "designation": "Joint de bride FAP (lot de 2)",
+        "ref": "ELR-FAP-G2",
+        "qte": 2,
+        "puTtc": 16.9
+      },
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 2,
+        "puTtc": 27.9
+      }
+    ],
+    "ht": 123,
+    "tva": 24.6,
+    "ttc": 147.6,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-2570525-8255950.pdf",
+    "fichier": "2026-11-07_Gauthier_3008_403-2570525.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-3624098-9008407",
+    "date": "2026-11-07",
+    "recuLe": "2026-11-07T09:19",
+    "commande": "403-3624098-9008407",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      }
+    ],
+    "ht": 124.17,
+    "tva": 24.83,
+    "ttc": 149,
+    "clientId": "c-mathieu",
+    "bonDeCommande": "GD-114-DU MATHIEU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-3624098-9008407.pdf",
+    "fichier": "2026-11-07_Mathieu_Duster_403-3624098.pdf",
+    "dossierDrive": "Clients/Mathieu – GD-114-DU"
+  },
+  {
+    "id": "inv-403-8117396-1993127",
+    "date": "2026-11-06",
+    "recuLe": "2026-11-06T19:08",
+    "commande": "403-8117396-1993127",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      }
+    ],
+    "ht": 27.42,
+    "tva": 5.48,
+    "ttc": 32.9,
+    "clientId": "c-bonnet",
+    "bonDeCommande": "DZ-358-KC BONNET",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-8117396-1993127.pdf",
+    "fichier": "2026-11-06_Bonnet_308GT_403-8117396.pdf",
+    "dossierDrive": "Clients/Bonnet – DZ-358-KC"
+  },
+  {
+    "id": "inv-403-6232907-2405549",
+    "date": "2026-11-06",
+    "recuLe": "2026-11-06T12:07",
+    "commande": "403-6232907-2405549",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 39.92,
+    "tva": 7.98,
+    "ttc": 47.9,
+    "clientId": "c-lambert",
+    "bonDeCommande": "GB-077-ZL LAMBERT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-6232907-2405549.pdf",
+    "fichier": "2026-11-06_Lambert_TMax_403-6232907.pdf",
+    "dossierDrive": "Clients/Lambert – GB-077-ZL"
+  },
+  {
+    "id": "inv-403-9563121-9296342",
+    "date": "2026-11-06",
+    "recuLe": "2026-11-06T07:04",
+    "commande": "403-9563121-9296342",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 77.83,
+    "tva": 15.57,
+    "ttc": 93.4,
+    "clientId": "c-giraud",
+    "bonDeCommande": "EK-219-TV GIRAUD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-9563121-9296342.pdf",
+    "fichier": "2026-11-06_Giraud_ClioRS_403-9563121.pdf",
+    "dossierDrive": "Clients/Giraud – EK-219-TV"
+  },
+  {
+    "id": "inv-403-5542452-5499430",
+    "date": "2026-11-05",
+    "recuLe": "2026-11-05T19:18",
+    "commande": "403-5542452-5499430",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 1,
+        "puTtc": 27.9
+      },
+      {
+        "designation": "Capteur pression différentielle FAP Bosch",
+        "ref": "BSH-0281006082",
+        "qte": 1,
+        "puTtc": 64.9
+      },
+      {
+        "designation": "Sonde de température gaz d'échappement",
+        "ref": "NGK-93245",
+        "qte": 1,
+        "puTtc": 58
+      }
+    ],
+    "ht": 125.67,
+    "tva": 25.13,
+    "ttc": 150.8,
+    "clientId": "c-blanc",
+    "bonDeCommande": "EN-904-GT BLANC",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-5542452-5499430.pdf",
+    "fichier": "2026-11-05_Blanc_308GT_403-5542452.pdf",
+    "dossierDrive": "Clients/Blanc – EN-904-GT"
+  },
+  {
+    "id": "inv-403-2841940-1624290",
+    "date": "2026-11-05",
+    "recuLe": "2026-11-05T17:39",
+    "commande": "403-2841940-1624290",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Joint de bride FAP (lot de 2)",
+        "ref": "ELR-FAP-G2",
+        "qte": 2,
+        "puTtc": 16.9
+      },
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 1,
+        "puTtc": 27.9
+      },
+      {
+        "designation": "Additif FAP Eolys PowerFlex – 1 L",
+        "ref": "EOL-9736",
+        "qte": 1,
+        "puTtc": 49.9
+      }
+    ],
+    "ht": 93,
+    "tva": 18.6,
+    "ttc": 111.6,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-2841940-1624290.pdf",
+    "fichier": "2026-11-05_Gauthier_3008_403-2841940.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-1525383-8860796",
+    "date": "2026-11-05",
+    "recuLe": "2026-11-05T14:40",
+    "commande": "403-1525383-8860796",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 90.33,
+    "tva": 18.07,
+    "ttc": 108.4,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-1525383-8860796.pdf",
+    "fichier": "2026-11-05_Martin_GolfGTI_403-1525383.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-2776420-8196302",
+    "date": "2026-11-05",
+    "recuLe": "2026-11-05T14:30",
+    "commande": "403-2776420-8196302",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 45.75,
+    "tva": 9.15,
+    "ttc": 54.9,
+    "clientId": "c-henry",
+    "bonDeCommande": "GL-302-RS HENRY",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-2776420-8196302.pdf",
+    "fichier": "2026-11-05_Henry_RS3_403-2776420.pdf",
+    "dossierDrive": "Clients/Henry – GL-302-RS"
+  },
+  {
+    "id": "inv-403-3366404-9965758",
+    "date": "2026-11-05",
+    "recuLe": "2026-11-05T08:00",
+    "commande": "403-3366404-9965758",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 39.92,
+    "tva": 7.98,
+    "ttc": 47.9,
+    "clientId": "c-vincent",
+    "bonDeCommande": "FR-415-MR VINCENT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-3366404-9965758.pdf",
+    "fichier": "2026-11-05_Vincent_MeganeRS_403-3366404.pdf",
+    "dossierDrive": "Clients/Vincent – FR-415-MR"
+  },
+  {
+    "id": "inv-403-2162570-9141472",
+    "date": "2026-11-05",
+    "recuLe": "2026-11-05T07:19",
+    "commande": "403-2162570-9141472",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Additif FAP Eolys PowerFlex – 1 L",
+        "ref": "EOL-9736",
+        "qte": 1,
+        "puTtc": 49.9
+      }
+    ],
+    "ht": 41.58,
+    "tva": 8.32,
+    "ttc": 49.9,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-2162570-9141472.pdf",
+    "fichier": "2026-11-05_Gauthier_3008_403-2162570.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-2740926-4188456",
+    "date": "2026-11-04",
+    "recuLe": "2026-11-04T20:22",
+    "commande": "403-2740926-4188456",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Sonde de température gaz d'échappement",
+        "ref": "NGK-93245",
+        "qte": 1,
+        "puTtc": 58
+      },
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 2,
+        "puTtc": 27.9
+      }
+    ],
+    "ht": 94.83,
+    "tva": 18.97,
+    "ttc": 113.8,
+    "clientId": "c-blanc",
+    "bonDeCommande": "EN-904-GT BLANC",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-2740926-4188456.pdf",
+    "fichier": "2026-11-04_Blanc_308GT_403-2740926.pdf",
+    "dossierDrive": "Clients/Blanc – EN-904-GT"
+  },
+  {
+    "id": "inv-403-3994338-4245402",
+    "date": "2026-11-04",
+    "recuLe": "2026-11-04T15:37",
+    "commande": "403-3994338-4245402",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Sonde de température gaz d'échappement",
+        "ref": "NGK-93245",
+        "qte": 1,
+        "puTtc": 58
+      }
+    ],
+    "ht": 48.33,
+    "tva": 9.67,
+    "ttc": 58,
+    "clientId": "c-girard",
+    "bonDeCommande": "FS-240-TR GIRARD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-3994338-4245402.pdf",
+    "fichier": "2026-11-04_Girard_Trafic_403-3994338.pdf",
+    "dossierDrive": "Clients/Girard – FS-240-TR"
+  },
+  {
+    "id": "inv-403-7710797-1298983",
+    "date": "2026-11-04",
+    "recuLe": "2026-11-04T10:56",
+    "commande": "403-7710797-1298983",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Gants nitrile noirs taille L (boîte de 100)",
+        "ref": "NIT-L100",
+        "qte": 1,
+        "puTtc": 12.9
+      },
+      {
+        "designation": "Câble OBD2 rallonge 1,5 m",
+        "ref": "OBD-EXT15",
+        "qte": 1,
+        "puTtc": 14.99
+      }
+    ],
+    "ht": 23.24,
+    "tva": 4.65,
+    "ttc": 27.89,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-7710797-1298983.pdf",
+    "fichier": "2026-11-04_StockAtelier_403-7710797.pdf",
+    "dossierDrive": "Factures/2026/11 – Stock atelier"
+  },
+  {
+    "id": "inv-403-1527566-6710899",
+    "date": "2026-11-03",
+    "recuLe": "2026-11-03T16:41",
+    "commande": "403-1527566-6710899",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 45.75,
+    "tva": 9.15,
+    "ttc": 54.9,
+    "clientId": "c-rousseau",
+    "bonDeCommande": "EH-337-SS ROUSSEAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-1527566-6710899.pdf",
+    "fichier": "2026-11-03_Rousseau_S3_403-1527566.pdf",
+    "dossierDrive": "Clients/Rousseau – EH-337-SS"
+  },
+  {
+    "id": "inv-403-6115435-6979256",
+    "date": "2026-11-03",
+    "recuLe": "2026-11-03T15:54",
+    "commande": "403-6115435-6979256",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 130.25,
+    "tva": 26.05,
+    "ttc": 156.3,
+    "clientId": "c-fabre",
+    "bonDeCommande": "EV-604-MN FABRE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-6115435-6979256.pdf",
+    "fichier": "2026-11-03_Fabre_M140i_403-6115435.pdf",
+    "dossierDrive": "Clients/Fabre – EV-604-MN"
+  },
+  {
+    "id": "inv-403-8957410-9004004",
+    "date": "2026-11-02",
+    "recuLe": "2026-11-02T21:51",
+    "commande": "403-8957410-9004004",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      }
+    ],
+    "ht": 107.5,
+    "tva": 21.5,
+    "ttc": 129,
+    "clientId": "c-bonnet",
+    "bonDeCommande": "DZ-358-KC BONNET",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-8957410-9004004.pdf",
+    "fichier": "2026-11-02_Bonnet_308GT_403-8957410.pdf",
+    "dossierDrive": "Clients/Bonnet – DZ-358-KC"
+  },
+  {
+    "id": "inv-403-9735244-2424526",
+    "date": "2026-11-02",
+    "recuLe": "2026-11-02T19:51",
+    "commande": "403-9735244-2424526",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Durite turbo silicone Samco",
+        "ref": "SAM-TCS442",
+        "qte": 1,
+        "puTtc": 164
+      },
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      },
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      }
+    ],
+    "ht": 421.58,
+    "tva": 84.32,
+    "ttc": 505.9,
+    "clientId": "c-colin",
+    "bonDeCommande": "EL-467-FR COLIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-9735244-2424526.pdf",
+    "fichier": "2026-11-02_Colin_FocusRS_403-9735244.pdf",
+    "dossierDrive": "Clients/Colin – EL-467-FR"
+  },
+  {
+    "id": "inv-403-7639453-7055271",
+    "date": "2026-11-02",
+    "recuLe": "2026-11-02T19:34",
+    "commande": "403-7639453-7055271",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Booster de démarrage NOCO GB70",
+        "ref": "NOCO-GB70",
+        "qte": 1,
+        "puTtc": 249
+      },
+      {
+        "designation": "Housses de siège jetables (rouleau de 500)",
+        "ref": "HSJ-500",
+        "qte": 1,
+        "puTtc": 39.9
+      },
+      {
+        "designation": "Nettoyant frein Würth – 500 ml (lot de 12)",
+        "ref": "WUR-089010",
+        "qte": 1,
+        "puTtc": 59.9
+      }
+    ],
+    "ht": 290.67,
+    "tva": 58.13,
+    "ttc": 348.8,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-7639453-7055271.pdf",
+    "fichier": "2026-11-02_StockAtelier_403-7639453.pdf",
+    "dossierDrive": "Factures/2026/11 – Stock atelier"
+  },
+  {
+    "id": "inv-403-4022890-5412944",
+    "date": "2026-11-02",
+    "recuLe": "2026-11-02T18:09",
+    "commande": "403-4022890-5412944",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 77.83,
+    "tva": 15.57,
+    "ttc": 93.4,
+    "clientId": "c-bertrand",
+    "bonDeCommande": "FM-512-PM BERTRAND",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-4022890-5412944.pdf",
+    "fichier": "2026-11-02_Bertrand_MacanS_403-4022890.pdf",
+    "dossierDrive": "Clients/Bertrand – FM-512-PM"
+  },
+  {
+    "id": "inv-403-4727505-9457398",
+    "date": "2026-11-02",
+    "recuLe": "2026-11-02T14:44",
+    "commande": "403-4727505-9457398",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 117.75,
+    "tva": 23.55,
+    "ttc": 141.3,
+    "clientId": "c-lambert",
+    "bonDeCommande": "GB-077-ZL LAMBERT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-4727505-9457398.pdf",
+    "fichier": "2026-11-02_Lambert_TMax_403-4727505.pdf",
+    "dossierDrive": "Clients/Lambert – GB-077-ZL"
+  },
+  {
+    "id": "inv-403-3732888-7318221",
+    "date": "2026-11-02",
+    "recuLe": "2026-11-02T12:42",
+    "commande": "403-3732888-7318221",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      }
+    ],
+    "ht": 27.42,
+    "tva": 5.48,
+    "ttc": 32.9,
+    "clientId": "c-perrin",
+    "bonDeCommande": "FB-388-KG PERRIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-3732888-7318221.pdf",
+    "fichier": "2026-11-02_Perrin_CeedGT_403-3732888.pdf",
+    "dossierDrive": "Clients/Perrin – FB-388-KG"
+  },
+  {
+    "id": "inv-403-7214106-2179036",
+    "date": "2026-11-02",
+    "recuLe": "2026-11-02T08:10",
+    "commande": "403-7214106-2179036",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      },
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 1,
+        "puTtc": 21.9
+      },
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      }
+    ],
+    "ht": 303.17,
+    "tva": 60.63,
+    "ttc": 363.8,
+    "clientId": "c-roux",
+    "bonDeCommande": "FA-731-RS ROUX",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-7214106-2179036.pdf",
+    "fichier": "2026-11-02_Roux_RS3_403-7214106.pdf",
+    "dossierDrive": "Clients/Roux – FA-731-RS"
+  },
+  {
+    "id": "inv-403-9279999-1380421",
+    "date": "2026-11-02",
+    "recuLe": "2026-11-02T07:09",
+    "commande": "403-9279999-1380421",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 117.75,
+    "tva": 23.55,
+    "ttc": 141.3,
+    "clientId": "c-henry",
+    "bonDeCommande": "GL-302-RS HENRY",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-9279999-1380421.pdf",
+    "fichier": "2026-11-02_Henry_RS3_403-9279999.pdf",
+    "dossierDrive": "Clients/Henry – GL-302-RS"
+  },
+  {
+    "id": "inv-403-1039986-3087692",
+    "date": "2026-10-31",
+    "recuLe": "2026-10-31T16:09",
+    "commande": "403-1039986-3087692",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 2,
+        "puTtc": 21.9
+      }
+    ],
+    "ht": 36.5,
+    "tva": 7.3,
+    "ttc": 43.8,
+    "clientId": "c-haddad",
+    "bonDeCommande": "EY-726-CL HADDAD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-1039986-3087692.pdf",
+    "fichier": "2026-10-31_Haddad_LeonCupra_403-1039986.pdf",
+    "dossierDrive": "Clients/Haddad – EY-726-CL"
+  },
+  {
+    "id": "inv-403-9092857-7395821",
+    "date": "2026-10-31",
+    "recuLe": "2026-10-31T12:55",
+    "commande": "403-9092857-7395821",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      }
+    ],
+    "ht": 37.42,
+    "tva": 7.48,
+    "ttc": 44.9,
+    "clientId": "c-perrin",
+    "bonDeCommande": "FB-388-KG PERRIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-9092857-7395821.pdf",
+    "fichier": "2026-10-31_Perrin_CeedGT_403-9092857.pdf",
+    "dossierDrive": "Clients/Perrin – FB-388-KG"
+  },
+  {
+    "id": "inv-403-9462040-6425346",
+    "date": "2026-10-31",
+    "recuLe": "2026-10-31T10:39",
+    "commande": "403-9462040-6425346",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 22.48,
+    "tva": 4.5,
+    "ttc": 26.98,
+    "clientId": "c-giraud",
+    "bonDeCommande": "EK-219-TV GIRAUD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-9462040-6425346.pdf",
+    "fichier": "2026-10-31_Giraud_ClioRS_403-9462040.pdf",
+    "dossierDrive": "Clients/Giraud – EK-219-TV"
+  },
+  {
+    "id": "inv-403-9791051-8099800",
+    "date": "2026-10-31",
+    "recuLe": "2026-10-31T08:19",
+    "commande": "403-9791051-8099800",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 32.08,
+    "tva": 6.42,
+    "ttc": 38.5,
+    "clientId": "c-chevalier",
+    "bonDeCommande": "GK-845-VZ CHEVALIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-9791051-8099800.pdf",
+    "fichier": "2026-10-31_Chevalier_FormentorVZ5_403-9791051.pdf",
+    "dossierDrive": "Clients/Chevalier – GK-845-VZ"
+  },
+  {
+    "id": "inv-403-4932224-9414599",
+    "date": "2026-10-31",
+    "recuLe": "2026-10-31T07:27",
+    "commande": "403-4932224-9414599",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      },
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      }
+    ],
+    "ht": 151.58,
+    "tva": 30.32,
+    "ttc": 181.9,
+    "clientId": "c-perrin",
+    "bonDeCommande": "FB-388-KG PERRIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-4932224-9414599.pdf",
+    "fichier": "2026-10-31_Perrin_CeedGT_403-4932224.pdf",
+    "dossierDrive": "Clients/Perrin – FB-388-KG"
+  },
+  {
+    "id": "inv-403-5277752-5009791",
+    "date": "2026-10-30",
+    "recuLe": "2026-10-30T21:53",
+    "commande": "403-5277752-5009791",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Câble OBD2 rallonge 1,5 m",
+        "ref": "OBD-EXT15",
+        "qte": 2,
+        "puTtc": 14.99
+      },
+      {
+        "designation": "Bobine papier d'atelier 2 plis",
+        "ref": "PAP-1000",
+        "qte": 1,
+        "puTtc": 34.5
+      },
+      {
+        "designation": "Papier thermique imprimante banc (lot de 10)",
+        "ref": "THM-57",
+        "qte": 1,
+        "puTtc": 18.5
+      }
+    ],
+    "ht": 69.15,
+    "tva": 13.83,
+    "ttc": 82.98,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-5277752-5009791.pdf",
+    "fichier": "2026-10-30_StockAtelier_403-5277752.pdf",
+    "dossierDrive": "Factures/2026/10 – Stock atelier"
+  },
+  {
+    "id": "inv-403-5098026-3869197",
+    "date": "2026-10-30",
+    "recuLe": "2026-10-30T17:25",
+    "commande": "403-5098026-3869197",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 83.24,
+    "tva": 16.65,
+    "ttc": 99.89,
+    "clientId": "c-andre",
+    "bonDeCommande": "FT-209-BD ANDRÉ",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-5098026-3869197.pdf",
+    "fichier": "2026-10-30_Andre_320d_403-5098026.pdf",
+    "dossierDrive": "Clients/André – FT-209-BD"
+  },
+  {
+    "id": "inv-403-7184432-6213254",
+    "date": "2026-10-30",
+    "recuLe": "2026-10-30T16:19",
+    "commande": "403-7184432-6213254",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 58.25,
+    "tva": 11.65,
+    "ttc": 69.9,
+    "clientId": "c-morel",
+    "bonDeCommande": "FZ-903-GG MOREL",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-7184432-6213254.pdf",
+    "fichier": "2026-10-30_Morel_Golf8GTI_403-7184432.pdf",
+    "dossierDrive": "Clients/Morel – FZ-903-GG"
+  },
+  {
+    "id": "inv-403-7213320-6669780",
+    "date": "2026-10-30",
+    "recuLe": "2026-10-30T14:19",
+    "commande": "403-7213320-6669780",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Additif FAP Eolys PowerFlex – 1 L",
+        "ref": "EOL-9736",
+        "qte": 1,
+        "puTtc": 49.9
+      },
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 1,
+        "puTtc": 27.9
+      },
+      {
+        "designation": "Joint de bride FAP (lot de 2)",
+        "ref": "ELR-FAP-G2",
+        "qte": 1,
+        "puTtc": 16.9
+      }
+    ],
+    "ht": 78.92,
+    "tva": 15.78,
+    "ttc": 94.7,
+    "clientId": "c-girard",
+    "bonDeCommande": "FS-240-TR GIRARD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-7213320-6669780.pdf",
+    "fichier": "2026-10-30_Girard_Trafic_403-7213320.pdf",
+    "dossierDrive": "Clients/Girard – FS-240-TR"
+  },
+  {
+    "id": "inv-403-4198023-7736122",
+    "date": "2026-10-29",
+    "recuLe": "2026-10-29T21:18",
+    "commande": "403-4198023-7736122",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Joint de bride FAP (lot de 2)",
+        "ref": "ELR-FAP-G2",
+        "qte": 1,
+        "puTtc": 16.9
+      }
+    ],
+    "ht": 14.08,
+    "tva": 2.82,
+    "ttc": 16.9,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-4198023-7736122.pdf",
+    "fichier": "2026-10-29_Gauthier_3008_403-4198023.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-3344913-7412433",
+    "date": "2026-10-28",
+    "recuLe": "2026-10-28T17:33",
+    "commande": "403-3344913-7412433",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 85.67,
+    "tva": 17.13,
+    "ttc": 102.8,
+    "clientId": "c-chevalier",
+    "bonDeCommande": "GK-845-VZ CHEVALIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-3344913-7412433.pdf",
+    "fichier": "2026-10-28_Chevalier_FormentorVZ5_403-3344913.pdf",
+    "dossierDrive": "Clients/Chevalier – GK-845-VZ"
+  },
+  {
+    "id": "inv-403-8518176-5546185",
+    "date": "2026-10-28",
+    "recuLe": "2026-10-28T13:20",
+    "commande": "403-8518176-5546185",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Housses de siège jetables (rouleau de 500)",
+        "ref": "HSJ-500",
+        "qte": 1,
+        "puTtc": 39.9
+      },
+      {
+        "designation": "Bobine papier d'atelier 2 plis",
+        "ref": "PAP-1000",
+        "qte": 1,
+        "puTtc": 34.5
+      },
+      {
+        "designation": "Dégraissant moteur – 5 L",
+        "ref": "DGM-5L",
+        "qte": 2,
+        "puTtc": 26.9
+      }
+    ],
+    "ht": 106.83,
+    "tva": 21.37,
+    "ttc": 128.2,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-8518176-5546185.pdf",
+    "fichier": "2026-10-28_StockAtelier_403-8518176.pdf",
+    "dossierDrive": "Factures/2026/10 – Stock atelier"
+  },
+  {
+    "id": "inv-403-7220269-9128137",
+    "date": "2026-10-28",
+    "recuLe": "2026-10-28T11:52",
+    "commande": "403-7220269-9128137",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      }
+    ],
+    "ht": 107.5,
+    "tva": 21.5,
+    "ttc": 129,
+    "clientId": "c-bonnet",
+    "bonDeCommande": "DZ-358-KC BONNET",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-7220269-9128137.pdf",
+    "fichier": "2026-10-28_Bonnet_308GT_403-7220269.pdf",
+    "dossierDrive": "Clients/Bonnet – DZ-358-KC"
+  },
+  {
+    "id": "inv-403-2215175-6679685",
+    "date": "2026-10-28",
+    "recuLe": "2026-10-28T10:30",
+    "commande": "403-2215175-6679685",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Câble OBD2 rallonge 1,5 m",
+        "ref": "OBD-EXT15",
+        "qte": 2,
+        "puTtc": 14.99
+      },
+      {
+        "designation": "Gants nitrile noirs taille L (boîte de 100)",
+        "ref": "NIT-L100",
+        "qte": 2,
+        "puTtc": 12.9
+      }
+    ],
+    "ht": 46.48,
+    "tva": 9.3,
+    "ttc": 55.78,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-2215175-6679685.pdf",
+    "fichier": "2026-10-28_StockAtelier_403-2215175.pdf",
+    "dossierDrive": "Factures/2026/10 – Stock atelier"
+  },
+  {
+    "id": "inv-403-7695433-8634552",
+    "date": "2026-10-28",
+    "recuLe": "2026-10-28T09:09",
+    "commande": "403-7695433-8634552",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 62.4,
+    "tva": 12.48,
+    "ttc": 74.88,
+    "clientId": "c-lambert",
+    "bonDeCommande": "GB-077-ZL LAMBERT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-7695433-8634552.pdf",
+    "fichier": "2026-10-28_Lambert_TMax_403-7695433.pdf",
+    "dossierDrive": "Clients/Lambert – GB-077-ZL"
+  },
+  {
+    "id": "inv-403-3582636-4724751",
+    "date": "2026-10-27",
+    "recuLe": "2026-10-27T21:30",
+    "commande": "403-3582636-4724751",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Durite turbo silicone Samco",
+        "ref": "SAM-TCS442",
+        "qte": 1,
+        "puTtc": 164
+      },
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 2,
+        "puTtc": 21.9
+      },
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      }
+    ],
+    "ht": 217.25,
+    "tva": 43.45,
+    "ttc": 260.7,
+    "clientId": "c-haddad",
+    "bonDeCommande": "EY-726-CL HADDAD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-3582636-4724751.pdf",
+    "fichier": "2026-10-27_Haddad_LeonCupra_403-3582636.pdf",
+    "dossierDrive": "Clients/Haddad – EY-726-CL"
+  },
+  {
+    "id": "inv-403-4197438-8631377",
+    "date": "2026-10-27",
+    "recuLe": "2026-10-27T12:57",
+    "commande": "403-4197438-8631377",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      },
+      {
+        "designation": "Capteur de pression de suralimentation Bosch",
+        "ref": "BSH-0281006059",
+        "qte": 1,
+        "puTtc": 79.9
+      },
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      }
+    ],
+    "ht": 351.5,
+    "tva": 70.3,
+    "ttc": 421.8,
+    "clientId": "c-roux",
+    "bonDeCommande": "FA-731-RS ROUX",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-4197438-8631377.pdf",
+    "fichier": "2026-10-27_Roux_RS3_403-4197438.pdf",
+    "dossierDrive": "Clients/Roux – FA-731-RS"
+  },
+  {
+    "id": "inv-403-4550983-2383134",
+    "date": "2026-10-27",
+    "recuLe": "2026-10-27T07:14",
+    "commande": "403-4550983-2383134",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 11.24,
+    "tva": 2.25,
+    "ttc": 13.49,
+    "clientId": "c-giraud",
+    "bonDeCommande": "EK-219-TV GIRAUD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-4550983-2383134.pdf",
+    "fichier": "2026-10-27_Giraud_ClioRS_403-4550983.pdf",
+    "dossierDrive": "Clients/Giraud – EK-219-TV"
+  },
+  {
+    "id": "inv-403-9482033-2969166",
+    "date": "2026-10-26",
+    "recuLe": "2026-10-26T21:06",
+    "commande": "403-9482033-2969166",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Booster de démarrage NOCO GB70",
+        "ref": "NOCO-GB70",
+        "qte": 1,
+        "puTtc": 249
+      }
+    ],
+    "ht": 207.5,
+    "tva": 41.5,
+    "ttc": 249,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-9482033-2969166.pdf",
+    "fichier": "2026-10-26_StockAtelier_403-9482033.pdf",
+    "dossierDrive": "Factures/2026/10 – Stock atelier"
+  },
+  {
+    "id": "inv-403-1401435-9979848",
+    "date": "2026-10-26",
+    "recuLe": "2026-10-26T21:03",
+    "commande": "403-1401435-9979848",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 45.75,
+    "tva": 9.15,
+    "ttc": 54.9,
+    "clientId": "c-henry",
+    "bonDeCommande": "GL-302-RS HENRY",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-1401435-9979848.pdf",
+    "fichier": "2026-10-26_Henry_RS3_403-1401435.pdf",
+    "dossierDrive": "Clients/Henry – GL-302-RS"
+  },
+  {
+    "id": "inv-403-8132510-5870089",
+    "date": "2026-10-26",
+    "recuLe": "2026-10-26T14:08",
+    "commande": "403-8132510-5870089",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 43.33,
+    "tva": 8.66,
+    "ttc": 51.99,
+    "clientId": "c-vincent",
+    "bonDeCommande": "FR-415-MR VINCENT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-8132510-5870089.pdf",
+    "fichier": "2026-10-26_Vincent_MeganeRS_403-8132510.pdf",
+    "dossierDrive": "Clients/Vincent – FR-415-MR"
+  },
+  {
+    "id": "inv-403-8288206-5310272",
+    "date": "2026-10-26",
+    "recuLe": "2026-10-26T13:42",
+    "commande": "403-8288206-5310272",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Capteur pression différentielle FAP Bosch",
+        "ref": "BSH-0281006082",
+        "qte": 1,
+        "puTtc": 64.9
+      },
+      {
+        "designation": "Sonde de température gaz d'échappement",
+        "ref": "NGK-93245",
+        "qte": 1,
+        "puTtc": 58
+      },
+      {
+        "designation": "Additif FAP Eolys PowerFlex – 1 L",
+        "ref": "EOL-9736",
+        "qte": 1,
+        "puTtc": 49.9
+      }
+    ],
+    "ht": 144,
+    "tva": 28.8,
+    "ttc": 172.8,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-8288206-5310272.pdf",
+    "fichier": "2026-10-26_Gauthier_3008_403-8288206.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-2498132-9309652",
+    "date": "2026-10-23",
+    "recuLe": "2026-10-23T16:02",
+    "commande": "403-2498132-9309652",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Joint de bride FAP (lot de 2)",
+        "ref": "ELR-FAP-G2",
+        "qte": 1,
+        "puTtc": 16.9
+      },
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 1,
+        "puTtc": 27.9
+      },
+      {
+        "designation": "Sonde de température gaz d'échappement",
+        "ref": "NGK-93245",
+        "qte": 1,
+        "puTtc": 58
+      }
+    ],
+    "ht": 85.67,
+    "tva": 17.13,
+    "ttc": 102.8,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-2498132-9309652.pdf",
+    "fichier": "2026-10-23_Gauthier_3008_403-2498132.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-4516427-3863662",
+    "date": "2026-10-23",
+    "recuLe": "2026-10-23T07:44",
+    "commande": "403-4516427-3863662",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 90.33,
+    "tva": 18.07,
+    "ttc": 108.4,
+    "clientId": "c-faure",
+    "bonDeCommande": "FK-668-JC FAURE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-4516427-3863662.pdf",
+    "fichier": "2026-10-23_Faure_MiniJCW_403-4516427.pdf",
+    "dossierDrive": "Clients/Faure – FK-668-JC"
+  },
+  {
+    "id": "inv-403-5059798-8095792",
+    "date": "2026-10-23",
+    "recuLe": "2026-10-23T07:20",
+    "commande": "403-5059798-8095792",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Dégraissant moteur – 5 L",
+        "ref": "DGM-5L",
+        "qte": 2,
+        "puTtc": 26.9
+      }
+    ],
+    "ht": 44.83,
+    "tva": 8.97,
+    "ttc": 53.8,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-5059798-8095792.pdf",
+    "fichier": "2026-10-23_StockAtelier_403-5059798.pdf",
+    "dossierDrive": "Factures/2026/10 – Stock atelier"
+  },
+  {
+    "id": "inv-403-6703550-3331665",
+    "date": "2026-10-22",
+    "recuLe": "2026-10-22T13:08",
+    "commande": "403-6703550-3331665",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      }
+    ],
+    "ht": 44.08,
+    "tva": 8.82,
+    "ttc": 52.9,
+    "clientId": "c-colin",
+    "bonDeCommande": "EL-467-FR COLIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-6703550-3331665.pdf",
+    "fichier": "2026-10-22_Colin_FocusRS_403-6703550.pdf",
+    "dossierDrive": "Clients/Colin – EL-467-FR"
+  },
+  {
+    "id": "inv-403-8752671-9051182",
+    "date": "2026-10-20",
+    "recuLe": "2026-10-20T20:23",
+    "commande": "403-8752671-9051182",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bobine papier d'atelier 2 plis",
+        "ref": "PAP-1000",
+        "qte": 1,
+        "puTtc": 34.5
+      }
+    ],
+    "ht": 28.75,
+    "tva": 5.75,
+    "ttc": 34.5,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-8752671-9051182.pdf",
+    "fichier": "2026-10-20_StockAtelier_403-8752671.pdf",
+    "dossierDrive": "Factures/2026/10 – Stock atelier"
+  },
+  {
+    "id": "inv-403-4957189-8744846",
+    "date": "2026-10-20",
+    "recuLe": "2026-10-20T14:05",
+    "commande": "403-4957189-8744846",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 32.08,
+    "tva": 6.42,
+    "ttc": 38.5,
+    "clientId": "c-giraud",
+    "bonDeCommande": "EK-219-TV GIRAUD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-4957189-8744846.pdf",
+    "fichier": "2026-10-20_Giraud_ClioRS_403-4957189.pdf",
+    "dossierDrive": "Clients/Giraud – EK-219-TV"
+  },
+  {
+    "id": "inv-403-5286407-5555035",
+    "date": "2026-10-20",
+    "recuLe": "2026-10-20T11:21",
+    "commande": "403-5286407-5555035",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 115.24,
+    "tva": 23.05,
+    "ttc": 138.29,
+    "clientId": "c-rousseau",
+    "bonDeCommande": "EH-337-SS ROUSSEAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-5286407-5555035.pdf",
+    "fichier": "2026-10-20_Rousseau_S3_403-5286407.pdf",
+    "dossierDrive": "Clients/Rousseau – EH-337-SS"
+  },
+  {
+    "id": "inv-403-4145452-7401345",
+    "date": "2026-10-20",
+    "recuLe": "2026-10-20T07:37",
+    "commande": "403-4145452-7401345",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      },
+      {
+        "designation": "Injecteurs Bosch EV14 550 cc (lot de 4)",
+        "ref": "BSH-EV14-550",
+        "qte": 1,
+        "puTtc": 319
+      }
+    ],
+    "ht": 303.25,
+    "tva": 60.65,
+    "ttc": 363.9,
+    "clientId": "c-bonnet",
+    "bonDeCommande": "DZ-358-KC BONNET",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-4145452-7401345.pdf",
+    "fichier": "2026-10-20_Bonnet_308GT_403-4145452.pdf",
+    "dossierDrive": "Clients/Bonnet – DZ-358-KC"
+  },
+  {
+    "id": "inv-403-3182831-7792771",
+    "date": "2026-10-19",
+    "recuLe": "2026-10-19T18:48",
+    "commande": "403-3182831-7792771",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 100.32,
+    "tva": 20.06,
+    "ttc": 120.38,
+    "clientId": "c-fabre",
+    "bonDeCommande": "EV-604-MN FABRE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-3182831-7792771.pdf",
+    "fichier": "2026-10-19_Fabre_M140i_403-3182831.pdf",
+    "dossierDrive": "Clients/Fabre – EV-604-MN"
+  },
+  {
+    "id": "inv-403-6436734-6370502",
+    "date": "2026-10-19",
+    "recuLe": "2026-10-19T17:34",
+    "commande": "403-6436734-6370502",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 39.92,
+    "tva": 7.98,
+    "ttc": 47.9,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-6436734-6370502.pdf",
+    "fichier": "2026-10-19_Martin_GolfGTI_403-6436734.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-9798689-9259062",
+    "date": "2026-10-19",
+    "recuLe": "2026-10-19T08:23",
+    "commande": "403-9798689-9259062",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      },
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      },
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      }
+    ],
+    "ht": 259.08,
+    "tva": 51.82,
+    "ttc": 310.9,
+    "clientId": "c-dupuis",
+    "bonDeCommande": "FC-781-PG DUPUIS",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-9798689-9259062.pdf",
+    "fichier": "2026-10-19_Dupuis_PoloGTI_403-9798689.pdf",
+    "dossierDrive": "Clients/Dupuis – FC-781-PG"
+  },
+  {
+    "id": "inv-403-9173277-2975276",
+    "date": "2026-10-19",
+    "recuLe": "2026-10-19T07:40",
+    "commande": "403-9173277-2975276",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      },
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      }
+    ],
+    "ht": 64.83,
+    "tva": 12.97,
+    "ttc": 77.8,
+    "clientId": "c-garnier",
+    "bonDeCommande": "FF-293-ST GARNIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-9173277-2975276.pdf",
+    "fichier": "2026-10-19_Garnier_FiestaST_403-9173277.pdf",
+    "dossierDrive": "Clients/Garnier – FF-293-ST"
+  },
+  {
+    "id": "inv-403-5110150-1461908",
+    "date": "2026-10-17",
+    "recuLe": "2026-10-17T14:32",
+    "commande": "403-5110150-1461908",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Durite turbo silicone Samco",
+        "ref": "SAM-TCS442",
+        "qte": 1,
+        "puTtc": 164
+      },
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      },
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      }
+    ],
+    "ht": 421.58,
+    "tva": 84.32,
+    "ttc": 505.9,
+    "clientId": "c-roux",
+    "bonDeCommande": "FA-731-RS ROUX",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-5110150-1461908.pdf",
+    "fichier": "2026-10-17_Roux_RS3_403-5110150.pdf",
+    "dossierDrive": "Clients/Roux – FA-731-RS"
+  },
+  {
+    "id": "inv-403-6098245-3579573",
+    "date": "2026-10-17",
+    "recuLe": "2026-10-17T10:09",
+    "commande": "403-6098245-3579573",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine papier d'atelier 2 plis",
+        "ref": "PAP-1000",
+        "qte": 1,
+        "puTtc": 34.5
+      }
+    ],
+    "ht": 28.75,
+    "tva": 5.75,
+    "ttc": 34.5,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-6098245-3579573.pdf",
+    "fichier": "2026-10-17_StockAtelier_403-6098245.pdf",
+    "dossierDrive": "Factures/2026/10 – Stock atelier"
+  },
+  {
+    "id": "inv-403-4069224-7688820",
+    "date": "2026-10-16",
+    "recuLe": "2026-10-16T19:40",
+    "commande": "403-4069224-7688820",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      },
+      {
+        "designation": "Capteur de pression de suralimentation Bosch",
+        "ref": "BSH-0281006059",
+        "qte": 1,
+        "puTtc": 79.9
+      }
+    ],
+    "ht": 307.42,
+    "tva": 61.48,
+    "ttc": 368.9,
+    "clientId": "c-colin",
+    "bonDeCommande": "EL-467-FR COLIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-4069224-7688820.pdf",
+    "fichier": "2026-10-16_Colin_FocusRS_403-4069224.pdf",
+    "dossierDrive": "Clients/Colin – EL-467-FR"
+  },
+  {
+    "id": "inv-403-1078164-9520578",
+    "date": "2026-10-16",
+    "recuLe": "2026-10-16T15:04",
+    "commande": "403-1078164-9520578",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 117.75,
+    "tva": 23.55,
+    "ttc": 141.3,
+    "clientId": "c-chevalier",
+    "bonDeCommande": "GK-845-VZ CHEVALIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-1078164-9520578.pdf",
+    "fichier": "2026-10-16_Chevalier_FormentorVZ5_403-1078164.pdf",
+    "dossierDrive": "Clients/Chevalier – GK-845-VZ"
+  },
+  {
+    "id": "inv-403-6959129-3890411",
+    "date": "2026-10-16",
+    "recuLe": "2026-10-16T12:47",
+    "commande": "403-6959129-3890411",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Housses de siège jetables (rouleau de 500)",
+        "ref": "HSJ-500",
+        "qte": 1,
+        "puTtc": 39.9
+      }
+    ],
+    "ht": 33.25,
+    "tva": 6.65,
+    "ttc": 39.9,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-6959129-3890411.pdf",
+    "fichier": "2026-10-16_StockAtelier_403-6959129.pdf",
+    "dossierDrive": "Factures/2026/10 – Stock atelier"
+  },
+  {
+    "id": "inv-403-4537224-4041445",
+    "date": "2026-10-15",
+    "recuLe": "2026-10-15T11:36",
+    "commande": "403-4537224-4041445",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      }
+    ],
+    "ht": 107.5,
+    "tva": 21.5,
+    "ttc": 129,
+    "clientId": "c-bonnet",
+    "bonDeCommande": "DZ-358-KC BONNET",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-4537224-4041445.pdf",
+    "fichier": "2026-10-15_Bonnet_308GT_403-4537224.pdf",
+    "dossierDrive": "Clients/Bonnet – DZ-358-KC"
+  },
+  {
+    "id": "inv-403-8795233-4335505",
+    "date": "2026-10-15",
+    "recuLe": "2026-10-15T10:05",
+    "commande": "403-8795233-4335505",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      },
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      },
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      }
+    ],
+    "ht": 189,
+    "tva": 37.8,
+    "ttc": 226.8,
+    "clientId": "c-garnier",
+    "bonDeCommande": "FF-293-ST GARNIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-8795233-4335505.pdf",
+    "fichier": "2026-10-15_Garnier_FiestaST_403-8795233.pdf",
+    "dossierDrive": "Clients/Garnier – FF-293-ST"
+  },
+  {
+    "id": "inv-403-7590468-8557789",
+    "date": "2026-10-14",
+    "recuLe": "2026-10-14T15:47",
+    "commande": "403-7590468-8557789",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 80.73,
+    "tva": 16.15,
+    "ttc": 96.88,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-7590468-8557789.pdf",
+    "fichier": "2026-10-14_Martin_GolfGTI_403-7590468.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-6345302-3578339",
+    "date": "2026-10-14",
+    "recuLe": "2026-10-14T15:16",
+    "commande": "403-6345302-3578339",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      },
+      {
+        "designation": "Durite turbo silicone Samco",
+        "ref": "SAM-TCS442",
+        "qte": 1,
+        "puTtc": 164
+      },
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 1,
+        "puTtc": 21.9
+      }
+    ],
+    "ht": 199,
+    "tva": 39.8,
+    "ttc": 238.8,
+    "clientId": "c-haddad",
+    "bonDeCommande": "EY-726-CL HADDAD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-6345302-3578339.pdf",
+    "fichier": "2026-10-14_Haddad_LeonCupra_403-6345302.pdf",
+    "dossierDrive": "Clients/Haddad – EY-726-CL"
+  },
+  {
+    "id": "inv-403-7431898-1665621",
+    "date": "2026-10-14",
+    "recuLe": "2026-10-14T11:32",
+    "commande": "403-7431898-1665621",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      }
+    ],
+    "ht": 44.08,
+    "tva": 8.82,
+    "ttc": 52.9,
+    "clientId": "c-moreau",
+    "bonDeCommande": "EX-512-RR MOREAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-7431898-1665621.pdf",
+    "fichier": "2026-10-14_Moreau_GolfR_403-7431898.pdf",
+    "dossierDrive": "Clients/Moreau – EX-512-RR"
+  },
+  {
+    "id": "inv-403-8461104-1555998",
+    "date": "2026-10-14",
+    "recuLe": "2026-10-14T10:34",
+    "commande": "403-8461104-1555998",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Joint de bride FAP (lot de 2)",
+        "ref": "ELR-FAP-G2",
+        "qte": 1,
+        "puTtc": 16.9
+      }
+    ],
+    "ht": 14.08,
+    "tva": 2.82,
+    "ttc": 16.9,
+    "clientId": "c-girard",
+    "bonDeCommande": "FS-240-TR GIRARD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-8461104-1555998.pdf",
+    "fichier": "2026-10-14_Girard_Trafic_403-8461104.pdf",
+    "dossierDrive": "Clients/Girard – FS-240-TR"
+  },
+  {
+    "id": "inv-403-7932827-5261794",
+    "date": "2026-10-13",
+    "recuLe": "2026-10-13T18:30",
+    "commande": "403-7932827-5261794",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 58.25,
+    "tva": 11.65,
+    "ttc": 69.9,
+    "clientId": "c-vincent",
+    "bonDeCommande": "FR-415-MR VINCENT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-7932827-5261794.pdf",
+    "fichier": "2026-10-13_Vincent_MeganeRS_403-7932827.pdf",
+    "dossierDrive": "Clients/Vincent – FR-415-MR"
+  },
+  {
+    "id": "inv-403-8076671-2864064",
+    "date": "2026-10-13",
+    "recuLe": "2026-10-13T14:20",
+    "commande": "403-8076671-2864064",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 58.25,
+    "tva": 11.65,
+    "ttc": 69.9,
+    "clientId": "c-lambert",
+    "bonDeCommande": "GB-077-ZL LAMBERT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-8076671-2864064.pdf",
+    "fichier": "2026-10-13_Lambert_TMax_403-8076671.pdf",
+    "dossierDrive": "Clients/Lambert – GB-077-ZL"
+  },
+  {
+    "id": "inv-403-9352241-5305165",
+    "date": "2026-10-12",
+    "recuLe": "2026-10-12T20:53",
+    "commande": "403-9352241-5305165",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      },
+      {
+        "designation": "Injecteurs Bosch EV14 550 cc (lot de 4)",
+        "ref": "BSH-EV14-550",
+        "qte": 1,
+        "puTtc": 319
+      },
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      }
+    ],
+    "ht": 497.5,
+    "tva": 99.5,
+    "ttc": 597,
+    "clientId": "c-mathieu",
+    "bonDeCommande": "GD-114-DU MATHIEU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-9352241-5305165.pdf",
+    "fichier": "2026-10-12_Mathieu_Duster_403-9352241.pdf",
+    "dossierDrive": "Clients/Mathieu – GD-114-DU"
+  },
+  {
+    "id": "inv-403-4146347-7195545",
+    "date": "2026-10-12",
+    "recuLe": "2026-10-12T20:48",
+    "commande": "403-4146347-7195545",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 98.17,
+    "tva": 19.63,
+    "ttc": 117.8,
+    "clientId": "c-fabre",
+    "bonDeCommande": "EV-604-MN FABRE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-4146347-7195545.pdf",
+    "fichier": "2026-10-12_Fabre_M140i_403-4146347.pdf",
+    "dossierDrive": "Clients/Fabre – EV-604-MN"
+  },
+  {
+    "id": "inv-403-7307115-8807582",
+    "date": "2026-10-12",
+    "recuLe": "2026-10-12T13:47",
+    "commande": "403-7307115-8807582",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      }
+    ],
+    "ht": 124.17,
+    "tva": 24.83,
+    "ttc": 149,
+    "clientId": "c-perrin",
+    "bonDeCommande": "FB-388-KG PERRIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-7307115-8807582.pdf",
+    "fichier": "2026-10-12_Perrin_CeedGT_403-7307115.pdf",
+    "dossierDrive": "Clients/Perrin – FB-388-KG"
+  },
+  {
+    "id": "inv-403-5268978-4745452",
+    "date": "2026-10-12",
+    "recuLe": "2026-10-12T11:02",
+    "commande": "403-5268978-4745452",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 39.92,
+    "tva": 7.98,
+    "ttc": 47.9,
+    "clientId": "c-morel",
+    "bonDeCommande": "FZ-903-GG MOREL",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-5268978-4745452.pdf",
+    "fichier": "2026-10-12_Morel_Golf8GTI_403-5268978.pdf",
+    "dossierDrive": "Clients/Morel – FZ-903-GG"
+  },
+  {
+    "id": "inv-403-9379940-5400971",
+    "date": "2026-10-10",
+    "recuLe": "2026-10-10T14:28",
+    "commande": "403-9379940-5400971",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Nettoyant frein Würth – 500 ml (lot de 12)",
+        "ref": "WUR-089010",
+        "qte": 1,
+        "puTtc": 59.9
+      },
+      {
+        "designation": "Bobine papier d'atelier 2 plis",
+        "ref": "PAP-1000",
+        "qte": 1,
+        "puTtc": 34.5
+      }
+    ],
+    "ht": 78.67,
+    "tva": 15.73,
+    "ttc": 94.4,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-9379940-5400971.pdf",
+    "fichier": "2026-10-10_StockAtelier_403-9379940.pdf",
+    "dossierDrive": "Factures/2026/10 – Stock atelier"
+  },
+  {
+    "id": "inv-403-1045696-4943834",
+    "date": "2026-10-10",
+    "recuLe": "2026-10-10T12:04",
+    "commande": "403-1045696-4943834",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 98.17,
+    "tva": 19.63,
+    "ttc": 117.8,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-1045696-4943834.pdf",
+    "fichier": "2026-10-10_Martin_GolfGTI_403-1045696.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-6908166-5720999",
+    "date": "2026-10-10",
+    "recuLe": "2026-10-10T08:32",
+    "commande": "403-6908166-5720999",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Papier thermique imprimante banc (lot de 10)",
+        "ref": "THM-57",
+        "qte": 2,
+        "puTtc": 18.5
+      }
+    ],
+    "ht": 30.83,
+    "tva": 6.17,
+    "ttc": 37,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-6908166-5720999.pdf",
+    "fichier": "2026-10-10_StockAtelier_403-6908166.pdf",
+    "dossierDrive": "Factures/2026/10 – Stock atelier"
+  },
+  {
+    "id": "inv-403-3760233-8129422",
+    "date": "2026-10-09",
+    "recuLe": "2026-10-09T19:03",
+    "commande": "403-3760233-8129422",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 11.24,
+    "tva": 2.25,
+    "ttc": 13.49,
+    "clientId": "c-benali",
+    "bonDeCommande": "FY-120-AM BENALI",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-3760233-8129422.pdf",
+    "fichier": "2026-10-09_Benali_A45S_403-3760233.pdf",
+    "dossierDrive": "Clients/Benali – FY-120-AM"
+  },
+  {
+    "id": "inv-403-3199345-7798387",
+    "date": "2026-10-09",
+    "recuLe": "2026-10-09T18:19",
+    "commande": "403-3199345-7798387",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 1,
+        "puTtc": 27.9
+      }
+    ],
+    "ht": 23.25,
+    "tva": 4.65,
+    "ttc": 27.9,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-3199345-7798387.pdf",
+    "fichier": "2026-10-09_Gauthier_3008_403-3199345.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-5439994-4212477",
+    "date": "2026-10-09",
+    "recuLe": "2026-10-09T16:30",
+    "commande": "403-5439994-4212477",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Plaquettes Ferodo DS2500 avant",
+        "ref": "FER-FCP4664H",
+        "qte": 1,
+        "puTtc": 134
+      },
+      {
+        "designation": "Liquide de frein Motul RBF 600 – 500 ml",
+        "ref": "MOT-100949",
+        "qte": 1,
+        "puTtc": 21.9
+      }
+    ],
+    "ht": 129.92,
+    "tva": 25.98,
+    "ttc": 155.9,
+    "clientId": "c-barbier",
+    "bonDeCommande": "FN-590-AG BARBIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-5439994-4212477.pdf",
+    "fichier": "2026-10-09_Barbier_Giulia_403-5439994.pdf",
+    "dossierDrive": "Clients/Barbier – FN-590-AG"
+  },
+  {
+    "id": "inv-403-2503348-7223056",
+    "date": "2026-10-09",
+    "recuLe": "2026-10-09T12:22",
+    "commande": "403-2503348-7223056",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 58.25,
+    "tva": 11.65,
+    "ttc": 69.9,
+    "clientId": "c-andre",
+    "bonDeCommande": "FT-209-BD ANDRÉ",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-2503348-7223056.pdf",
+    "fichier": "2026-10-09_Andre_320d_403-2503348.pdf",
+    "dossierDrive": "Clients/André – FT-209-BD"
+  },
+  {
+    "id": "inv-403-5521459-9692565",
+    "date": "2026-10-09",
+    "recuLe": "2026-10-09T09:14",
+    "commande": "403-5521459-9692565",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      }
+    ],
+    "ht": 37.42,
+    "tva": 7.48,
+    "ttc": 44.9,
+    "clientId": "c-bonnet",
+    "bonDeCommande": "DZ-358-KC BONNET",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-5521459-9692565.pdf",
+    "fichier": "2026-10-09_Bonnet_308GT_403-5521459.pdf",
+    "dossierDrive": "Clients/Bonnet – DZ-358-KC"
+  },
+  {
+    "id": "inv-403-3166096-3401169",
+    "date": "2026-10-08",
+    "recuLe": "2026-10-08T07:33",
+    "commande": "403-3166096-3401169",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 117.75,
+    "tva": 23.55,
+    "ttc": 141.3,
+    "clientId": "c-faure",
+    "bonDeCommande": "FK-668-JC FAURE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-3166096-3401169.pdf",
+    "fichier": "2026-10-08_Faure_MiniJCW_403-3166096.pdf",
+    "dossierDrive": "Clients/Faure – FK-668-JC"
+  },
+  {
+    "id": "inv-403-5168955-5053633",
+    "date": "2026-10-07",
+    "recuLe": "2026-10-07T17:41",
+    "commande": "403-5168955-5053633",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 83.24,
+    "tva": 16.65,
+    "ttc": 99.89,
+    "clientId": "c-rousseau",
+    "bonDeCommande": "EH-337-SS ROUSSEAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-5168955-5053633.pdf",
+    "fichier": "2026-10-07_Rousseau_S3_403-5168955.pdf",
+    "dossierDrive": "Clients/Rousseau – EH-337-SS"
+  },
+  {
+    "id": "inv-403-6498782-5920777",
+    "date": "2026-10-07",
+    "recuLe": "2026-10-07T17:13",
+    "commande": "403-6498782-5920777",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Injecteurs Bosch EV14 550 cc (lot de 4)",
+        "ref": "BSH-EV14-550",
+        "qte": 1,
+        "puTtc": 319
+      },
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      },
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      }
+    ],
+    "ht": 330.67,
+    "tva": 66.13,
+    "ttc": 396.8,
+    "clientId": "c-bonnet",
+    "bonDeCommande": "DZ-358-KC BONNET",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-6498782-5920777.pdf",
+    "fichier": "2026-10-07_Bonnet_308GT_403-6498782.pdf",
+    "dossierDrive": "Clients/Bonnet – DZ-358-KC"
+  },
+  {
+    "id": "inv-403-5852433-7873574",
+    "date": "2026-10-07",
+    "recuLe": "2026-10-07T14:33",
+    "commande": "403-5852433-7873574",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 136.08,
+    "tva": 27.22,
+    "ttc": 163.3,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-5852433-7873574.pdf",
+    "fichier": "2026-10-07_Martin_GolfGTI_403-5852433.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-1978388-1039641",
+    "date": "2026-10-07",
+    "recuLe": "2026-10-07T10:52",
+    "commande": "403-1978388-1039641",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à gazole Bosch F 026 402 062",
+        "ref": "BSH-F026402062",
+        "qte": 1,
+        "puTtc": 24.9
+      },
+      {
+        "designation": "Kit distribution Gates + pompe à eau",
+        "ref": "GAT-KP15580XS",
+        "qte": 1,
+        "puTtc": 167
+      },
+      {
+        "designation": "Disques Brembo Max ventilés (paire)",
+        "ref": "BRE-09.A820.75",
+        "qte": 1,
+        "puTtc": 189
+      }
+    ],
+    "ht": 317.42,
+    "tva": 63.48,
+    "ttc": 380.9,
+    "clientId": "c-barbier",
+    "bonDeCommande": "FN-590-AG BARBIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-1978388-1039641.pdf",
+    "fichier": "2026-10-07_Barbier_Giulia_403-1978388.pdf",
+    "dossierDrive": "Clients/Barbier – FN-590-AG"
+  },
+  {
+    "id": "inv-403-8021624-2084372",
+    "date": "2026-10-06",
+    "recuLe": "2026-10-06T20:14",
+    "commande": "403-8021624-2084372",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      },
+      {
+        "designation": "Durite turbo silicone Samco",
+        "ref": "SAM-TCS442",
+        "qte": 1,
+        "puTtc": 164
+      },
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 1,
+        "puTtc": 21.9
+      }
+    ],
+    "ht": 199,
+    "tva": 39.8,
+    "ttc": 238.8,
+    "clientId": "c-haddad",
+    "bonDeCommande": "EY-726-CL HADDAD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-8021624-2084372.pdf",
+    "fichier": "2026-10-06_Haddad_LeonCupra_403-8021624.pdf",
+    "dossierDrive": "Clients/Haddad – EY-726-CL"
+  },
+  {
+    "id": "inv-403-3507477-9710435",
+    "date": "2026-10-06",
+    "recuLe": "2026-10-06T18:58",
+    "commande": "403-3507477-9710435",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Liquide de frein Motul RBF 600 – 500 ml",
+        "ref": "MOT-100949",
+        "qte": 1,
+        "puTtc": 21.9
+      },
+      {
+        "designation": "Plaquettes Ferodo DS2500 avant",
+        "ref": "FER-FCP4664H",
+        "qte": 1,
+        "puTtc": 134
+      },
+      {
+        "designation": "Filtre à gazole Bosch F 026 402 062",
+        "ref": "BSH-F026402062",
+        "qte": 1,
+        "puTtc": 24.9
+      }
+    ],
+    "ht": 150.67,
+    "tva": 30.13,
+    "ttc": 180.8,
+    "clientId": "c-masson",
+    "bonDeCommande": "EW-118-MC MASSON",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-3507477-9710435.pdf",
+    "fichier": "2026-10-06_Masson_C220d_403-3507477.pdf",
+    "dossierDrive": "Clients/Masson – EW-118-MC"
+  },
+  {
+    "id": "inv-403-5460436-7118032",
+    "date": "2026-10-05",
+    "recuLe": "2026-10-05T20:45",
+    "commande": "403-5460436-7118032",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      }
+    ],
+    "ht": 37.42,
+    "tva": 7.48,
+    "ttc": 44.9,
+    "clientId": "c-perrin",
+    "bonDeCommande": "FB-388-KG PERRIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-5460436-7118032.pdf",
+    "fichier": "2026-10-05_Perrin_CeedGT_403-5460436.pdf",
+    "dossierDrive": "Clients/Perrin – FB-388-KG"
+  },
+  {
+    "id": "inv-403-4204906-4759316",
+    "date": "2026-10-05",
+    "recuLe": "2026-10-05T18:57",
+    "commande": "403-4204906-4759316",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 45.75,
+    "tva": 9.15,
+    "ttc": 54.9,
+    "clientId": "c-lambert",
+    "bonDeCommande": "GB-077-ZL LAMBERT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-4204906-4759316.pdf",
+    "fichier": "2026-10-05_Lambert_TMax_403-4204906.pdf",
+    "dossierDrive": "Clients/Lambert – GB-077-ZL"
+  },
+  {
+    "id": "inv-403-6662787-1168921",
+    "date": "2026-10-05",
+    "recuLe": "2026-10-05T08:39",
+    "commande": "403-6662787-1168921",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 39.92,
+    "tva": 7.98,
+    "ttc": 47.9,
+    "clientId": "c-fabre",
+    "bonDeCommande": "EV-604-MN FABRE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-6662787-1168921.pdf",
+    "fichier": "2026-10-05_Fabre_M140i_403-6662787.pdf",
+    "dossierDrive": "Clients/Fabre – EV-604-MN"
+  },
+  {
+    "id": "inv-403-1404614-5319335",
+    "date": "2026-10-02",
+    "recuLe": "2026-10-02T21:40",
+    "commande": "403-1404614-5319335",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 58.25,
+    "tva": 11.65,
+    "ttc": 69.9,
+    "clientId": "c-benali",
+    "bonDeCommande": "FY-120-AM BENALI",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-1404614-5319335.pdf",
+    "fichier": "2026-10-02_Benali_A45S_403-1404614.pdf",
+    "dossierDrive": "Clients/Benali – FY-120-AM"
+  },
+  {
+    "id": "inv-403-7487083-8181249",
+    "date": "2026-10-02",
+    "recuLe": "2026-10-02T12:14",
+    "commande": "403-7487083-8181249",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 39.92,
+    "tva": 7.98,
+    "ttc": 47.9,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-7487083-8181249.pdf",
+    "fichier": "2026-10-02_Martin_GolfGTI_403-7487083.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-6853578-3694756",
+    "date": "2026-09-30",
+    "recuLe": "2026-09-30T16:01",
+    "commande": "403-6853578-3694756",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 45.75,
+    "tva": 9.15,
+    "ttc": 54.9,
+    "clientId": "c-bertrand",
+    "bonDeCommande": "FM-512-PM BERTRAND",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-6853578-3694756.pdf",
+    "fichier": "2026-09-30_Bertrand_MacanS_403-6853578.pdf",
+    "dossierDrive": "Clients/Bertrand – FM-512-PM"
+  },
+  {
+    "id": "inv-403-7326966-4877169",
+    "date": "2026-09-30",
+    "recuLe": "2026-09-30T10:41",
+    "commande": "403-7326966-4877169",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 143.92,
+    "tva": 28.78,
+    "ttc": 172.7,
+    "clientId": "c-fabre",
+    "bonDeCommande": "EV-604-MN FABRE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-7326966-4877169.pdf",
+    "fichier": "2026-09-30_Fabre_M140i_403-7326966.pdf",
+    "dossierDrive": "Clients/Fabre – EV-604-MN"
+  },
+  {
+    "id": "inv-403-5097290-5686312",
+    "date": "2026-09-30",
+    "recuLe": "2026-09-30T10:32",
+    "commande": "403-5097290-5686312",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Sonde de température gaz d'échappement",
+        "ref": "NGK-93245",
+        "qte": 1,
+        "puTtc": 58
+      },
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 2,
+        "puTtc": 27.9
+      }
+    ],
+    "ht": 94.83,
+    "tva": 18.97,
+    "ttc": 113.8,
+    "clientId": "c-blanc",
+    "bonDeCommande": "EN-904-GT BLANC",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-5097290-5686312.pdf",
+    "fichier": "2026-09-30_Blanc_308GT_403-5097290.pdf",
+    "dossierDrive": "Clients/Blanc – EN-904-GT"
+  },
+  {
+    "id": "inv-403-3651850-8331562",
+    "date": "2026-09-29",
+    "recuLe": "2026-09-29T21:01",
+    "commande": "403-3651850-8331562",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Booster de démarrage NOCO GB70",
+        "ref": "NOCO-GB70",
+        "qte": 1,
+        "puTtc": 249
+      },
+      {
+        "designation": "Câble OBD2 rallonge 1,5 m",
+        "ref": "OBD-EXT15",
+        "qte": 2,
+        "puTtc": 14.99
+      },
+      {
+        "designation": "Papier thermique imprimante banc (lot de 10)",
+        "ref": "THM-57",
+        "qte": 2,
+        "puTtc": 18.5
+      }
+    ],
+    "ht": 263.32,
+    "tva": 52.66,
+    "ttc": 315.98,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-3651850-8331562.pdf",
+    "fichier": "2026-09-29_StockAtelier_403-3651850.pdf",
+    "dossierDrive": "Factures/2026/09 – Stock atelier"
+  },
+  {
+    "id": "inv-403-3015982-7494125",
+    "date": "2026-09-29",
+    "recuLe": "2026-09-29T19:59",
+    "commande": "403-3015982-7494125",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 120.65,
+    "tva": 24.13,
+    "ttc": 144.78,
+    "clientId": "c-henry",
+    "bonDeCommande": "GL-302-RS HENRY",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-3015982-7494125.pdf",
+    "fichier": "2026-09-29_Henry_RS3_403-3015982.pdf",
+    "dossierDrive": "Clients/Henry – GL-302-RS"
+  },
+  {
+    "id": "inv-403-6488972-1331419",
+    "date": "2026-09-28",
+    "recuLe": "2026-09-28T18:46",
+    "commande": "403-6488972-1331419",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      },
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 1,
+        "puTtc": 21.9
+      },
+      {
+        "designation": "Capteur de pression de suralimentation Bosch",
+        "ref": "BSH-0281006059",
+        "qte": 1,
+        "puTtc": 79.9
+      }
+    ],
+    "ht": 325.67,
+    "tva": 65.13,
+    "ttc": 390.8,
+    "clientId": "c-moreau",
+    "bonDeCommande": "EX-512-RR MOREAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-6488972-1331419.pdf",
+    "fichier": "2026-09-28_Moreau_GolfR_403-6488972.pdf",
+    "dossierDrive": "Clients/Moreau – EX-512-RR"
+  },
+  {
+    "id": "inv-403-3860975-1951920",
+    "date": "2026-09-28",
+    "recuLe": "2026-09-28T15:02",
+    "commande": "403-3860975-1951920",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Booster de démarrage NOCO GB70",
+        "ref": "NOCO-GB70",
+        "qte": 1,
+        "puTtc": 249
+      }
+    ],
+    "ht": 207.5,
+    "tva": 41.5,
+    "ttc": 249,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-3860975-1951920.pdf",
+    "fichier": "2026-09-28_StockAtelier_403-3860975.pdf",
+    "dossierDrive": "Factures/2026/09 – Stock atelier"
+  },
+  {
+    "id": "inv-403-9303943-1579318",
+    "date": "2026-09-28",
+    "recuLe": "2026-09-28T09:37",
+    "commande": "403-9303943-1579318",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 56.99,
+    "tva": 11.4,
+    "ttc": 68.39,
+    "clientId": "c-lambert",
+    "bonDeCommande": "GB-077-ZL LAMBERT",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-9303943-1579318.pdf",
+    "fichier": "2026-09-28_Lambert_TMax_403-9303943.pdf",
+    "dossierDrive": "Clients/Lambert – GB-077-ZL"
+  },
+  {
+    "id": "inv-403-2235610-9967187",
+    "date": "2026-09-28",
+    "recuLe": "2026-09-28T07:21",
+    "commande": "403-2235610-9967187",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 54.57,
+    "tva": 10.91,
+    "ttc": 65.48,
+    "clientId": "c-fabre",
+    "bonDeCommande": "EV-604-MN FABRE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-2235610-9967187.pdf",
+    "fichier": "2026-09-28_Fabre_M140i_403-2235610.pdf",
+    "dossierDrive": "Clients/Fabre – EV-604-MN"
+  },
+  {
+    "id": "inv-403-7395802-5401801",
+    "date": "2026-09-26",
+    "recuLe": "2026-09-26T07:26",
+    "commande": "403-7395802-5401801",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      }
+    ],
+    "ht": 107.5,
+    "tva": 21.5,
+    "ttc": 129,
+    "clientId": "c-garnier",
+    "bonDeCommande": "FF-293-ST GARNIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-7395802-5401801.pdf",
+    "fichier": "2026-09-26_Garnier_FiestaST_403-7395802.pdf",
+    "dossierDrive": "Clients/Garnier – FF-293-ST"
+  },
+  {
+    "id": "inv-403-8759908-6373127",
+    "date": "2026-09-25",
+    "recuLe": "2026-09-25T18:04",
+    "commande": "403-8759908-6373127",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      },
+      {
+        "designation": "Durite turbo silicone Samco",
+        "ref": "SAM-TCS442",
+        "qte": 1,
+        "puTtc": 164
+      },
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      }
+    ],
+    "ht": 421.58,
+    "tva": 84.32,
+    "ttc": 505.9,
+    "clientId": "c-moreau",
+    "bonDeCommande": "EX-512-RR MOREAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-8759908-6373127.pdf",
+    "fichier": "2026-09-25_Moreau_GolfR_403-8759908.pdf",
+    "dossierDrive": "Clients/Moreau – EX-512-RR"
+  },
+  {
+    "id": "inv-403-1985938-2852995",
+    "date": "2026-09-25",
+    "recuLe": "2026-09-25T16:35",
+    "commande": "403-1985938-2852995",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Injecteurs Bosch EV14 550 cc (lot de 4)",
+        "ref": "BSH-EV14-550",
+        "qte": 1,
+        "puTtc": 319
+      }
+    ],
+    "ht": 265.83,
+    "tva": 53.17,
+    "ttc": 319,
+    "clientId": "c-perrin",
+    "bonDeCommande": "FB-388-KG PERRIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-1985938-2852995.pdf",
+    "fichier": "2026-09-25_Perrin_CeedGT_403-1985938.pdf",
+    "dossierDrive": "Clients/Perrin – FB-388-KG"
+  },
+  {
+    "id": "inv-403-1872310-6669519",
+    "date": "2026-09-22",
+    "recuLe": "2026-09-22T18:02",
+    "commande": "403-1872310-6669519",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Booster de démarrage NOCO GB70",
+        "ref": "NOCO-GB70",
+        "qte": 1,
+        "puTtc": 249
+      },
+      {
+        "designation": "Bobine papier d'atelier 2 plis",
+        "ref": "PAP-1000",
+        "qte": 1,
+        "puTtc": 34.5
+      },
+      {
+        "designation": "Nettoyant frein Würth – 500 ml (lot de 12)",
+        "ref": "WUR-089010",
+        "qte": 1,
+        "puTtc": 59.9
+      }
+    ],
+    "ht": 286.17,
+    "tva": 57.23,
+    "ttc": 343.4,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-1872310-6669519.pdf",
+    "fichier": "2026-09-22_StockAtelier_403-1872310.pdf",
+    "dossierDrive": "Factures/2026/09 – Stock atelier"
+  },
+  {
+    "id": "inv-403-2915021-1299786",
+    "date": "2026-09-22",
+    "recuLe": "2026-09-22T07:28",
+    "commande": "403-2915021-1299786",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Capteur de pression de suralimentation Bosch",
+        "ref": "BSH-0281006059",
+        "qte": 1,
+        "puTtc": 79.9
+      },
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 2,
+        "puTtc": 21.9
+      }
+    ],
+    "ht": 103.08,
+    "tva": 20.62,
+    "ttc": 123.7,
+    "clientId": "c-haddad",
+    "bonDeCommande": "EY-726-CL HADDAD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-2915021-1299786.pdf",
+    "fichier": "2026-09-22_Haddad_LeonCupra_403-2915021.pdf",
+    "dossierDrive": "Clients/Haddad – EY-726-CL"
+  },
+  {
+    "id": "inv-403-6991566-9108112",
+    "date": "2026-09-21",
+    "recuLe": "2026-09-21T18:18",
+    "commande": "403-6991566-9108112",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 1,
+        "puTtc": 21.9
+      },
+      {
+        "designation": "Bougies NGK Iridium indice 8 (lot de 4)",
+        "ref": "NGK-BKR8EIX",
+        "qte": 1,
+        "puTtc": 52.9
+      }
+    ],
+    "ht": 62.33,
+    "tva": 12.47,
+    "ttc": 74.8,
+    "clientId": "c-haddad",
+    "bonDeCommande": "EY-726-CL HADDAD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-6991566-9108112.pdf",
+    "fichier": "2026-09-21_Haddad_LeonCupra_403-6991566.pdf",
+    "dossierDrive": "Clients/Haddad – EY-726-CL"
+  },
+  {
+    "id": "inv-403-5334590-1321300",
+    "date": "2026-09-21",
+    "recuLe": "2026-09-21T15:13",
+    "commande": "403-5334590-1321300",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Capteur de pression de suralimentation Bosch",
+        "ref": "BSH-0281006059",
+        "qte": 1,
+        "puTtc": 79.9
+      },
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 2,
+        "puTtc": 21.9
+      },
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      }
+    ],
+    "ht": 343.92,
+    "tva": 68.78,
+    "ttc": 412.7,
+    "clientId": "c-roux",
+    "bonDeCommande": "FA-731-RS ROUX",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-5334590-1321300.pdf",
+    "fichier": "2026-09-21_Roux_RS3_403-5334590.pdf",
+    "dossierDrive": "Clients/Roux – FA-731-RS"
+  },
+  {
+    "id": "inv-403-4479548-7906684",
+    "date": "2026-09-21",
+    "recuLe": "2026-09-21T13:26",
+    "commande": "403-4479548-7906684",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Additif FAP Eolys PowerFlex – 1 L",
+        "ref": "EOL-9736",
+        "qte": 1,
+        "puTtc": 49.9
+      },
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 1,
+        "puTtc": 27.9
+      },
+      {
+        "designation": "Joint de bride FAP (lot de 2)",
+        "ref": "ELR-FAP-G2",
+        "qte": 1,
+        "puTtc": 16.9
+      }
+    ],
+    "ht": 78.92,
+    "tva": 15.78,
+    "ttc": 94.7,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-4479548-7906684.pdf",
+    "fichier": "2026-09-21_Gauthier_3008_403-4479548.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-4575954-4373873",
+    "date": "2026-09-21",
+    "recuLe": "2026-09-21T09:53",
+    "commande": "403-4575954-4373873",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 98.17,
+    "tva": 19.63,
+    "ttc": 117.8,
+    "clientId": "c-benali",
+    "bonDeCommande": "FY-120-AM BENALI",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-4575954-4373873.pdf",
+    "fichier": "2026-09-21_Benali_A45S_403-4575954.pdf",
+    "dossierDrive": "Clients/Benali – FY-120-AM"
+  },
+  {
+    "id": "inv-403-5910349-8374028",
+    "date": "2026-09-19",
+    "recuLe": "2026-09-19T15:14",
+    "commande": "403-5910349-8374028",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Capteur de pression de suralimentation Bosch",
+        "ref": "BSH-0281006059",
+        "qte": 1,
+        "puTtc": 79.9
+      },
+      {
+        "designation": "Durite turbo silicone Samco",
+        "ref": "SAM-TCS442",
+        "qte": 1,
+        "puTtc": 164
+      }
+    ],
+    "ht": 203.25,
+    "tva": 40.65,
+    "ttc": 243.9,
+    "clientId": "c-roux",
+    "bonDeCommande": "FA-731-RS ROUX",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-5910349-8374028.pdf",
+    "fichier": "2026-09-19_Roux_RS3_403-5910349.pdf",
+    "dossierDrive": "Clients/Roux – FA-731-RS"
+  },
+  {
+    "id": "inv-403-8421165-6936192",
+    "date": "2026-09-19",
+    "recuLe": "2026-09-19T14:50",
+    "commande": "403-8421165-6936192",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Injecteurs Bosch EV14 550 cc (lot de 4)",
+        "ref": "BSH-EV14-550",
+        "qte": 1,
+        "puTtc": 319
+      },
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      },
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      }
+    ],
+    "ht": 410.75,
+    "tva": 82.15,
+    "ttc": 492.9,
+    "clientId": "c-bonnet",
+    "bonDeCommande": "DZ-358-KC BONNET",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-8421165-6936192.pdf",
+    "fichier": "2026-09-19_Bonnet_308GT_403-8421165.pdf",
+    "dossierDrive": "Clients/Bonnet – DZ-358-KC"
+  },
+  {
+    "id": "inv-403-4464020-2857277",
+    "date": "2026-09-18",
+    "recuLe": "2026-09-18T19:11",
+    "commande": "403-4464020-2857277",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      },
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      },
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      }
+    ],
+    "ht": 172.33,
+    "tva": 34.47,
+    "ttc": 206.8,
+    "clientId": "c-perrin",
+    "bonDeCommande": "FB-388-KG PERRIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-4464020-2857277.pdf",
+    "fichier": "2026-09-18_Perrin_CeedGT_403-4464020.pdf",
+    "dossierDrive": "Clients/Perrin – FB-388-KG"
+  },
+  {
+    "id": "inv-403-7832050-5363176",
+    "date": "2026-09-18",
+    "recuLe": "2026-09-18T19:01",
+    "commande": "403-7832050-5363176",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Housses de siège jetables (rouleau de 500)",
+        "ref": "HSJ-500",
+        "qte": 1,
+        "puTtc": 39.9
+      },
+      {
+        "designation": "Nettoyant frein Würth – 500 ml (lot de 12)",
+        "ref": "WUR-089010",
+        "qte": 1,
+        "puTtc": 59.9
+      }
+    ],
+    "ht": 83.17,
+    "tva": 16.63,
+    "ttc": 99.8,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-7832050-5363176.pdf",
+    "fichier": "2026-09-18_StockAtelier_403-7832050.pdf",
+    "dossierDrive": "Factures/2026/09 – Stock atelier"
+  },
+  {
+    "id": "inv-403-3243213-5190817",
+    "date": "2026-09-17",
+    "recuLe": "2026-09-17T20:21",
+    "commande": "403-3243213-5190817",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 39.92,
+    "tva": 7.98,
+    "ttc": 47.9,
+    "clientId": "c-chevalier",
+    "bonDeCommande": "GK-845-VZ CHEVALIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-3243213-5190817.pdf",
+    "fichier": "2026-09-17_Chevalier_FormentorVZ5_403-3243213.pdf",
+    "dossierDrive": "Clients/Chevalier – GK-845-VZ"
+  },
+  {
+    "id": "inv-403-7732733-8424468",
+    "date": "2026-09-17",
+    "recuLe": "2026-09-17T11:36",
+    "commande": "403-7732733-8424468",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      },
+      {
+        "designation": "Injecteurs Bosch EV14 550 cc (lot de 4)",
+        "ref": "BSH-EV14-550",
+        "qte": 1,
+        "puTtc": 319
+      },
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      }
+    ],
+    "ht": 497.5,
+    "tva": 99.5,
+    "ttc": 597,
+    "clientId": "c-mathieu",
+    "bonDeCommande": "GD-114-DU MATHIEU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-7732733-8424468.pdf",
+    "fichier": "2026-09-17_Mathieu_Duster_403-7732733.pdf",
+    "dossierDrive": "Clients/Mathieu – GD-114-DU"
+  },
+  {
+    "id": "inv-403-8828552-7068862",
+    "date": "2026-09-16",
+    "recuLe": "2026-09-16T21:12",
+    "commande": "403-8828552-7068862",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 45.75,
+    "tva": 9.15,
+    "ttc": 54.9,
+    "clientId": "c-fabre",
+    "bonDeCommande": "EV-604-MN FABRE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-8828552-7068862.pdf",
+    "fichier": "2026-09-16_Fabre_M140i_403-8828552.pdf",
+    "dossierDrive": "Clients/Fabre – EV-604-MN"
+  },
+  {
+    "id": "inv-403-7197732-3789116",
+    "date": "2026-09-16",
+    "recuLe": "2026-09-16T18:10",
+    "commande": "403-7197732-3789116",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 85.67,
+    "tva": 17.13,
+    "ttc": 102.8,
+    "clientId": "c-fabre",
+    "bonDeCommande": "EV-604-MN FABRE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-7197732-3789116.pdf",
+    "fichier": "2026-09-16_Fabre_M140i_403-7197732.pdf",
+    "dossierDrive": "Clients/Fabre – EV-604-MN"
+  },
+  {
+    "id": "inv-403-4524591-8324706",
+    "date": "2026-09-16",
+    "recuLe": "2026-09-16T15:18",
+    "commande": "403-4524591-8324706",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 43.33,
+    "tva": 8.66,
+    "ttc": 51.99,
+    "clientId": "c-andre",
+    "bonDeCommande": "FT-209-BD ANDRÉ",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-4524591-8324706.pdf",
+    "fichier": "2026-09-16_Andre_320d_403-4524591.pdf",
+    "dossierDrive": "Clients/André – FT-209-BD"
+  },
+  {
+    "id": "inv-403-4269744-9118599",
+    "date": "2026-09-16",
+    "recuLe": "2026-09-16T11:34",
+    "commande": "403-4269744-9118599",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      },
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      },
+      {
+        "designation": "Filtre à essence Mahle KL 583",
+        "ref": "MAH-KL583",
+        "qte": 1,
+        "puTtc": 32.9
+      }
+    ],
+    "ht": 259.08,
+    "tva": 51.82,
+    "ttc": 310.9,
+    "clientId": "c-dupuis",
+    "bonDeCommande": "FC-781-PG DUPUIS",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-4269744-9118599.pdf",
+    "fichier": "2026-09-16_Dupuis_PoloGTI_403-4269744.pdf",
+    "dossierDrive": "Clients/Dupuis – FC-781-PG"
+  },
+  {
+    "id": "inv-403-7875328-5806470",
+    "date": "2026-09-15",
+    "recuLe": "2026-09-15T15:57",
+    "commande": "403-7875328-5806470",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      },
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 115.24,
+    "tva": 23.05,
+    "ttc": 138.29,
+    "clientId": "c-andre",
+    "bonDeCommande": "FT-209-BD ANDRÉ",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-7875328-5806470.pdf",
+    "fichier": "2026-09-15_Andre_320d_403-7875328.pdf",
+    "dossierDrive": "Clients/André – FT-209-BD"
+  },
+  {
+    "id": "inv-403-5213649-8847540",
+    "date": "2026-09-15",
+    "recuLe": "2026-09-15T13:13",
+    "commande": "403-5213649-8847540",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Faisceau adaptateur capteur éthanol",
+        "ref": "FFX-HARN-01",
+        "qte": 1,
+        "puTtc": 44.9
+      }
+    ],
+    "ht": 37.42,
+    "tva": 7.48,
+    "ttc": 44.9,
+    "clientId": "c-mathieu",
+    "bonDeCommande": "GD-114-DU MATHIEU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-5213649-8847540.pdf",
+    "fichier": "2026-09-15_Mathieu_Duster_403-5213649.pdf",
+    "dossierDrive": "Clients/Mathieu – GD-114-DU"
+  },
+  {
+    "id": "inv-403-8662184-6406116",
+    "date": "2026-09-14",
+    "recuLe": "2026-09-14T17:24",
+    "commande": "403-8662184-6406116",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 69.49,
+    "tva": 13.9,
+    "ttc": 83.39,
+    "clientId": "c-henry",
+    "bonDeCommande": "GL-302-RS HENRY",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-8662184-6406116.pdf",
+    "fichier": "2026-09-14_Henry_RS3_403-8662184.pdf",
+    "dossierDrive": "Clients/Henry – GL-302-RS"
+  },
+  {
+    "id": "inv-403-1658556-2213979",
+    "date": "2026-09-14",
+    "recuLe": "2026-09-14T16:00",
+    "commande": "403-1658556-2213979",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 130.25,
+    "tva": 26.05,
+    "ttc": 156.3,
+    "clientId": "c-henry",
+    "bonDeCommande": "GL-302-RS HENRY",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-1658556-2213979.pdf",
+    "fichier": "2026-09-14_Henry_RS3_403-1658556.pdf",
+    "dossierDrive": "Clients/Henry – GL-302-RS"
+  },
+  {
+    "id": "inv-403-6114180-6126789",
+    "date": "2026-09-14",
+    "recuLe": "2026-09-14T15:34",
+    "commande": "403-6114180-6126789",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Nettoyant frein Würth – 500 ml (lot de 12)",
+        "ref": "WUR-089010",
+        "qte": 1,
+        "puTtc": 59.9
+      }
+    ],
+    "ht": 49.92,
+    "tva": 9.98,
+    "ttc": 59.9,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-6114180-6126789.pdf",
+    "fichier": "2026-09-14_StockAtelier_403-6114180.pdf",
+    "dossierDrive": "Factures/2026/09 – Stock atelier"
+  },
+  {
+    "id": "inv-403-3482775-4504554",
+    "date": "2026-09-14",
+    "recuLe": "2026-09-14T10:02",
+    "commande": "403-3482775-4504554",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 94.48,
+    "tva": 18.9,
+    "ttc": 113.38,
+    "clientId": "c-bertrand",
+    "bonDeCommande": "FM-512-PM BERTRAND",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-3482775-4504554.pdf",
+    "fichier": "2026-09-14_Bertrand_MacanS_403-3482775.pdf",
+    "dossierDrive": "Clients/Bertrand – FM-512-PM"
+  },
+  {
+    "id": "inv-403-2980786-1769874",
+    "date": "2026-09-14",
+    "recuLe": "2026-09-14T09:48",
+    "commande": "403-2980786-1769874",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 58.25,
+    "tva": 11.65,
+    "ttc": 69.9,
+    "clientId": "c-faure",
+    "bonDeCommande": "FK-668-JC FAURE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-2980786-1769874.pdf",
+    "fichier": "2026-09-14_Faure_MiniJCW_403-2980786.pdf",
+    "dossierDrive": "Clients/Faure – FK-668-JC"
+  },
+  {
+    "id": "inv-403-5806585-3964821",
+    "date": "2026-09-12",
+    "recuLe": "2026-09-12T20:02",
+    "commande": "403-5806585-3964821",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Gants nitrile noirs taille L (boîte de 100)",
+        "ref": "NIT-L100",
+        "qte": 2,
+        "puTtc": 12.9
+      }
+    ],
+    "ht": 21.5,
+    "tva": 4.3,
+    "ttc": 25.8,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-5806585-3964821.pdf",
+    "fichier": "2026-09-12_StockAtelier_403-5806585.pdf",
+    "dossierDrive": "Factures/2026/09 – Stock atelier"
+  },
+  {
+    "id": "inv-403-8912443-8568468",
+    "date": "2026-09-12",
+    "recuLe": "2026-09-12T07:43",
+    "commande": "403-8912443-8568468",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Plaquettes Ferodo DS2500 avant",
+        "ref": "FER-FCP4664H",
+        "qte": 1,
+        "puTtc": 134
+      },
+      {
+        "designation": "Liquide de frein Motul RBF 600 – 500 ml",
+        "ref": "MOT-100949",
+        "qte": 2,
+        "puTtc": 21.9
+      },
+      {
+        "designation": "Filtre à gazole Bosch F 026 402 062",
+        "ref": "BSH-F026402062",
+        "qte": 2,
+        "puTtc": 24.9
+      }
+    ],
+    "ht": 189.67,
+    "tva": 37.93,
+    "ttc": 227.6,
+    "clientId": "c-masson",
+    "bonDeCommande": "EW-118-MC MASSON",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-8912443-8568468.pdf",
+    "fichier": "2026-09-12_Masson_C220d_403-8912443.pdf",
+    "dossierDrive": "Clients/Masson – EW-118-MC"
+  },
+  {
+    "id": "inv-403-7780371-4949915",
+    "date": "2026-09-11",
+    "recuLe": "2026-09-11T19:38",
+    "commande": "403-7780371-4949915",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 43.33,
+    "tva": 8.66,
+    "ttc": 51.99,
+    "clientId": "c-rousseau",
+    "bonDeCommande": "EH-337-SS ROUSSEAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-7780371-4949915.pdf",
+    "fichier": "2026-09-11_Rousseau_S3_403-7780371.pdf",
+    "dossierDrive": "Clients/Rousseau – EH-337-SS"
+  },
+  {
+    "id": "inv-403-2068379-5826845",
+    "date": "2026-09-10",
+    "recuLe": "2026-09-10T16:22",
+    "commande": "403-2068379-5826845",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 22.48,
+    "tva": 4.5,
+    "ttc": 26.98,
+    "clientId": "c-bertrand",
+    "bonDeCommande": "FM-512-PM BERTRAND",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-2068379-5826845.pdf",
+    "fichier": "2026-09-10_Bertrand_MacanS_403-2068379.pdf",
+    "dossierDrive": "Clients/Bertrand – FM-512-PM"
+  },
+  {
+    "id": "inv-403-2083226-3807547",
+    "date": "2026-09-10",
+    "recuLe": "2026-09-10T14:43",
+    "commande": "403-2083226-3807547",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 1,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      }
+    ],
+    "ht": 89.08,
+    "tva": 17.81,
+    "ttc": 106.89,
+    "clientId": "c-martin",
+    "bonDeCommande": "GE-482-PL MARTIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-2083226-3807547.pdf",
+    "fichier": "2026-09-10_Martin_GolfGTI_403-2083226.pdf",
+    "dossierDrive": "Clients/Martin – GE-482-PL"
+  },
+  {
+    "id": "inv-403-3373978-4532481",
+    "date": "2026-09-09",
+    "recuLe": "2026-09-09T09:38",
+    "commande": "403-3373978-4532481",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Booster de démarrage NOCO GB70",
+        "ref": "NOCO-GB70",
+        "qte": 1,
+        "puTtc": 249
+      },
+      {
+        "designation": "Nettoyant frein Würth – 500 ml (lot de 12)",
+        "ref": "WUR-089010",
+        "qte": 1,
+        "puTtc": 59.9
+      }
+    ],
+    "ht": 257.42,
+    "tva": 51.48,
+    "ttc": 308.9,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-3373978-4532481.pdf",
+    "fichier": "2026-09-09_StockAtelier_403-3373978.pdf",
+    "dossierDrive": "Factures/2026/09 – Stock atelier"
+  },
+  {
+    "id": "inv-403-7262517-3977635",
+    "date": "2026-09-08",
+    "recuLe": "2026-09-08T19:40",
+    "commande": "403-7262517-3977635",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 22.48,
+    "tva": 4.5,
+    "ttc": 26.98,
+    "clientId": "c-faure",
+    "bonDeCommande": "FK-668-JC FAURE",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-7262517-3977635.pdf",
+    "fichier": "2026-09-08_Faure_MiniJCW_403-7262517.pdf",
+    "dossierDrive": "Clients/Faure – FK-668-JC"
+  },
+  {
+    "id": "inv-403-2279332-8026847",
+    "date": "2026-09-08",
+    "recuLe": "2026-09-08T19:21",
+    "commande": "403-2279332-8026847",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 1,
+        "puTtc": 27.9
+      },
+      {
+        "designation": "Sonde de température gaz d'échappement",
+        "ref": "NGK-93245",
+        "qte": 1,
+        "puTtc": 58
+      }
+    ],
+    "ht": 71.58,
+    "tva": 14.32,
+    "ttc": 85.9,
+    "clientId": "c-gauthier",
+    "bonDeCommande": "FE-835-PJ GAUTHIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 95,
+    "fichierOrigine": "Facture_403-2279332-8026847.pdf",
+    "fichier": "2026-09-08_Gauthier_3008_403-2279332.pdf",
+    "dossierDrive": "Clients/Gauthier – FE-835-PJ"
+  },
+  {
+    "id": "inv-403-8711158-1483592",
+    "date": "2026-09-08",
+    "recuLe": "2026-09-08T18:19",
+    "commande": "403-8711158-1483592",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      },
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 2,
+        "puTtc": 21.9
+      }
+    ],
+    "ht": 277.33,
+    "tva": 55.47,
+    "ttc": 332.8,
+    "clientId": "c-colin",
+    "bonDeCommande": "EL-467-FR COLIN",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-8711158-1483592.pdf",
+    "fichier": "2026-09-08_Colin_FocusRS_403-8711158.pdf",
+    "dossierDrive": "Clients/Colin – EL-467-FR"
+  },
+  {
+    "id": "inv-403-5060776-6476385",
+    "date": "2026-09-08",
+    "recuLe": "2026-09-08T07:08",
+    "commande": "403-5060776-6476385",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Dégraissant moteur – 5 L",
+        "ref": "DGM-5L",
+        "qte": 1,
+        "puTtc": 26.9
+      }
+    ],
+    "ht": 22.42,
+    "tva": 4.48,
+    "ttc": 26.9,
+    "clientId": null,
+    "bonDeCommande": "STOCK ATELIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-5060776-6476385.pdf",
+    "fichier": "2026-09-08_StockAtelier_403-5060776.pdf",
+    "dossierDrive": "Factures/2026/09 – Stock atelier"
+  },
+  {
+    "id": "inv-403-9164940-7680956",
+    "date": "2026-09-07",
+    "recuLe": "2026-09-07T17:06",
+    "commande": "403-9164940-7680956",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 2,
+        "puTtc": 21.9
+      },
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      }
+    ],
+    "ht": 277.33,
+    "tva": 55.47,
+    "ttc": 332.8,
+    "clientId": "c-moreau",
+    "bonDeCommande": "EX-512-RR MOREAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-9164940-7680956.pdf",
+    "fichier": "2026-09-07_Moreau_GolfR_403-9164940.pdf",
+    "dossierDrive": "Clients/Moreau – EX-512-RR"
+  },
+  {
+    "id": "inv-403-4103100-4083002",
+    "date": "2026-09-07",
+    "recuLe": "2026-09-07T13:29",
+    "commande": "403-4103100-4083002",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      }
+    ],
+    "ht": 124.17,
+    "tva": 24.83,
+    "ttc": 149,
+    "clientId": "c-dupuis",
+    "bonDeCommande": "FC-781-PG DUPUIS",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-4103100-4083002.pdf",
+    "fichier": "2026-09-07_Dupuis_PoloGTI_403-4103100.pdf",
+    "dossierDrive": "Clients/Dupuis – FC-781-PG"
+  },
+  {
+    "id": "inv-403-8878064-1769103",
+    "date": "2026-09-07",
+    "recuLe": "2026-09-07T11:06",
+    "commande": "403-8878064-1769103",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      }
+    ],
+    "ht": 32.08,
+    "tva": 6.42,
+    "ttc": 38.5,
+    "clientId": "c-andre",
+    "bonDeCommande": "FT-209-BD ANDRÉ",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-8878064-1769103.pdf",
+    "fichier": "2026-09-07_Andre_320d_403-8878064.pdf",
+    "dossierDrive": "Clients/André – FT-209-BD"
+  },
+  {
+    "id": "inv-403-8040083-3544335",
+    "date": "2026-09-07",
+    "recuLe": "2026-09-07T08:11",
+    "commande": "403-8040083-3544335",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Collier inox T-bolt 63 mm (lot de 4)",
+        "ref": "TBT-63",
+        "qte": 2,
+        "puTtc": 21.9
+      }
+    ],
+    "ht": 36.5,
+    "tva": 7.3,
+    "ttc": 43.8,
+    "clientId": "c-moreau",
+    "bonDeCommande": "EX-512-RR MOREAU",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 97,
+    "fichierOrigine": "Facture_403-8040083-3544335.pdf",
+    "fichier": "2026-09-07_Moreau_GolfR_403-8040083.pdf",
+    "dossierDrive": "Clients/Moreau – EX-512-RR"
+  },
+  {
+    "id": "inv-403-3624268-4041498",
+    "date": "2026-09-07",
+    "recuLe": "2026-09-07T07:29",
+    "commande": "403-3624268-4041498",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Capteur d'éthanol Continental Flex Fuel",
+        "ref": "CNT-13577429",
+        "qte": 1,
+        "puTtc": 129
+      }
+    ],
+    "ht": 107.5,
+    "tva": 21.5,
+    "ttc": 129,
+    "clientId": "c-garnier",
+    "bonDeCommande": "FF-293-ST GARNIER",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-3624268-4041498.pdf",
+    "fichier": "2026-09-07_Garnier_FiestaST_403-3624268.pdf",
+    "dossierDrive": "Clients/Garnier – FF-293-ST"
+  },
+  {
+    "id": "inv-403-8430231-3837781",
+    "date": "2026-09-05",
+    "recuLe": "2026-09-05T07:24",
+    "commande": "403-8430231-3837781",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      },
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      }
+    ],
+    "ht": 62.4,
+    "tva": 12.48,
+    "ttc": 74.88,
+    "clientId": "c-bertrand",
+    "bonDeCommande": "FM-512-PM BERTRAND",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-8430231-3837781.pdf",
+    "fichier": "2026-09-05_Bertrand_MacanS_403-8430231.pdf",
+    "dossierDrive": "Clients/Bertrand – FM-512-PM"
+  },
+  {
+    "id": "inv-403-9626083-7622293",
+    "date": "2026-09-04",
+    "recuLe": "2026-09-04T18:36",
+    "commande": "403-9626083-7622293",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Additif FAP Eolys PowerFlex – 1 L",
+        "ref": "EOL-9736",
+        "qte": 1,
+        "puTtc": 49.9
+      }
+    ],
+    "ht": 41.58,
+    "tva": 8.32,
+    "ttc": 49.9,
+    "clientId": "c-blanc",
+    "bonDeCommande": "EN-904-GT BLANC",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-9626083-7622293.pdf",
+    "fichier": "2026-09-04_Blanc_308GT_403-9626083.pdf",
+    "dossierDrive": "Clients/Blanc – EN-904-GT"
+  },
+  {
+    "id": "inv-403-9102355-4451332",
+    "date": "2026-09-04",
+    "recuLe": "2026-09-04T17:25",
+    "commande": "403-9102355-4451332",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Filtre à huile MANN HU 7020 z",
+        "ref": "MANN-HU7020Z",
+        "qte": 2,
+        "puTtc": 13.49
+      }
+    ],
+    "ht": 22.48,
+    "tva": 4.5,
+    "ttc": 26.98,
+    "clientId": "c-morel",
+    "bonDeCommande": "FZ-903-GG MOREL",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 98,
+    "fichierOrigine": "Facture_403-9102355-4451332.pdf",
+    "fichier": "2026-09-04_Morel_Golf8GTI_403-9102355.pdf",
+    "dossierDrive": "Clients/Morel – FZ-903-GG"
+  },
+  {
+    "id": "inv-403-8638556-2601374",
+    "date": "2026-09-03",
+    "recuLe": "2026-09-03T20:37",
+    "commande": "403-8638556-2601374",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Sonde de température gaz d'échappement",
+        "ref": "NGK-93245",
+        "qte": 1,
+        "puTtc": 58
+      },
+      {
+        "designation": "Nettoyant FAP Bardahl – 1 L",
+        "ref": "BAR-1063",
+        "qte": 1,
+        "puTtc": 27.9
+      }
+    ],
+    "ht": 71.58,
+    "tva": 14.32,
+    "ttc": 85.9,
+    "clientId": "c-blanc",
+    "bonDeCommande": "EN-904-GT BLANC",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-8638556-2601374.pdf",
+    "fichier": "2026-09-03_Blanc_308GT_403-8638556.pdf",
+    "dossierDrive": "Clients/Blanc – EN-904-GT"
+  },
+  {
+    "id": "inv-403-1977534-8081074",
+    "date": "2026-09-03",
+    "recuLe": "2026-09-03T07:17",
+    "commande": "403-1977534-8081074",
+    "vendeur": "Racing Parts Europe",
+    "articles": [
+      {
+        "designation": "Pompe à essence Walbro 255 l/h",
+        "ref": "WAL-F90000267",
+        "qte": 1,
+        "puTtc": 149
+      }
+    ],
+    "ht": 124.17,
+    "tva": 24.83,
+    "ttc": 149,
+    "clientId": "c-dupuis",
+    "bonDeCommande": "FC-781-PG DUPUIS",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-1977534-8081074.pdf",
+    "fichier": "2026-09-03_Dupuis_PoloGTI_403-1977534.pdf",
+    "dossierDrive": "Clients/Dupuis – FC-781-PG"
+  },
+  {
+    "id": "inv-403-1649367-8874448",
+    "date": "2026-09-02",
+    "recuLe": "2026-09-02T21:43",
+    "commande": "403-1649367-8874448",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Bougies NGK Iridium IX (lot de 4)",
+        "ref": "NGK-BKR7EIX",
+        "qte": 1,
+        "puTtc": 47.9
+      },
+      {
+        "designation": "Bobine d'allumage Bosch 0 986 221 023",
+        "ref": "BSH-0986221023",
+        "qte": 1,
+        "puTtc": 38.5
+      },
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 130.25,
+    "tva": 26.05,
+    "ttc": 156.3,
+    "clientId": "c-henry",
+    "bonDeCommande": "GL-302-RS HENRY",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 94,
+    "fichierOrigine": "Facture_403-1649367-8874448.pdf",
+    "fichier": "2026-09-02_Henry_RS3_403-1649367.pdf",
+    "dossierDrive": "Clients/Henry – GL-302-RS"
+  },
+  {
+    "id": "inv-403-8808248-3878025",
+    "date": "2026-09-02",
+    "recuLe": "2026-09-02T08:45",
+    "commande": "403-8808248-3878025",
+    "vendeur": "Amazon EU S.à r.l.",
+    "articles": [
+      {
+        "designation": "Kit admission directe Forge Motorsport",
+        "ref": "FMINDK-EA888",
+        "qte": 1,
+        "puTtc": 289
+      }
+    ],
+    "ht": 240.83,
+    "tva": 48.17,
+    "ttc": 289,
+    "clientId": "c-haddad",
+    "bonDeCommande": "EY-726-CL HADDAD",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 99,
+    "fichierOrigine": "Facture_403-8808248-3878025.pdf",
+    "fichier": "2026-09-02_Haddad_LeonCupra_403-8808248.pdf",
+    "dossierDrive": "Clients/Haddad – EY-726-CL"
+  },
+  {
+    "id": "inv-403-4338531-7246127",
+    "date": "2026-09-01",
+    "recuLe": "2026-09-01T17:07",
+    "commande": "403-4338531-7246127",
+    "vendeur": "Atelier Pro Distribution",
+    "articles": [
+      {
+        "designation": "Huile Motul 8100 X-cess 5W40 – 5 L",
+        "ref": "MOT-104256",
+        "qte": 1,
+        "puTtc": 54.9
+      },
+      {
+        "designation": "Filtre à air sport K&N 33-3005",
+        "ref": "KN-33-3005",
+        "qte": 1,
+        "puTtc": 69.9
+      }
+    ],
+    "ht": 104,
+    "tva": 20.8,
+    "ttc": 124.8,
+    "clientId": "c-henry",
+    "bonDeCommande": "GL-302-RS HENRY",
+    "statut": "classee",
+    "motif": null,
+    "suggestionClientId": null,
+    "confiance": 96,
+    "fichierOrigine": "Facture_403-4338531-7246127.pdf",
+    "fichier": "2026-09-01_Henry_RS3_403-4338531.pdf",
+    "dossierDrive": "Clients/Henry – GL-302-RS"
+  }
+]

@@ -1,0 +1,16 @@
+/* Tokens structurels (identiques à Appesteban). Les couleurs vivent dans
+   glass.css, chargé en dernier, qui porte la palette Motortech. */
+:root {
+  --radius-sm: 10px;
+  --radius-md: 12px;
+  --radius-lg: 14px;
+
+  /* Un seul système de police (Inter) pour tout le texte : titres comme corps. */
+  --font-heading: 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  --sidebar-width: 232px;
+  --topbar-height: 64px;
+  --bottom-nav-height: 64px;
+  --breakpoint-desktop: 860px;
+}

@@ -1,0 +1,898 @@
+/* ============================================================
+   DESIGN SYSTEM — Glassmorphism premium (identique à Appesteban)
+   Seule la palette change : identité Motortech, relevée dans le CSS
+   de production de motortech.fr (#E20919, #C00815, #18181B, zinc…).
+   Importé en dernier dans main.jsx : redéfinit les tokens --color-*
+   pour recolorer toute l'app sans toucher au JSX.
+   ============================================================ */
+
+:root {
+  /* ---------- Marque Motortech ---------- */
+  --mt-red: #e20919;          /* rouge Motortech (aplats, boutons, courbes) */
+  --mt-red-hover: #c00815;    /* survol des boutons principaux */
+  --mt-red-deep: #9b0611;     /* fond des dégradés rouges */
+  --mt-e85: #6cb769;          /* vert bioéthanol E85 (.mtk-e85 du site) */
+  --mt-e85plus: #f19133;      /* orange E85+ (.mtk-e85plus du site) */
+
+  /* Accent unique : toute l'app lit --acc / --color-accent */
+  --acc: var(--mt-red);
+  --acc-hover: var(--mt-red-hover);
+
+  /* ---------- Rythme / durées / easing (inchangés) ---------- */
+  --ease-premium: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur-fast: 150ms;
+  --dur-base: 300ms;
+  --dur-slow: 600ms;
+  --dur-chart: 550ms;
+  --dur-intro: 900ms;
+  --dur-stagger-item: 1150ms;
+  --delay-stagger-step: 55ms;
+
+  /* ---------- Rayons / flou propres au verre (inchangés) ---------- */
+  --radius-glass: 22px;
+  --radius-glass-sm: 16px;
+  --glass-blur-amount: blur(40px) saturate(1.5);
+  --blur-stagger: blur(18px);
+  --blur-intro: blur(22px);
+  --blur-bubble: blur(6px);
+  --radius-pill: 999px;
+  --radius-xs: 6px;
+  --radius-icon: 9px;
+  --radius-bubble-tail: 4px;
+  --color-shade: var(--mt-red-deep);
+  --hero-gloss: rgba(255, 255, 255, 0.28);
+
+  --color-accent: var(--acc);
+}
+
+/* ---------- Mode clair (palette claire du site : #FEFEFE / zinc) ---------- */
+:root[data-theme='light'] {
+  --color-bg: #f4f4f5;
+  --color-surface: #fefefe;
+  --color-border: #e4e4e7;
+  --color-text: #18181b;
+  --color-muted: #52525b;
+  --color-neutral-soft: #ececef;
+  --color-overlay: rgba(24, 24, 27, 0.4);
+  --color-chrome: rgba(254, 254, 254, 0.82);
+
+  --acc-text: #c00815;
+  --color-accent-soft: #fae6e7;
+  --color-success: #3f8a3c;
+  --color-success-soft: #e7f3e6;
+  --color-warning: #b45309;
+  --color-warning-soft: #fdf0dc;
+  --color-danger: #c81e1e;
+  --color-danger-soft: #fde8e8;
+  --color-rdv: #2f62c4;
+  --color-rdv-soft: #e6eefb;
+  --mt-e85-text: #3f8a3c;
+
+  --shadow-sm: 0 1px 2px rgba(24, 24, 27, 0.05);
+  --shadow-md: 0 8px 24px rgba(24, 24, 27, 0.08);
+  --shadow-lg: 0 20px 48px rgba(24, 24, 27, 0.14);
+  --shadow-glass: 0 8px 32px rgba(24, 24, 27, 0.08);
+
+  --glass-grad: linear-gradient(155deg, rgba(255, 255, 255, 0.92) 0%, rgba(255, 255, 255, 0.7) 100%);
+  --glass-border: #e4e4e7;
+
+  --halo-bg:
+    radial-gradient(55% 45% at 12% 8%, color-mix(in srgb, var(--acc) 7%, transparent), transparent 70%),
+    radial-gradient(50% 40% at 92% 90%, color-mix(in srgb, var(--acc) 4%, transparent), transparent 70%),
+    linear-gradient(160deg, #fafafa 0%, #f1f1f2 100%);
+}
+
+/* ---------- Mode sombre Motortech (par défaut) ---------- */
+:root,
+:root[data-theme='dark'] {
+  --color-bg: #18181b;
+  --color-surface: #1f1f23;
+  --color-border: #2a2a2f;
+  --color-text: #ffffff;
+  --color-muted: #a1a1aa;
+  --color-neutral-soft: #27272a;
+  --color-overlay: rgba(9, 9, 11, 0.66);
+  --color-chrome: rgba(17, 17, 19, 0.86); /* sidebar / topbar / bottom nav : #111113 */
+
+  /* #E20919 en texte fin sur fond sombre = 3,35:1 (échec AA) :
+     variante éclaircie pour les petits textes rouges (5,0:1). */
+  --acc-text: #ff4d57;
+  --color-accent-soft: #3e1b21;
+  --color-success: var(--mt-e85);
+  --color-success-soft: #2b372e;
+  --color-warning: #f59e0b;
+  --color-warning-soft: #3a2e17;
+  --color-danger: #f87171;
+  --color-danger-soft: #3b1d20;
+  --color-rdv: #6e9bef;
+  --color-rdv-soft: #232c3d;
+  --mt-e85-text: var(--mt-e85);
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.35);
+  --shadow-lg: 0 24px 56px rgba(0, 0, 0, 0.5);
+  --shadow-glass: 0 12px 40px rgba(0, 0, 0, 0.4);
+
+  /* Verre fumé neutre sur #1F1F23 */
+  --glass-grad: linear-gradient(155deg, rgba(42, 42, 47, 0.78) 0%, rgba(31, 31, 35, 0.66) 100%);
+  --glass-border: #2a2a2f;
+
+  /* Halo rouge très discret : le rouge reste rare */
+  --halo-bg:
+    radial-gradient(60% 50% at 15% 8%, color-mix(in srgb, var(--acc) 8%, transparent), transparent 70%),
+    radial-gradient(50% 40% at 90% 88%, color-mix(in srgb, var(--acc) 5%, transparent), transparent 70%),
+    linear-gradient(160deg, #1b1b1f 0%, #18181b 55%, #111113 100%);
+}
+
+/* ---------- Halo lumineux de fond ---------- */
+/* Peint derrière tout le contenu (qui reste transparent) via un calque
+   fixe plutôt que sur body directement, pour ne pas gêner les usages
+   ponctuels de --color-bg (fonds unis de petits éléments). */
+body {
+  position: relative;
+  background: var(--color-bg);
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: var(--halo-bg);
+  transition: background var(--dur-slow) var(--ease-premium);
+}
+
+/* ---------- Utilitaire verre dépoli, réutilisé partout ---------- */
+.glass {
+  background: var(--glass-grad);
+  -webkit-backdrop-filter: var(--glass-blur-amount);
+  backdrop-filter: var(--glass-blur-amount);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-glass);
+  box-shadow: var(--shadow-glass);
+}
+
+.glass-sm {
+  background: var(--glass-grad);
+  -webkit-backdrop-filter: var(--glass-blur-amount);
+  backdrop-filter: var(--glass-blur-amount);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-glass-sm);
+  box-shadow: var(--shadow-glass);
+}
+
+/* ---------- Micro-interaction générique : légère élévation au survol ---------- */
+.lift-hover {
+  transition: transform var(--dur-base) var(--ease-premium), box-shadow var(--dur-base) var(--ease-premium);
+}
+
+@media (hover: hover) {
+  .lift-hover:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-lg);
+  }
+}
+
+/* ---------- Apparition en cascade (changement de page / listes) ---------- */
+/* IMPORTANT : aucune animation ne doit laisser un filter/transform/clip-path
+   résiduel (fill-mode "backwards" uniquement) — un filter ou transform non nul
+   fait de l'élément le bloc conteneur de ses descendants position:fixed. */
+.stagger-parent {
+  perspective: 1000px;
+}
+
+/* ---------- Respect de prefers-reduced-motion ---------- */
+/* Par défaut : pas d'animation. On l'ajoute seulement si l'utilisateur
+   n'a pas demandé de réduire les animations. */
+@media (prefers-reduced-motion: no-preference) {
+  .stagger-in {
+    animation: stagger-in var(--dur-stagger-item) var(--ease-premium) backwards;
+    animation-delay: calc(var(--stagger-i, 0) * var(--delay-stagger-step));
+  }
+
+  /* Pendant l'intro, le shell est borné à l'écran : ainsi la sidebar et la
+     bottom nav (fixed, temporairement rattachées au shell à cause du filter)
+     restent exactement à leur place. La classe est retirée à la fin. */
+  .app-intro {
+    height: 100vh;
+    overflow: hidden;
+    animation: app-intro var(--dur-intro) var(--ease-premium) backwards;
+  }
+}
+
+@keyframes stagger-in {
+  from {
+    opacity: 0;
+    transform: rotateX(18deg);
+    filter: var(--blur-stagger);
+  }
+  to {
+    opacity: 1;
+    transform: rotateX(0deg);
+    filter: blur(0);
+  }
+}
+
+@keyframes app-intro {
+  from {
+    clip-path: circle(0% at 50% 40%);
+    filter: var(--blur-intro);
+  }
+  to {
+    clip-path: circle(80% at 50% 40%);
+    filter: blur(0);
+  }
+}
+
+/* ---------- Compteur animé (StatCard) ---------- */
+.count-up {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ============================================================
+   Tokens complémentaires (pages)
+   ============================================================ */
+:root {
+  --dur-count: 900ms;
+
+  /* Tons sémantiques des icônes KPI (indépendants de l'accent) */
+  --tone-info: var(--color-rdv);
+  --tone-success: var(--color-success);
+  --tone-warning: var(--color-warning);
+  --tone-violet: var(--color-muted);
+  --tone-red: var(--acc-text);
+  --tone-red-soft: var(--color-accent-soft);
+  --tone-info-soft: color-mix(in srgb, var(--tone-info) 16%, transparent);
+  --tone-success-soft: color-mix(in srgb, var(--tone-success) 16%, transparent);
+  --tone-warning-soft: color-mix(in srgb, var(--tone-warning) 18%, transparent);
+  --tone-violet-soft: color-mix(in srgb, var(--tone-violet) 16%, transparent);
+
+  /* Graphiques : série 1 = accent, série 2 = encre neutre (+ pointillés) */
+  --chart-series-1: var(--acc);
+  --chart-series-2: #71717a;
+  --chart-area-opacity: 0.12;
+
+  /* Carte hero en couleur d'accent : assombrie là où se trouve le texte */
+  --hero-grad: linear-gradient(
+    150deg,
+    color-mix(in srgb, var(--acc) 72%, var(--color-shade)) 0%,
+    var(--acc) 100%
+  );
+  --hero-ink: #ffffff;
+  --hero-ink-soft: rgba(255, 255, 255, 0.78);
+  --hero-chip: rgba(255, 255, 255, 0.14);
+  --hero-chip-hover: rgba(255, 255, 255, 0.22);
+  --hero-chip-border: rgba(255, 255, 255, 0.22);
+  --hero-shadow: 0 18px 44px -18px var(--acc);
+
+  --row-hover: color-mix(in srgb, var(--acc) 5%, transparent);
+}
+
+/* ============================================================
+   Dashboard (Prospection)
+   ============================================================ */
+.stat-card {
+  border-radius: var(--radius-glass);
+}
+
+.stat-card-icon {
+  border-radius: var(--radius-md);
+}
+
+.stat-card-value {
+  font-size: 30px;
+  letter-spacing: -0.02em;
+}
+
+.stat-card-clickable {
+  transition: transform var(--dur-base) var(--ease-premium), box-shadow var(--dur-base) var(--ease-premium);
+}
+
+.stat-card-clickable:hover {
+  border-color: var(--glass-border);
+}
+
+.row-clickable {
+  transition: background var(--dur-fast) var(--ease-premium);
+  border-radius: var(--radius-glass-sm);
+}
+
+.row-clickable:hover {
+  background: var(--row-hover);
+}
+
+.dashboard-hero-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.35fr);
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.dashboard-stat-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-bottom: 0;
+}
+
+@media (max-width: 1040px) {
+  .dashboard-hero-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 420px) {
+  .dashboard-stat-grid {
+    gap: 12px;
+  }
+
+  .dashboard-stat-grid .stat-card {
+    padding: 14px;
+  }
+
+  .dashboard-stat-grid .stat-card-value {
+    font-size: 24px;
+  }
+}
+
+.hero-card {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 22px;
+  border-radius: var(--radius-glass);
+  background: var(--hero-grad);
+  color: var(--hero-ink);
+  border: 1px solid var(--hero-chip-border);
+  box-shadow: var(--hero-shadow);
+}
+
+/* Reflet lumineux du verre */
+.hero-card::before {
+  content: '';
+  position: absolute;
+  inset: -40% -20% auto auto;
+  width: 70%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--hero-gloss), transparent 65%);
+  pointer-events: none;
+}
+
+.hero-card-main {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  text-align: left;
+  color: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.hero-card-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--hero-ink-soft);
+}
+
+.hero-card-value {
+  font-family: var(--font-heading);
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+
+.hero-card-sub {
+  font-size: 13px;
+  color: var(--hero-ink-soft);
+}
+
+.hero-card-stats {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.hero-card-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+  padding: 10px 12px;
+  text-align: left;
+  color: inherit;
+  background: var(--hero-chip);
+  border: 1px solid var(--hero-chip-border);
+  border-radius: var(--radius-glass-sm);
+  cursor: pointer;
+  transition: transform var(--dur-base) var(--ease-premium), background var(--dur-fast) var(--ease-premium);
+}
+
+@media (hover: hover) {
+  .hero-card-stat:hover {
+    background: var(--hero-chip-hover);
+    transform: translateY(-2px);
+  }
+}
+
+.hero-card-stat-value {
+  font-family: var(--font-heading);
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.hero-card-stat-text {
+  font-size: 15px;
+  line-height: 1.6;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.hero-card-stat-label {
+  font-size: 12px;
+  line-height: 1.3;
+  color: var(--hero-ink-soft);
+  overflow-wrap: anywhere;
+}
+
+/* ---------- Sélecteur segmenté (périodes) ---------- */
+.chart-header-row {
+  align-items: flex-start;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.segmented {
+  position: relative;
+  display: inline-grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+  padding: 3px;
+  border-radius: var(--radius-pill);
+  background: var(--glass-grad);
+  border: 1px solid var(--glass-border);
+  -webkit-backdrop-filter: var(--glass-blur-amount);
+  backdrop-filter: var(--glass-blur-amount);
+  flex-shrink: 0;
+}
+
+/* Indicateur glissant : seul `transform` est animé */
+.segmented::before {
+  content: '';
+  position: absolute;
+  top: 3px;
+  bottom: 3px;
+  left: 3px;
+  width: calc((100% - 6px) / var(--seg-n, 3));
+  border-radius: var(--radius-pill);
+  background: var(--acc);
+  box-shadow: 0 6px 16px -8px var(--acc);
+  transform: translateX(calc(var(--seg-i, 0) * 100%));
+  transition: transform var(--dur-base) var(--ease-premium);
+}
+
+.segmented-item {
+  position: relative;
+  z-index: 1;
+  min-width: 44px;
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-muted);
+  background: none;
+  border: none;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  transition: color var(--dur-fast) var(--ease-premium);
+}
+
+.segmented-item-active {
+  color: var(--hero-ink);
+}
+
+/* ---------- Graphique d'évolution ---------- */
+.chart-area {
+  opacity: var(--chart-area-opacity);
+  stroke: none;
+}
+
+.chart-dot {
+  stroke: var(--color-surface);
+  stroke-width: 2;
+}
+
+.chart-tooltip {
+  background: var(--color-text);
+  color: var(--color-surface);
+  border-radius: var(--radius-glass-sm);
+  box-shadow: var(--shadow-lg);
+}
+
+.chart-tooltip .chart-legend-swatch {
+  filter: brightness(1.2);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .chart-points {
+    animation: chart-points-in var(--dur-slow) var(--ease-premium) backwards;
+    animation-delay: calc(var(--dur-chart) * 0.6);
+  }
+}
+
+@keyframes chart-points-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* ============================================================
+   Changement de page : cascade automatique des blocs de premier
+   niveau de chaque page (le dashboard gère sa propre cascade).
+   ============================================================ */
+.page-transition {
+  perspective: 1000px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .page-transition > div:not(.page-manual-stagger) > :not(.stagger-children) {
+    animation: stagger-in var(--dur-stagger-item) var(--ease-premium) backwards;
+    animation-delay: calc(var(--stagger-i, 0) * var(--delay-stagger-step));
+  }
+}
+
+.page-transition > div > :nth-child(2) { --stagger-i: 1; }
+.page-transition > div > :nth-child(3) { --stagger-i: 2; }
+.page-transition > div > :nth-child(4) { --stagger-i: 3; }
+.page-transition > div > :nth-child(5) { --stagger-i: 4; }
+.page-transition > div > :nth-child(6) { --stagger-i: 5; }
+.page-transition > div > :nth-child(7) { --stagger-i: 6; }
+.page-transition > div > :nth-child(n + 8) { --stagger-i: 7; }
+
+/* Cascade à l'intérieur d'une grille de cartes (listes, colonnes…) */
+@media (prefers-reduced-motion: no-preference) {
+  .stagger-children > * {
+    animation: stagger-in var(--dur-stagger-item) var(--ease-premium) backwards;
+    animation-delay: calc((var(--stagger-base, 2) + var(--stagger-i, 0)) * var(--delay-stagger-step));
+  }
+}
+
+.stagger-children > :nth-child(2) { --stagger-i: 1; }
+.stagger-children > :nth-child(3) { --stagger-i: 2; }
+.stagger-children > :nth-child(4) { --stagger-i: 3; }
+.stagger-children > :nth-child(5) { --stagger-i: 4; }
+.stagger-children > :nth-child(6) { --stagger-i: 5; }
+.stagger-children > :nth-child(7) { --stagger-i: 6; }
+.stagger-children > :nth-child(8) { --stagger-i: 7; }
+.stagger-children > :nth-child(n + 9) { --stagger-i: 8; }
+
+/* ============================================================
+   Prospects : barre d'outils + tableau
+   ============================================================ */
+:root {
+  --field-glass: color-mix(in srgb, var(--color-surface) 70%, transparent);
+}
+
+.search-input,
+.select-filter {
+  background: var(--field-glass);
+  -webkit-backdrop-filter: var(--glass-blur-amount);
+  backdrop-filter: var(--glass-blur-amount);
+  border-color: var(--glass-border);
+  border-radius: var(--radius-glass-sm);
+  transition: box-shadow var(--dur-fast) var(--ease-premium), border-color var(--dur-fast) var(--ease-premium);
+}
+
+.table-wrap {
+  background: var(--glass-grad);
+  -webkit-backdrop-filter: var(--glass-blur-amount);
+  backdrop-filter: var(--glass-blur-amount);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-glass);
+  box-shadow: var(--shadow-glass);
+}
+
+.data-table th {
+  background: transparent;
+}
+
+.data-table th,
+.data-table td {
+  border-bottom-color: var(--color-border);
+}
+
+.data-table tbody tr {
+  transition: background var(--dur-fast) var(--ease-premium);
+}
+
+.data-table tbody tr:hover {
+  background: var(--row-hover);
+}
+
+/* ============================================================
+   Palette de commande (⌘K / Ctrl+K)
+   ============================================================ */
+:root {
+  --cmdk-width: 640px;
+  --z-cmdk: 400;
+}
+
+.topbar-search {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 38px;
+  padding: 0 10px 0 12px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--glass-border);
+  background: var(--field-glass);
+  color: var(--color-muted);
+  font-size: 13px;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: transform var(--dur-fast) var(--ease-premium), box-shadow var(--dur-fast) var(--ease-premium);
+}
+
+@media (hover: hover) {
+  .topbar-search:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+  }
+}
+
+.topbar-search-label {
+  min-width: 120px;
+  text-align: left;
+}
+
+/* Sur mobile : simple icône */
+@media (max-width: 859px) {
+  .topbar-search {
+    width: 38px;
+    justify-content: center;
+    padding: 0;
+  }
+
+  .topbar-search-label,
+  .topbar-search-kbd {
+    display: none;
+  }
+}
+
+.cmdk-kbd {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  padding: 1px 6px;
+  border-radius: var(--radius-xs);
+  border: 1px solid var(--color-border);
+  background: var(--color-neutral-soft);
+  color: var(--color-muted);
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.cmdk-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-cmdk);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 12vh 16px 16px;
+  background: var(--color-overlay);
+}
+
+.cmdk-panel {
+  width: 100%;
+  max-width: var(--cmdk-width);
+  max-height: min(560px, 76vh);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--glass-grad);
+  -webkit-backdrop-filter: var(--glass-blur-amount);
+  backdrop-filter: var(--glass-blur-amount);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-glass);
+  box-shadow: var(--shadow-lg);
+}
+
+/* Le verre du mode clair est très transparent : on l'épaissit un peu ici
+   pour que la liste reste lisible au-dessus de la page. */
+.cmdk-panel {
+  background-color: color-mix(in srgb, var(--color-surface) 72%, transparent);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .cmdk-overlay {
+    animation: cmdk-fade var(--dur-base) var(--ease-premium);
+  }
+
+  .cmdk-panel {
+    animation: cmdk-in var(--dur-base) var(--ease-premium);
+  }
+}
+
+@keyframes cmdk-fade {
+  from {
+    opacity: 0;
+  }
+}
+
+@keyframes cmdk-in {
+  from {
+    opacity: 0;
+    transform: translateY(-8px) scale(0.98);
+  }
+}
+
+.cmdk-search {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-muted);
+}
+
+.cmdk-input {
+  flex: 1;
+  min-width: 0;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: var(--color-text);
+  font-size: 16px;
+  font-family: var(--font-body);
+}
+
+.cmdk-list {
+  overflow-y: auto;
+  padding: 6px;
+}
+
+.cmdk-group + .cmdk-group {
+  margin-top: 4px;
+}
+
+.cmdk-group-title {
+  padding: 8px 10px 4px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+}
+
+.cmdk-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 10px;
+  border: none;
+  border-radius: var(--radius-glass-sm);
+  background: transparent;
+  color: var(--color-text);
+  font-size: 14px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.cmdk-item[data-active='true'] {
+  background: var(--row-hover);
+  box-shadow: inset 2px 0 0 var(--acc);
+}
+
+.cmdk-item-icon {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+  display: grid;
+  place-items: center;
+  border-radius: var(--radius-icon);
+  background: var(--color-neutral-soft);
+  color: var(--color-muted);
+}
+
+.cmdk-item[data-active='true'] .cmdk-item-icon {
+  background: var(--acc);
+  color: var(--hero-ink);
+}
+
+.cmdk-swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--swatch);
+  box-shadow: 0 0 0 2px var(--color-surface);
+}
+
+.cmdk-item-label {
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.cmdk-item-sub {
+  margin-left: auto;
+  padding-left: 12px;
+  font-size: 12px;
+  color: var(--color-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.cmdk-empty {
+  padding: 28px 12px;
+  text-align: center;
+  color: var(--color-muted);
+  font-size: 14px;
+}
+
+.cmdk-footer {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding: 10px 16px;
+  border-top: 1px solid var(--color-border);
+  font-size: 12px;
+  color: var(--color-muted);
+}
+
+.cmdk-footer span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+@media (max-width: 859px) {
+  .cmdk-overlay {
+    padding-top: 8vh;
+  }
+
+  .cmdk-footer {
+    display: none;
+  }
+}
+
+/* ============================================================
+   prefers-reduced-motion : coupe aussi les animations préexistantes
+   (l'état reste lisible par la couleur : traits verts, pastille "au travail")
+   ============================================================ */
+@media (prefers-reduced-motion: reduce) {
+  .l-lead.calling,
+  .l-peer.active,
+  .bm-agent.working .pulse,
+  .toast,
+  .sheet {
+    animation: none;
+  }
+
+  .lift-hover:hover,
+  .kanban-card:hover,
+  .hero-card-stat:hover,
+  .accent-option:hover,
+  .ag-lead:hover,
+  .board-page .bd-member:hover {
+    transform: none;
+  }
+}

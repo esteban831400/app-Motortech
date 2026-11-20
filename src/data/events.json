@@ -1,0 +1,686 @@
+{
+  "events": [
+    {
+      "id": "ev-1",
+      "titre": "Journée banc de puissance",
+      "date": "2026-11-28",
+      "horaire": "9h00 – 17h00",
+      "lieu": "Motortech Toulon · La Garde",
+      "type": "banc",
+      "capacite": 24,
+      "prix": 49,
+      "description": "Passage au banc de puissance avec mesure avant/après, café et viennoiseries offerts. Courbe envoyée par SMS à chaque participant.",
+      "inscrits": [
+        {
+          "nom": "Julien Martin",
+          "vehicule": "Golf 7 GTI",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Romain Giraud",
+          "vehicule": "Clio 4 RS",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Thomas Roux",
+          "vehicule": "RS3 8V",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Maxime Chevalier",
+          "vehicule": "Formentor VZ5",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Antoine Moreau",
+          "vehicule": "Golf 7 R",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Kévin Faure",
+          "vehicule": "Mini JCW",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Mathieu Rousseau",
+          "vehicule": "S3 8V",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Damien Vincent",
+          "vehicule": "Mégane 4 RS",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Alexandre Lefèvre",
+          "vehicule": "GR Yaris",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Yanis Haddad",
+          "vehicule": "Leon Cupra 300",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Hugo Morel",
+          "vehicule": "Golf 8 GTI",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Anthony Colin",
+          "vehicule": "Focus RS Mk3",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Benjamin Henry",
+          "vehicule": "RS3 8Y",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Quentin Barbier",
+          "vehicule": "Giulia Veloce",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Karim Benali",
+          "vehicule": "A45 S",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Nicolas Fabre",
+          "vehicule": "M140i",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Clément Dupuis",
+          "vehicule": "Polo GTI",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Émilie Garnier",
+          "vehicule": "Fiesta ST",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Laura Perrin",
+          "vehicule": "Ceed GT",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Guillaume Bertrand",
+          "vehicule": "Macan S",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Lucas Lambert",
+          "vehicule": "T-Max 560",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Sébastien André",
+          "vehicule": "320d G20",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Marc Masson",
+          "vehicule": "C 220d",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Sophie Bonnet",
+          "vehicule": "308 GT",
+          "statut": "confirme"
+        }
+      ],
+      "attente": [
+        {
+          "nom": "Théo Lopez",
+          "vehicule": "Polo GTI",
+          "statut": "attente"
+        },
+        {
+          "nom": "Ludovic Marchand",
+          "vehicule": "Golf 7 GTD",
+          "statut": "attente"
+        },
+        {
+          "nom": "Inès Carpentier",
+          "vehicule": "208 GTi",
+          "statut": "attente"
+        },
+        {
+          "nom": "Rémi Fontaine",
+          "vehicule": "Megane 3 RS",
+          "statut": "attente"
+        },
+        {
+          "nom": "Samir Ouali",
+          "vehicule": "Golf 7 R",
+          "statut": "attente"
+        },
+        {
+          "nom": "Arnaud Leroy",
+          "vehicule": "M235i",
+          "statut": "attente"
+        },
+        {
+          "nom": "Bastien Roche",
+          "vehicule": "Swift Sport",
+          "statut": "attente"
+        }
+      ],
+      "rappels": [
+        {
+          "label": "Confirmation d'inscription",
+          "canal": "E-mail",
+          "quand": "À l'inscription",
+          "statut": "fait",
+          "n": 24
+        },
+        {
+          "label": "Rappel J-10 + infos pratiques",
+          "canal": "E-mail",
+          "quand": "18 nov.",
+          "statut": "fait",
+          "n": 24
+        },
+        {
+          "label": "Rappel J-1 + horaire de passage",
+          "canal": "SMS",
+          "quand": "27 nov. 18h00",
+          "statut": "planifie",
+          "n": 24
+        },
+        {
+          "label": "Courbe + demande d'avis",
+          "canal": "SMS",
+          "quand": "J+1",
+          "statut": "planifie",
+          "n": 24
+        }
+      ]
+    },
+    {
+      "id": "ev-2",
+      "titre": "Soirée découverte E85",
+      "date": "2026-12-04",
+      "horaire": "18h30 – 21h00",
+      "lieu": "Motortech Toulon · La Garde",
+      "type": "e85",
+      "capacite": 30,
+      "prix": 0,
+      "description": "Présentation de la conversion bioéthanol, simulation d'économies sur votre véhicule et démonstration au banc.",
+      "inscrits": [
+        {
+          "nom": "Laura Perrin",
+          "vehicule": "Ceed GT",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Sophie Bonnet",
+          "vehicule": "308 GT",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Jérémy Mathieu",
+          "vehicule": "Duster",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Clément Dupuis",
+          "vehicule": "Polo GTI",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Émilie Garnier",
+          "vehicule": "Fiesta ST",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Théo Lopez",
+          "vehicule": "Polo GTI",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Nadia Bouchard",
+          "vehicule": "Captur TCe 130",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Patrick Lemoine",
+          "vehicule": "Kuga 1.5 EcoBoost",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Hélène Marchal",
+          "vehicule": "Fabia 1.0 TSI",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Jordan Petit",
+          "vehicule": "Clio 5 TCe",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Vincent Brun",
+          "vehicule": "Golf 7 1.4 TSI",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Cédric Arnaud",
+          "vehicule": "Ibiza 1.0 TSI",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Mélanie Roy",
+          "vehicule": "Juke DIG-T",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Olivier Gaillard",
+          "vehicule": "Focus 1.0 EcoBoost",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Franck Riviere",
+          "vehicule": "3008 PureTech",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Claire Dumont",
+          "vehicule": "Ceed 1.5 T-GDi",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Éric Noel",
+          "vehicule": "A3 35 TFSI",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Thierry Meyer",
+          "vehicule": "Tiguan 1.5 TSI",
+          "statut": "confirme"
+        }
+      ],
+      "attente": [],
+      "rappels": [
+        {
+          "label": "Confirmation d'inscription",
+          "canal": "E-mail",
+          "quand": "À l'inscription",
+          "statut": "fait",
+          "n": 18
+        },
+        {
+          "label": "Rappel J-3 + simulateur E85",
+          "canal": "E-mail",
+          "quand": "1 déc.",
+          "statut": "planifie",
+          "n": 18
+        },
+        {
+          "label": "Rappel J-1",
+          "canal": "SMS",
+          "quand": "3 déc. 17h00",
+          "statut": "planifie",
+          "n": 18
+        }
+      ]
+    },
+    {
+      "id": "ev-3",
+      "titre": "Track Day Circuit du Luc",
+      "date": "2026-12-13",
+      "horaire": "8h30 – 17h30",
+      "lieu": "Circuit du Luc · Le Luc-en-Provence",
+      "type": "circuit",
+      "capacite": 16,
+      "prix": 189,
+      "description": "Journée piste encadrée réservée aux clients Motortech. Contrôle technique des véhicules au centre la veille.",
+      "inscrits": [
+        {
+          "nom": "Thomas Roux",
+          "vehicule": "RS3 8V",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Benjamin Henry",
+          "vehicule": "RS3 8Y",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Karim Benali",
+          "vehicule": "A45 S",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Alexandre Lefèvre",
+          "vehicule": "GR Yaris",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Damien Vincent",
+          "vehicule": "Mégane 4 RS",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Anthony Colin",
+          "vehicule": "Focus RS Mk3",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Antoine Moreau",
+          "vehicule": "Golf 7 R",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Maxime Chevalier",
+          "vehicule": "Formentor VZ5",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Nicolas Fabre",
+          "vehicule": "M140i",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Romain Giraud",
+          "vehicule": "Clio 4 RS",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Yanis Haddad",
+          "vehicule": "Leon Cupra 300",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Quentin Barbier",
+          "vehicule": "Giulia Veloce",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Arnaud Leroy",
+          "vehicule": "M235i",
+          "statut": "confirme"
+        }
+      ],
+      "attente": [],
+      "rappels": [
+        {
+          "label": "Confirmation + règlement",
+          "canal": "E-mail",
+          "quand": "À l'inscription",
+          "statut": "fait",
+          "n": 13
+        },
+        {
+          "label": "Rappel contrôle véhicule J-2",
+          "canal": "SMS",
+          "quand": "11 déc.",
+          "statut": "planifie",
+          "n": 13
+        },
+        {
+          "label": "Rappel J-1 + plan d'accès",
+          "canal": "SMS",
+          "quand": "12 déc. 18h00",
+          "statut": "planifie",
+          "n": 13
+        }
+      ]
+    },
+    {
+      "id": "ev-4",
+      "titre": "Cars & Coffee de Noël",
+      "date": "2026-12-20",
+      "horaire": "9h00 – 12h00",
+      "lieu": "Parking Motortech Toulon",
+      "type": "rassemblement",
+      "capacite": 60,
+      "prix": 0,
+      "description": "Rassemblement convivial au centre : exposition, café offert et tarifs de fin d'année sur les reprogrammations.",
+      "inscrits": [
+        {
+          "nom": "Inscrit 1",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 2",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 3",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 4",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 5",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 6",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 7",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 8",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 9",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 10",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 11",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 12",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 13",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 14",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 15",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 16",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 17",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 18",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 19",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 20",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 21",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 22",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 23",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 24",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 25",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 26",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 27",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 28",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 29",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 30",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 31",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 32",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 33",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 34",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 35",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 36",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 37",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 38",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 39",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 40",
+          "vehicule": "",
+          "statut": "confirme"
+        },
+        {
+          "nom": "Inscrit 41",
+          "vehicule": "",
+          "statut": "confirme"
+        }
+      ],
+      "attente": [],
+      "rappels": [
+        {
+          "label": "Confirmation",
+          "canal": "E-mail",
+          "quand": "À l'inscription",
+          "statut": "fait",
+          "n": 41
+        },
+        {
+          "label": "Rappel J-1 + météo",
+          "canal": "SMS",
+          "quand": "19 déc. 17h00",
+          "statut": "planifie",
+          "n": 41
+        }
+      ]
+    }
+  ],
+  "passes": [
+    {
+      "titre": "Journée banc de puissance",
+      "date": "2026-10-17",
+      "inscrits": 24,
+      "presents": 22,
+      "ca": 3860,
+      "avis": 11
+    },
+    {
+      "titre": "Soirée découverte E85",
+      "date": "2026-09-25",
+      "inscrits": 27,
+      "presents": 23,
+      "ca": 5340,
+      "avis": 8
+    }
+  ]
+}

@@ -1,0 +1,1014 @@
+{
+  "stats": {
+    "envoyesMois": 61,
+    "ouverts": 48,
+    "acceptes": 25,
+    "conversion": 41,
+    "delaiMoyen": "58 s",
+    "caSigne": 17240
+  },
+  "quotes": [
+    {
+      "id": "q-20261100",
+      "numero": "D-2026-1186",
+      "date": "2026-11-19T15:52",
+      "client": "Hugo Morel",
+      "vehicule": "Volkswagen Golf 8 GTI 2.0 TSI 245 ch",
+      "immat": "FZ-903-GG",
+      "km": 36400,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 245,
+        "chApres": 300,
+        "nmAvant": 370,
+        "nmApres": 440
+      },
+      "prix": 590,
+      "statut": "envoye",
+      "ouvertLe": null,
+      "accepteLe": null,
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-21T10:00",
+          "statut": "planifie"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-26T10:00",
+          "statut": "planifie"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-19T15:52",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-19T15:53",
+          "text": "Devis envoyé à H. Morel – Golf 8 GTI Stage 1"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "Golf 8 GTI"
+    },
+    {
+      "id": "q-20261099",
+      "numero": "D-2026-1185",
+      "date": "2026-11-19T13:14",
+      "client": "Yanis Haddad",
+      "vehicule": "Seat Leon Cupra 300 2.0 TSI",
+      "immat": "EY-726-CL",
+      "km": 88600,
+      "prestation": "stage2",
+      "gain": {
+        "chAvant": 300,
+        "chApres": 360,
+        "nmAvant": 380,
+        "nmApres": 470
+      },
+      "prix": 890,
+      "statut": "envoye",
+      "ouvertLe": null,
+      "accepteLe": null,
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-21T10:00",
+          "statut": "planifie"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-26T10:00",
+          "statut": "planifie"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-19T13:14",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-19T13:15",
+          "text": "Devis envoyé à Y. Haddad – Leon Cupra 300 Stage 2"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "Leon Cupra 300"
+    },
+    {
+      "id": "q-20261098",
+      "numero": "D-2026-1184",
+      "date": "2026-11-18T12:57",
+      "client": "Anthony Colin",
+      "vehicule": "Ford Focus RS Mk3 2.3 EcoBoost",
+      "immat": "EL-467-FR",
+      "km": 82100,
+      "prestation": "stage2",
+      "gain": {
+        "chAvant": 350,
+        "chApres": 410,
+        "nmAvant": 470,
+        "nmApres": 560
+      },
+      "prix": 990,
+      "statut": "ouvert",
+      "ouvertLe": "2026-11-18T20:41",
+      "accepteLe": null,
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-20T10:00",
+          "statut": "planifie"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-25T10:00",
+          "statut": "planifie"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-18T12:57",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-18T12:58",
+          "text": "Devis envoyé à A. Colin – Focus RS Mk3 Stage 2"
+        },
+        {
+          "at": "2026-11-18T20:41",
+          "text": "Devis ouvert par le client"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "Focus RS Mk3"
+    },
+    {
+      "id": "q-20261097",
+      "numero": "D-2026-1183",
+      "date": "2026-11-18T10:05",
+      "client": "Alexandre Lefèvre",
+      "vehicule": "Toyota GR Yaris 1.6 Turbo 261 ch",
+      "immat": "FX-650-GR",
+      "km": 33100,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 261,
+        "chApres": 300,
+        "nmAvant": 360,
+        "nmApres": 420
+      },
+      "prix": 650,
+      "statut": "ouvert",
+      "ouvertLe": "2026-11-18T10:32",
+      "accepteLe": null,
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-20T10:00",
+          "statut": "planifie"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-25T10:00",
+          "statut": "planifie"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-18T10:05",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-18T10:06",
+          "text": "Devis envoyé à A. Lefèvre – GR Yaris Stage 1"
+        },
+        {
+          "at": "2026-11-18T10:32",
+          "text": "Devis ouvert par le client"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "GR Yaris"
+    },
+    {
+      "id": "q-20261096",
+      "numero": "D-2026-1182",
+      "date": "2026-11-18T19:09",
+      "client": "Guillaume Bertrand",
+      "vehicule": "Porsche Macan S 3.0 V6",
+      "immat": "FM-512-PM",
+      "km": 69900,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 354,
+        "chApres": 420,
+        "nmAvant": 480,
+        "nmApres": 580
+      },
+      "prix": 890,
+      "statut": "envoye",
+      "ouvertLe": null,
+      "accepteLe": null,
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-20T10:00",
+          "statut": "planifie"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-25T10:00",
+          "statut": "planifie"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-18T19:09",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-18T19:10",
+          "text": "Devis envoyé à G. Bertrand – Macan S Stage 1"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "Macan S"
+    },
+    {
+      "id": "q-20261095",
+      "numero": "D-2026-1181",
+      "date": "2026-11-15T10:22",
+      "client": "Laura Perrin",
+      "vehicule": "Kia Ceed GT 1.6 T-GDi 204 ch",
+      "immat": "FB-388-KG",
+      "km": 70300,
+      "prestation": "e85",
+      "gain": {
+        "chAvant": 204,
+        "chApres": 226,
+        "nmAvant": 265,
+        "nmApres": 310
+      },
+      "prix": 990,
+      "statut": "relance",
+      "ouvertLe": "2026-11-15T18:03",
+      "accepteLe": null,
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-17T10:00",
+          "statut": "fait"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-22T10:00",
+          "statut": "planifie"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-15T10:22",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-15T10:23",
+          "text": "Devis envoyé à L. Perrin – Ceed GT E85"
+        },
+        {
+          "at": "2026-11-15T18:03",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-11-17T10:00",
+          "text": "Relance J+2 envoyée (SMS)"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "Ceed GT"
+    },
+    {
+      "id": "q-20261094",
+      "numero": "D-2026-1180",
+      "date": "2026-11-12T16:40",
+      "client": "Damien Vincent",
+      "vehicule": "Renault Mégane 4 RS Trophy 300",
+      "immat": "FR-415-MR",
+      "km": 42900,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 300,
+        "chApres": 340,
+        "nmAvant": 420,
+        "nmApres": 480
+      },
+      "prix": 690,
+      "statut": "relance",
+      "ouvertLe": "2026-11-13T08:12",
+      "accepteLe": null,
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-14T10:00",
+          "statut": "fait"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-19T10:00",
+          "statut": "fait"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-12T16:40",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-12T16:41",
+          "text": "Devis envoyé à D. Vincent – Mégane 4 RS Trophy 300 Stage 1"
+        },
+        {
+          "at": "2026-11-13T08:12",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-11-14T10:00",
+          "text": "Relance J+2 envoyée (SMS)"
+        },
+        {
+          "at": "2026-11-19T10:00",
+          "text": "Relance J+7 envoyée (E-mail + SMS)"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "Mégane 4 RS Trophy 300"
+    },
+    {
+      "id": "q-20261093",
+      "numero": "D-2026-1179",
+      "date": "2026-11-12T11:20",
+      "client": "Maxime Chevalier",
+      "vehicule": "Cupra Formentor VZ5 2.5 TSI",
+      "immat": "GK-845-VZ",
+      "km": 21800,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 390,
+        "chApres": 450,
+        "nmAvant": 480,
+        "nmApres": 580
+      },
+      "prix": 690,
+      "statut": "accepte",
+      "ouvertLe": "2026-11-12T12:02",
+      "accepteLe": "2026-11-19T10:04",
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-14T10:00",
+          "statut": "fait"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-19T10:00",
+          "statut": "annule"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-12T11:20",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-12T11:21",
+          "text": "Devis envoyé à M. Chevalier – Formentor VZ5 Stage 1"
+        },
+        {
+          "at": "2026-11-12T12:02",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-11-14T10:00",
+          "text": "Relance J+2 envoyée (SMS)"
+        },
+        {
+          "at": "2026-11-19T10:04",
+          "text": "Devis accepté – RDV proposé automatiquement"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "Formentor VZ5"
+    },
+    {
+      "id": "q-20261092",
+      "numero": "D-2026-1178",
+      "date": "2026-11-10T09:15",
+      "client": "Julien Martin",
+      "vehicule": "Volkswagen Golf 7 GTI 2.0 TSI 230 ch",
+      "immat": "GE-482-PL",
+      "km": 98400,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 230,
+        "chApres": 290,
+        "nmAvant": 350,
+        "nmApres": 420
+      },
+      "prix": 590,
+      "statut": "accepte",
+      "ouvertLe": "2026-11-10T09:48",
+      "accepteLe": "2026-11-11T18:30",
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-12T10:00",
+          "statut": "annule"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-17T10:00",
+          "statut": "annule"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-10T09:15",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-10T09:16",
+          "text": "Devis envoyé à J. Martin – Golf 7 GTI Stage 1"
+        },
+        {
+          "at": "2026-11-10T09:48",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-11-11T18:30",
+          "text": "Devis accepté – RDV proposé automatiquement"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "Golf 7 GTI"
+    },
+    {
+      "id": "q-20261091",
+      "numero": "D-2026-1177",
+      "date": "2026-11-09T15:30",
+      "client": "Karim Benali",
+      "vehicule": "Mercedes-AMG A45 S 4Matic+",
+      "immat": "FY-120-AM",
+      "km": 38700,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 421,
+        "chApres": 470,
+        "nmAvant": 500,
+        "nmApres": 580
+      },
+      "prix": 790,
+      "statut": "accepte",
+      "ouvertLe": "2026-11-09T16:02",
+      "accepteLe": "2026-11-16T16:01",
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-11T10:00",
+          "statut": "fait"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-16T10:00",
+          "statut": "fait"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-09T15:30",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-09T15:31",
+          "text": "Devis envoyé à K. Benali – A45 S 4Matic+ Stage 1"
+        },
+        {
+          "at": "2026-11-09T16:02",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-11-11T10:00",
+          "text": "Relance J+2 envoyée (SMS)"
+        },
+        {
+          "at": "2026-11-16T10:00",
+          "text": "Relance J+7 envoyée (E-mail + SMS)"
+        },
+        {
+          "at": "2026-11-16T16:01",
+          "text": "Devis accepté – RDV proposé automatiquement"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "A45 S 4Matic+"
+    },
+    {
+      "id": "q-20261090",
+      "numero": "D-2026-1176",
+      "date": "2026-11-08T11:00",
+      "client": "Clément Dupuis",
+      "vehicule": "Volkswagen Polo GTI 2.0 TSI 207 ch",
+      "immat": "FC-781-PG",
+      "km": 61700,
+      "prestation": "e85",
+      "gain": {
+        "chAvant": 207,
+        "chApres": 230,
+        "nmAvant": 320,
+        "nmApres": 380
+      },
+      "prix": 890,
+      "statut": "accepte",
+      "ouvertLe": "2026-11-08T13:20",
+      "accepteLe": "2026-11-16T08:55",
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-10T10:00",
+          "statut": "fait"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-15T10:00",
+          "statut": "fait"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-08T11:00",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-08T11:01",
+          "text": "Devis envoyé à C. Dupuis – Polo GTI E85"
+        },
+        {
+          "at": "2026-11-08T13:20",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-11-10T10:00",
+          "text": "Relance J+2 envoyée (SMS)"
+        },
+        {
+          "at": "2026-11-15T10:00",
+          "text": "Relance J+7 envoyée (E-mail + SMS)"
+        },
+        {
+          "at": "2026-11-16T08:55",
+          "text": "Devis accepté – RDV proposé automatiquement"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "Polo GTI"
+    },
+    {
+      "id": "q-20261089",
+      "numero": "D-2026-1175",
+      "date": "2026-11-05T17:44",
+      "client": "Nicolas Fabre",
+      "vehicule": "BMW M140i xDrive 3.0 B58",
+      "immat": "EV-604-MN",
+      "km": 87500,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 340,
+        "chApres": 400,
+        "nmAvant": 500,
+        "nmApres": 580
+      },
+      "prix": 690,
+      "statut": "accepte",
+      "ouvertLe": "2026-11-05T18:10",
+      "accepteLe": "2026-11-06T09:22",
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-07T10:00",
+          "statut": "annule"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-12T10:00",
+          "statut": "annule"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-05T17:44",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-05T17:45",
+          "text": "Devis envoyé à N. Fabre – M140i xDrive Stage 1"
+        },
+        {
+          "at": "2026-11-05T18:10",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-11-06T09:22",
+          "text": "Devis accepté – RDV proposé automatiquement"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "M140i xDrive"
+    },
+    {
+      "id": "q-20261088",
+      "numero": "D-2026-1174",
+      "date": "2026-11-04T10:12",
+      "client": "Mathieu Rousseau",
+      "vehicule": "Audi S3 Sportback 8V 2.0 TFSI",
+      "immat": "EH-337-SS",
+      "km": 91400,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 310,
+        "chApres": 360,
+        "nmAvant": 400,
+        "nmApres": 480
+      },
+      "prix": 590,
+      "statut": "relance",
+      "ouvertLe": "2026-11-04T12:30",
+      "accepteLe": null,
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-06T10:00",
+          "statut": "fait"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-11T10:00",
+          "statut": "fait"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-04T10:12",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-04T10:13",
+          "text": "Devis envoyé à M. Rousseau – S3 Sportback 8V Stage 1"
+        },
+        {
+          "at": "2026-11-04T12:30",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-11-06T10:00",
+          "text": "Relance J+2 envoyée (SMS)"
+        },
+        {
+          "at": "2026-11-11T10:00",
+          "text": "Relance J+7 envoyée (E-mail + SMS)"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "S3 Sportback 8V"
+    },
+    {
+      "id": "q-20261087",
+      "numero": "D-2026-1173",
+      "date": "2026-11-03T08:40",
+      "client": "Pierre Blanc",
+      "vehicule": "Peugeot 308 GT 2.0 BlueHDi 180",
+      "immat": "EN-904-GT",
+      "km": 168200,
+      "prestation": "fap",
+      "gain": null,
+      "prix": 340,
+      "statut": "accepte",
+      "ouvertLe": "2026-11-03T09:05",
+      "accepteLe": "2026-11-04T11:00",
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-05T10:00",
+          "statut": "annule"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-10T10:00",
+          "statut": "annule"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-03T08:40",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-03T08:41",
+          "text": "Devis envoyé à P. Blanc – 308 GT nettoyage FAP"
+        },
+        {
+          "at": "2026-11-03T09:05",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-11-04T11:00",
+          "text": "Devis accepté – RDV proposé automatiquement"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "308 GT"
+    },
+    {
+      "id": "q-20261086",
+      "numero": "D-2026-1172",
+      "date": "2026-11-02T14:25",
+      "client": "Kévin Faure",
+      "vehicule": "Mini John Cooper Works 2.0 Turbo",
+      "immat": "FK-668-JC",
+      "km": 47600,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 231,
+        "chApres": 270,
+        "nmAvant": 320,
+        "nmApres": 400
+      },
+      "prix": 590,
+      "statut": "relance",
+      "ouvertLe": null,
+      "accepteLe": null,
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-04T10:00",
+          "statut": "fait"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-09T10:00",
+          "statut": "fait"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-11-02T14:25",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-11-02T14:26",
+          "text": "Devis envoyé à K. Faure – John Cooper Works Stage 1"
+        },
+        {
+          "at": "2026-11-04T10:00",
+          "text": "Relance J+2 envoyée (SMS)"
+        },
+        {
+          "at": "2026-11-09T10:00",
+          "text": "Relance J+7 envoyée (E-mail + SMS)"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "John Cooper Works"
+    },
+    {
+      "id": "q-20261085",
+      "numero": "D-2026-1171",
+      "date": "2026-10-30T09:50",
+      "client": "Jérémy Mathieu",
+      "vehicule": "Dacia Duster 1.3 TCe 150 ch",
+      "immat": "GD-114-DU",
+      "km": 41200,
+      "prestation": "e85",
+      "gain": {
+        "chAvant": 150,
+        "chApres": 160,
+        "nmAvant": 250,
+        "nmApres": 270
+      },
+      "prix": 790,
+      "statut": "accepte",
+      "ouvertLe": "2026-10-30T10:11",
+      "accepteLe": "2026-11-02T17:45",
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-11-01T10:00",
+          "statut": "fait"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-06T10:00",
+          "statut": "annule"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-10-30T09:50",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-10-30T09:51",
+          "text": "Devis envoyé à J. Mathieu – Duster E85"
+        },
+        {
+          "at": "2026-10-30T10:11",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-11-01T10:00",
+          "text": "Relance J+2 envoyée (SMS)"
+        },
+        {
+          "at": "2026-11-02T17:45",
+          "text": "Devis accepté – RDV proposé automatiquement"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "Duster"
+    },
+    {
+      "id": "q-20261084",
+      "numero": "D-2026-1170",
+      "date": "2026-10-29T16:00",
+      "client": "Nathalie Gauthier",
+      "vehicule": "Peugeot 3008 1.5 BlueHDi 130",
+      "immat": "FE-835-PJ",
+      "km": 143800,
+      "prestation": "fap",
+      "gain": null,
+      "prix": 320,
+      "statut": "relance",
+      "ouvertLe": "2026-10-30T07:58",
+      "accepteLe": null,
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-10-31T10:00",
+          "statut": "fait"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-05T10:00",
+          "statut": "fait"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-10-29T16:00",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-10-29T16:01",
+          "text": "Devis envoyé à N. Gauthier – 3008 nettoyage FAP"
+        },
+        {
+          "at": "2026-10-30T07:58",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-10-31T10:00",
+          "text": "Relance J+2 envoyée (SMS)"
+        },
+        {
+          "at": "2026-11-05T10:00",
+          "text": "Relance J+7 envoyée (E-mail + SMS)"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "3008"
+    },
+    {
+      "id": "q-20261083",
+      "numero": "D-2026-1169",
+      "date": "2026-10-27T18:20",
+      "client": "Lucas Lambert",
+      "vehicule": "Yamaha T-Max 560 Tech Max",
+      "immat": "GB-077-ZL",
+      "km": 14300,
+      "prestation": "stage1",
+      "gain": {
+        "chAvant": 47,
+        "chApres": 52,
+        "nmAvant": 56,
+        "nmApres": 61
+      },
+      "prix": 349,
+      "statut": "accepte",
+      "ouvertLe": "2026-10-27T18:44",
+      "accepteLe": "2026-10-29T10:12",
+      "relances": [
+        {
+          "etape": "J+2",
+          "label": "Relance douce + lien d'acceptation",
+          "canal": "SMS",
+          "date": "2026-10-29T10:00",
+          "statut": "annule"
+        },
+        {
+          "etape": "J+7",
+          "label": "Relance avec avis clients et créneaux libres",
+          "canal": "E-mail + SMS",
+          "date": "2026-11-03T10:00",
+          "statut": "annule"
+        }
+      ],
+      "historique": [
+        {
+          "at": "2026-10-27T18:20",
+          "text": "Demande reçue via le formulaire motortech.fr"
+        },
+        {
+          "at": "2026-10-27T18:21",
+          "text": "Devis envoyé à L. Lambert – T-Max 560 Stage 1"
+        },
+        {
+          "at": "2026-10-27T18:44",
+          "text": "Devis ouvert par le client"
+        },
+        {
+          "at": "2026-10-29T10:12",
+          "text": "Devis accepté – RDV proposé automatiquement"
+        }
+      ],
+      "source": "Formulaire motortech.fr",
+      "modele": "T-Max 560"
+    }
+  ]
+}

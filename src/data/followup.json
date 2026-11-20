@@ -1,0 +1,308 @@
+{
+  "stats": {
+    "note": 4.9,
+    "avis": 412,
+    "avisTrimestre": 38,
+    "tauxReponse": 46,
+    "courbesMois": 54,
+    "rappelsMois": 87
+  },
+  "avisSerie": [
+    {
+      "key": "2025-12",
+      "label": "déc.",
+      "total": 298,
+      "nouveaux": 6
+    },
+    {
+      "key": "2026-01",
+      "label": "janv.",
+      "total": 305,
+      "nouveaux": 7
+    },
+    {
+      "key": "2026-02",
+      "label": "févr.",
+      "total": 313,
+      "nouveaux": 8
+    },
+    {
+      "key": "2026-03",
+      "label": "mars",
+      "total": 322,
+      "nouveaux": 9
+    },
+    {
+      "key": "2026-04",
+      "label": "avr.",
+      "total": 334,
+      "nouveaux": 12
+    },
+    {
+      "key": "2026-05",
+      "label": "mai",
+      "total": 346,
+      "nouveaux": 12
+    },
+    {
+      "key": "2026-06",
+      "label": "juin",
+      "total": 357,
+      "nouveaux": 11
+    },
+    {
+      "key": "2026-07",
+      "label": "juil.",
+      "total": 368,
+      "nouveaux": 11
+    },
+    {
+      "key": "2026-08",
+      "label": "août",
+      "total": 374,
+      "nouveaux": 6
+    },
+    {
+      "key": "2026-09",
+      "label": "sept.",
+      "total": 386,
+      "nouveaux": 12,
+      "auto": true
+    },
+    {
+      "key": "2026-10",
+      "label": "oct.",
+      "total": 399,
+      "nouveaux": 13,
+      "auto": true
+    },
+    {
+      "key": "2026-11",
+      "label": "nov.",
+      "total": 412,
+      "nouveaux": 13,
+      "auto": true
+    }
+  ],
+  "courbes": [
+    {
+      "id": "dyno-1",
+      "at": "2026-11-19T16:38",
+      "client": "Émilie Garnier",
+      "tel": "07 52 13 48 69",
+      "vehicule": "Ford Fiesta ST 1.5 EcoBoost",
+      "prestation": "e85",
+      "chAvant": 200,
+      "chApres": 231,
+      "nmAvant": 290,
+      "nmApres": 362,
+      "rpmMax": 6250,
+      "statut": "ouverte",
+      "avis": "programmee",
+      "avisLe": "2026-11-21T10:00"
+    },
+    {
+      "id": "dyno-2",
+      "at": "2026-11-19T10:12",
+      "client": "Nicolas Fabre",
+      "tel": "06 24 70 15 38",
+      "vehicule": "BMW M140i xDrive",
+      "prestation": "stage1",
+      "chAvant": 338,
+      "chApres": 402,
+      "nmAvant": 502,
+      "nmApres": 578,
+      "rpmMax": 6800,
+      "statut": "envoyee",
+      "avis": "programmee",
+      "avisLe": "2026-11-21T10:00"
+    },
+    {
+      "id": "dyno-3",
+      "at": "2026-11-17T17:20",
+      "client": "Florian Girard",
+      "tel": "06 77 48 30 12",
+      "vehicule": "Renault Trafic III dCi 145",
+      "prestation": "fap",
+      "chAvant": 121,
+      "chApres": 144,
+      "nmAvant": 298,
+      "nmApres": 352,
+      "rpmMax": 4200,
+      "statut": "ouverte",
+      "avis": "laisse",
+      "note": 5
+    },
+    {
+      "id": "dyno-4",
+      "at": "2026-11-14T16:05",
+      "client": "Maxime Chevalier",
+      "tel": "06 31 84 62 75",
+      "vehicule": "Cupra Formentor VZ5",
+      "prestation": "stage1",
+      "chAvant": 392,
+      "chApres": 453,
+      "nmAvant": 481,
+      "nmApres": 584,
+      "rpmMax": 7000,
+      "statut": "ouverte",
+      "avis": "laisse",
+      "note": 5
+    },
+    {
+      "id": "dyno-5",
+      "at": "2026-11-13T11:40",
+      "client": "Jérémy Mathieu",
+      "tel": "06 92 37 04 51",
+      "vehicule": "Dacia Duster 1.3 TCe 150",
+      "prestation": "e85",
+      "chAvant": 149,
+      "chApres": 161,
+      "nmAvant": 248,
+      "nmApres": 272,
+      "rpmMax": 6000,
+      "statut": "ouverte",
+      "avis": "relance"
+    },
+    {
+      "id": "dyno-6",
+      "at": "2026-11-10T15:30",
+      "client": "Lucas Lambert",
+      "tel": "06 45 27 90 16",
+      "vehicule": "Yamaha T-Max 560 Tech Max",
+      "prestation": "stage1",
+      "chAvant": 46,
+      "chApres": 52,
+      "nmAvant": 55,
+      "nmApres": 61,
+      "rpmMax": 8000,
+      "statut": "ouverte",
+      "avis": "laisse",
+      "note": 5
+    },
+    {
+      "id": "dyno-7",
+      "at": "2026-11-06T17:10",
+      "client": "Karim Benali",
+      "tel": "07 66 09 81 42",
+      "vehicule": "Mercedes-AMG A45 S 4Matic+",
+      "prestation": "stage1",
+      "chAvant": 419,
+      "chApres": 471,
+      "nmAvant": 498,
+      "nmApres": 583,
+      "rpmMax": 7200,
+      "statut": "ouverte",
+      "avis": "laisse",
+      "note": 4
+    }
+  ],
+  "rappels": [
+    {
+      "client": "Laura Perrin",
+      "vehicule": "Kia Ceed GT – E85",
+      "type": "Remplacement filtre à essence (E85 · 15 000 km)",
+      "echeance": "2026-11-20",
+      "canal": "SMS",
+      "statut": "rdv",
+      "e85": true
+    },
+    {
+      "client": "Sophie Bonnet",
+      "vehicule": "Peugeot 308 GT – E85",
+      "type": "Contrôle bougies + lecture adaptation éthanol",
+      "echeance": "2026-11-24",
+      "canal": "SMS",
+      "statut": "envoye",
+      "e85": true
+    },
+    {
+      "client": "Clément Dupuis",
+      "vehicule": "Volkswagen Polo GTI – E85",
+      "type": "Contrôle J+30 après conversion",
+      "echeance": "2026-12-24",
+      "canal": "SMS",
+      "statut": "planifie",
+      "e85": true
+    },
+    {
+      "client": "Thomas Roux",
+      "vehicule": "Audi RS3 8V – Stage 2",
+      "type": "Vidange 5 000 km après Stage 2",
+      "echeance": "2026-11-27",
+      "canal": "E-mail",
+      "statut": "planifie",
+      "e85": false
+    },
+    {
+      "client": "Jérémy Mathieu",
+      "vehicule": "Dacia Duster – E85",
+      "type": "Remplacement filtre à essence (E85 · 15 000 km)",
+      "echeance": "2026-12-02",
+      "canal": "SMS",
+      "statut": "planifie",
+      "e85": true
+    },
+    {
+      "client": "Pierre Blanc",
+      "vehicule": "Peugeot 308 GT BlueHDi",
+      "type": "Appoint additif FAP Eolys",
+      "echeance": "2026-12-05",
+      "canal": "SMS",
+      "statut": "planifie",
+      "e85": false
+    },
+    {
+      "client": "Damien Vincent",
+      "vehicule": "Renault Mégane 4 RS",
+      "type": "Vidange annuelle (huile 5W40)",
+      "echeance": "2026-11-22",
+      "canal": "E-mail",
+      "statut": "envoye",
+      "e85": false
+    },
+    {
+      "client": "Émilie Garnier",
+      "vehicule": "Ford Fiesta ST – E85",
+      "type": "Contrôle J+30 après conversion",
+      "echeance": "2026-12-19",
+      "canal": "SMS",
+      "statut": "planifie",
+      "e85": true
+    }
+  ],
+  "avisRecents": [
+    {
+      "auteur": "Florian G.",
+      "note": 5,
+      "date": "2026-11-18",
+      "texte": "Utilitaire qui ne tirait plus, FAP colmaté. Nettoyé et rendu dans la journée, avec la courbe du banc en prime. Je recommande pour les pros.",
+      "reponse": "Merci Florian ! Content que le Trafic ait retrouvé ses chevaux. À bientôt chez Motortech Toulon.",
+      "reponseIA": true
+    },
+    {
+      "auteur": "Maxime C.",
+      "note": 5,
+      "date": "2026-11-16",
+      "texte": "Stage 1 sur mon Formentor VZ5, 453 ch au banc. Accueil top, explications claires et voiture rendue nickel.",
+      "reponse": "Merci Maxime, 453 ch c'est du sérieux ! Profitez-en bien et à bientôt.",
+      "reponseIA": true
+    },
+    {
+      "auteur": "Lucas L.",
+      "note": 5,
+      "date": "2026-11-12",
+      "texte": "T-Max reprogrammé, la différence se sent dès le départ arrêté. Le banc avant/après envoyé par SMS c'est un vrai plus.",
+      "reponse": "Merci Lucas ! Les deux-roues aussi méritent leur passage au banc.",
+      "reponseIA": true
+    },
+    {
+      "auteur": "Karim B.",
+      "note": 4,
+      "date": "2026-11-08",
+      "texte": "Très bon travail sur l'A45 S. Juste un peu d'attente le matin du rendez-vous, sinon rien à dire.",
+      "reponse": "Merci Karim pour votre retour. Nous avons revu l'organisation des réceptions du matin pour éviter l'attente.",
+      "reponseIA": false
+    }
+  ]
+}
